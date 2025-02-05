@@ -1,0 +1,1760 @@
+headword	token	lemma	english	dice	ppmi	label	cluster
+бедро_NOUN	женский	женский_ADJ	feminine	0.000503144654088	2.33237539682	Size and shape	0
+бедро_NOUN	крутой	крутой_ADJ	curvaceous	0.00407747196738	4.56990389618	Size and shape	0
+бедро_NOUN	мальчишеский	мальчишеский_ADJ	boyish	0.00105977108944	4.25551512543	Size and shape	0
+бедро_NOUN	округлый	округлый_ADJ	rounded	0.00161355385236	4.55273831319	Size and shape	0
+бедро_NOUN	полный	полный_ADJ	full	0.000172177132007	1.16134209689	Size and shape	0
+бедро_NOUN	тяжелый	тяжелый_ADJ	heavy	0.000165629945894	1.15456969481	Size and shape	0
+бедро_NOUN	узкий	узкий_ADJ	narrow	0.00233090530697	3.88811693849	Size and shape	0
+бедро_NOUN	худой	худой_ADJ	bony	0.000330054789095	2.0366106525	Size and shape	0
+бедро_NOUN	широкий	широкий_ADJ	broad	0.0014793331322	3.34807327353	Size and shape	0
+бок_NOUN	округлый	округлый_ADJ	round	0.000428591837707	2.93786846254	Size and shape	0
+бок_NOUN	полный	полный_ADJ	full	0.0	0.0	Size and shape	0
+бок_NOUN	худой	худой_ADJ	bony	0.000288554023726	0.0	Size and shape	0
+бок_NOUN	широкий	широкий_ADJ	broad	0.00040050136838	0.0	Size and shape	0
+борода_NOUN	ассирийская	ассирийский_ADJ	a large, curly beard, like an Assyrian's	0.00134427621339	5.63406606359	Size and shape; aesthetics	0
+борода_NOUN	белая	белый_ADJ	a white beard	0.00210709498389	2.38193950284	Color (natural and dyed)	1
+борода_NOUN	белоснежная	белоснежный_ADJ	a snow-white beard	0.000504700018926	2.87334995208	Color (natural and dyed)	1
+борода_NOUN	благообразная	благообразный_ADJ	a distinguished beard	0.0004086636698	3.44976866404	Size and shape; aesthetics	0
+борода_NOUN	большая	больший_ADJ	a large beard	0.0	0.0	Size and shape; aesthetics	0
+борода_NOUN	всклокоченная	всклокочивать_VERB	a disheveled beard	0.00393347595059	5.95506283879	Growing, wearing, and tending a beard	3
+борода_NOUN	грязная	грязный_ADJ	a dirty beard	0.000374028800218	1.1492248352	Growing, wearing, and tending a beard	3
+борода_NOUN	густая	густой_ADJ	a thick beard	0.00389416660124	3.4264967791	Thickness and tactile properties	2
+борода_NOUN	длинная	длинный_ADJ	a long beard	0.00505815264667	3.37030238887	Size and shape; aesthetics	0
+борода_NOUN	жалкая	жалкий_ADJ	a pathetic beard	0.0	0.0	Size and shape; aesthetics	0
+борода_NOUN	жёсткая	жесткий_ADJ	a stiff, wiry beard	0.000857913228205	2.17645073084	Thickness and tactile properties	2
+борода_NOUN	жидкая	жидкий_ADJ	a scraggly beard,	0.0010384986277	2.68688510299	Thickness and tactile properties	2
+борода_NOUN	заиндевевшая	заиндеветь_VERB	a beard covered with frost	0.000639272649785	5.08880452609	Other visible properties and conditions	4
+борода_NOUN	заиндевелая	заиндевелый_ADJ	a beard covered with frost	0.000285571499964	4.61798217966	Other visible properties and conditions	4
+борода_NOUN	запущенная	запущенный_ADJ	a neglected beard	0.000595967288018	3.45467400106	Growing, wearing, and tending a beard	3
+борода_NOUN	золотистая	золотистый_ADJ	a golden beard	0.00118220777302	3.36578594397	Color (natural and dyed)	1
+борода_NOUN	клочковатая	клочковатый_ADJ	a ragged beard	0.0013535173642	6.01672888082	Growing, wearing, and tending a beard	3
+борода_NOUN	козлиная	козлиный_ADJ	a goatish beard	0.00397392547147	6.20778411758	Size and shape; aesthetics	0
+борода_NOUN	колючая	колючий_ADJ	a prickly beard	0.000624343729602	2.56331051341	Thickness and tactile properties	2
+борода_NOUN	короткая	короткий_ADJ	a short beard	0.000715771579395	1.53299394197	Size and shape; aesthetics	0
+борода_NOUN	косматая	косматый_ADJ	a shaggy beard	0.00225479143179	4.80167110981	Growing, wearing, and tending a beard	3
+борода_NOUN	красивая	красивый_ADJ	a handsome beard	0.000507802581981	1.13446833083	Size and shape; aesthetics	0
+борода_NOUN	крашеная	крашеный_ADJ	a dyed beard	0.000663614042073	3.58593753898	Color (natural and dyed)	1
+борода_NOUN	курчавая	курчавый_ADJ	a curly beard	0.00482241772564	5.38623315766	Size and shape; aesthetics	0
+борода_NOUN	маленькая	маленький_ADJ	a small beard	0.000134857869438	0.0	Size and shape; aesthetics	0
+борода_NOUN	мягкая	мягкий_ADJ	a soft beard	0.000503129763085	1.33683669453	Thickness and tactile properties	2
+борода_NOUN	надушенная	надушить_VERB	a scented beard	0.000491210834708	4.3106641327	Growing, wearing, and tending a beard	3
+борода_NOUN	небольшая	небольшой_ADJ	a small beard	0.000710902305023	1.39650351284	Size and shape; aesthetics	0
+борода_NOUN	неопрятная	неопрятный_ADJ	a messy beard	0.000415742793792	3.79734162873	Growing, wearing, and tending a beard	3
+борода_NOUN	неряшливая	неряшливый_ADJ	a messy beard	0.000685776985324	4.08552257872	Growing, wearing, and tending a beard	3
+борода_NOUN	неухоженная	неухоженный_ADJ	a unkempt beard	0.000142943930243	4.01675151049	Growing, wearing, and tending a beard	3
+борода_NOUN	огненная	огненный_ADJ	a fiery red beard	0.000502878982173	1.99895413193	Color (natural and dyed)	1
+борода_NOUN	огромная	огромный_ADJ	a huge beard	0.00046329338993	0.0	Size and shape; aesthetics	0
+борода_NOUN	окладистая	окладистый_ADJ	a full beard, a thick beard	0.0167689878969	7.83646693281	Size and shape; aesthetics	0
+борода_NOUN	округлая	округлый_ADJ	a round beard	0.000130352603793	1.77663668557	Size and shape; aesthetics	0
+борода_NOUN	помятая	помятый_ADJ	a crushed, crumpled beard	6.79948323927e-05	1.62907199056	Growing, wearing, and tending a beard	3
+борода_NOUN	пушистая	пушистый_ADJ	a fluffy beard	0.000964959893854	3.25805942484	Thickness and tactile properties	2
+борода_NOUN	пышная	пышный_ADJ	a lush beard	0.00210143256195	3.47387424991	Thickness and tactile properties	2
+борода_NOUN	редкая	редкий_ADJ	a sparse beard	0.00120064650196	2.23486168312	Thickness and tactile properties	2
+борода_NOUN	роскошная	роскошный_ADJ	a luxuriant beard	0.000636630754163	2.1767253003	Size and shape; aesthetics	0
+борода_NOUN	русая	русый_ADJ	a light-brown beard	0.00826092277567	5.48164801017	Color (natural and dyed)	1
+борода_NOUN	рыжая	рыжий_ADJ	a red beard	0.0154817196618	5.03325772865	Color (natural and dyed)	1
+борода_NOUN	светлая	светлый_ADJ	a light beard, a blond beard	0.00100965645792	1.95011254789	Color (natural and dyed)	1
+борода_NOUN	светло-русая	светло-русый_ADJ	a fair beard, a very light brown beard	0.00099835983741	5.78396987081	Color (natural and dyed)	1
+борода_NOUN	седая	седой_ADJ	a grey beard	0.0293077108627	5.68708512835	Color (natural and dyed)	1
+борода_NOUN	седобородый	седобородый_ADJ	having a grey beard	7.0731362286e-05	2.67653360767	Color (natural and dyed)	1
+борода_NOUN	серебряная	серебряный_ADJ	a silver beard	0.001548415639	2.6476102286	Color (natural and dyed)	1
+борода_NOUN	сивая	сивый_ADJ	a beard streaked with grey	0.00366794698779	5.94719533579	Color (natural and dyed)	1
+борода_NOUN	спутанная	спутывать_VERB	a tangled beard	0.00119658657934	3.72482868793	Growing, wearing, and tending a beard	3
+борода_NOUN	тёмная	темный_ADJ	a dark beard	0.00108186394688	1.85213273795	Color (natural and dyed)	1
+борода_NOUN	тёмно-русая	темно-русый_ADJ	a medium-brown beard	0.00176728403789	5.86972583781	Color (natural and dyed)	1
+борода_NOUN	тощая	тощий_ADJ	a sparse beard	0.000114544257037	0.0	Thickness and tactile properties	2
+борода_NOUN	узкая	узкий_ADJ	a narrow beard	0.000755594303981	1.73105451928	Size and shape; aesthetics	0
+борода_NOUN	французская	французский_ADJ	a small, neat, "French" beard	0.0	0.0	Size and shape; aesthetics	0
+борода_NOUN	холёная	холеный_ADJ	a well-kept beard	0.00116902764407	4.67084662144	Growing, wearing, and tending a beard	3
+борода_NOUN	чёрная	черный_ADJ	a black beard	0.00603302027466	3.43979808385	Color (natural and dyed)	1
+борода_NOUN	шелковистая	шелковистый_ADJ	a silky beard	0.000624284673811	4.22891348268	Thickness and tactile properties	2
+борода_NOUN	широкая	широкий_ADJ	a wide beard, a full beard	0.00132773095637	2.03425191401	Size and shape; aesthetics	0
+бровь_NOUN	белесый	белесый_ADJ	pale, whitish	0.00455614344503	5.34785508583	Color (natural, dyed, and sun-bleached)	1
+бровь_NOUN	выгоревший	выгорать_VERB	sun-bleached	0.00126662444585	4.18604451173	Color (natural, dyed, and sun-bleached)	1
+бровь_NOUN	высокий	высокий_ADJ	high	0.000198636690183	0.0	Size and shape; aesthetics	0
+бровь_NOUN	выцветший	выцветший_ADJ	eyebrows that lost their color (from age or exposure to sun)	0.000771932533097	4.09183645017	Color (natural, dyed, and sun-bleached)	1
+бровь_NOUN	выщипанный	выщипывать_VERB	plucked	0.00315342631898	6.61678430194	Size and shape; aesthetics	0
+бровь_NOUN	густой	густой_ADJ	thick	0.0165044997177	4.94839344409	Size and shape; aesthetics	0
+бровь_NOUN	длинный	длинный_ADJ	long	0.000646246385577	1.41805925359	Size and shape; aesthetics	0
+бровь_NOUN	короткий	короткий_ADJ	short	0.000209411901576	0.0	Size and shape; aestheticst	2
+бровь_NOUN	косматый	косматый_ADJ	shaggy	0.00412000449455	5.41623197493	Size and shape; aesthetics	0
+бровь_NOUN	красивый	красивый_ADJ	beautiful	0.000646837067807	1.47569590011	Size and shape; aesthetics	0
+бровь_NOUN	крашеный	крашеный_ADJ	made-up, dyed	0.000299861314142	2.80323501161	Color (natural, dyed, and sun-bleached)	1
+бровь_NOUN	кустистый	кустистый_ADJ	bushy	0.00554581413367	7.67981066202	Size and shape; aesthetics	0
+бровь_NOUN	летящий	лететь_VERB	wing-like eyebrows, long eyebrows slanting up towards the temples	0.000134388281342	0.0	Size and shape; aesthetics	0
+бровь_NOUN	нависший	нависать_VERB	beetle brows, thick and protruding eyebrows	0.0125865324103	5.78108841987	Size and shape; aesthetics	0
+бровь_NOUN	нарисованный	нарисовать_VERB	perfect eyebrows (lit. "eyebrows which look as if an artist drew them")	0.00142274754439	3.06867222043	Size and shape; aesthetics	0
+бровь_NOUN	насупленный	насупливать_VERB	knitted eyebrows, frowning eyebrows	0.0202537631019	7.71094603641	Movements that express emotional or psychological states	3
+бровь_NOUN	нахмуренный	нахмуренный_ADJ	knitted eyebrows, frowning eyebrows	0.00529418842498	6.82698536225	Movements that express emotional or psychological states	3
+бровь_NOUN	подведенный	подводить_VERB	made-up eyebrows, eyebrows with make-up on them	0.00162586938849	2.90768384799	Color (natural, dyed, and sun-bleached)	1
+бровь_NOUN	прямой	прямой_ADJ	straight	0.000762467535562	1.69978985006	Size and shape; aesthetics	0
+бровь_NOUN	рассечённый	рассекать_VERB	an eyebrow with a gash in it	0.00210167771859	4.46898086997	Inflicting and sustaining injuries	4
+бровь_NOUN	редкий	редкий_ADJ	sparse	0.000780411667154	1.88294207184	Size and shape; aesthetics	0
+бровь_NOUN	ровный	ровный_ADJ	even	0.000280040139087	1.18995574487	Size and shape; aesthetics	0
+бровь_NOUN	рыжий	рыжий_ADJ	red	0.0032393495727	3.53143253431	Color (natural, dyed, and sun-bleached)	1
+бровь_NOUN	светлый	светлый_ADJ	light, blonde	0.00108408428755	2.10901856037	Color (natural, dyed, and sun-bleached)	1
+бровь_NOUN	сдвинутый	сдвинутый_ADJ	knitted eyebrows, scowling eyebrows	0.00235475620153	6.53758299103	Movements that express emotional or psychological states	3
+бровь_NOUN	седой	седой_ADJ	grey	0.0103696342544	4.70963852418	Color (natural, dyed, and sun-bleached)	1
+бровь_NOUN	соболиный	соболиный_ADJ	sable	0.00561112466455	7.49458874478	Size and shape; aesthetics	0
+бровь_NOUN	сросшийся	срастаться_VERB	eyebrows which meet over the nose	0.00705997221075	5.98062765652	Size and shape; aesthetics	0
+бровь_NOUN	темный	темный_ADJ	dark	0.00293276237428	2.9523367582	Color (natural, dyed, and sun-bleached)	1
+бровь_NOUN	тонкий	тонкий_ADJ	thin	0.00402328560833	3.34037769309	Size and shape; aesthetics	0
+бровь_NOUN	черный	черный_ADJ	black	0.00474433315762	3.31603375533	Color (natural, dyed, and sun-bleached)	1
+бровь_NOUN	шелковистый	шелковистый_ADJ	silky	0.00015764168046	2.8584242904	Size and shape; aesthetics	0
+бровь_NOUN	широкий	широкий_ADJ	wide	0.00088289188739	1.73141278479	Size and shape; aesthetics	0
+бюст_NOUN	большой	большой_ADJ	a large bosom	9.56483964945e-05	1.21287244779	Size and shape; aesthetics	1
+бюст_NOUN	высокий	высокий_ADJ	a high bosom	7.10737105452e-05	0.0	Size and shape; aesthetics	1
+бюст_NOUN	державный	державный_ADJ	a stately bosom	0.000660174946361	4.01569714718	Size and shape; aesthetics	1
+бюст_NOUN	закрытый	закрытый_ADJ	a covered bosom	0.00011580775912	1.62650451832	Other visible properties and conditions	0
+бюст_NOUN	обнаженный	обнаженный_ADJ	a bare bosom	0.000559023572161	3.37165789374	Other visible properties and conditions	0
+бюст_NOUN	открытый	открытый_ADJ	a bare bosom	0.0	0.0	Other visible properties and conditions	0
+бюст_NOUN	пышный	пышный_ADJ	a large/lush bosom	0.00456345211731	5.34227701356	Size and shape; aesthetics	1
+бюст_NOUN	роскошный	роскошный_ADJ	a magnificent bosom	0.00167464114833	4.30644757819	Size and shape; aesthetics	1
+веко_NOUN	воспаленный	воспаленный_ADJ	inflamed	0.00203987019008	5.4302065578	Sensations and medical conditions	0
+веко_NOUN	выпуклый	выпуклый_ADJ	curved eyelids (perhaps suggesting protruding eyes)	0.0026796417742	4.66388718113	Size, shape, and color (natural)	1
+веко_NOUN	красный	красный_ADJ	reddened	0.00113792552341	2.75440719871	Sensations and medical conditions	0
+веко_NOUN	набрякший	набрякнуть_VERB	bloated	0.00723787167449	7.23888675693	Sensations and medical conditions	0
+веко_NOUN	нависший	нависать_VERB	drooping	0.000515331100232	2.85182474415	Size, shape, and color (natural)	1
+веко_NOUN	припухший	припухать_VERB	puffy	0.0123644664257	7.45106574266	Sensations and medical conditions	0
+веко_NOUN	распухший	распухать_VERB	swollen	0.00192662759894	4.66809317278	Sensations and medical conditions	0
+веко_NOUN	темный	темный_ADJ	dark	0.000601092329855	2.15734842271	Size, shape, and color (natural)	1
+веко_NOUN	тяжелый	тяжелый_ADJ	heavy	0.00154509522098	3.08693938705	Size, shape, and color (natural)	1
+висок_NOUN	впалый	впалый_ADJ	sunken temples	0.00278529980658	5.42413547804	Appearance	0
+висок_NOUN	костистый	костистый_ADJ	bony temples	0.00016694490818	3.30562646817	Appearance	0
+висок_NOUN	приглаженный	приглаживать_VERB	smoothed	0.00107337269033	4.41467301898	Movements and gestures	1
+висок_NOUN	седой	седой_ADJ	grey temples	0.00697639452714	4.7559725203	Appearance	0
+волос_NOUN	белокурые	белокурый_ADJ	blond hair, fair hair	0.00877641674519	5.45032554211	Color (natural)	2
+волос_NOUN	белоснежные	белоснежный_ADJ	snow-white hair	0.000136360537261	1.48501147935	Color (natural)	2
+волос_NOUN	белые	белый_ADJ	white hair	0.00266668764356	1.87795871488	Color (natural)	2
+волос_NOUN	бесцветные	бесцветный_ADJ	hair that is nondescript in color	0.000625654557077	2.96559441045	Color (natural)	2
+волос_NOUN	блестящие	блестящий_ADJ	shiny hair, shining hair	0.00130913778172	2.04498901012	Other visible properties	5
+волос_NOUN	взлохмаченные	взлохмачивать_VERB	shaggy hair, matted hair	0.00125561817793	5.29071269814	Caring for hair	6
+волос_NOUN	взъерошенные	взъерошивать_VERB	tousled hair, messy hair	0.00376711366	5.55580157974	Caring for hair	6
+волос_NOUN	волнистые	волнистый_ADJ	wavy hair	0.00423357054326	5.37446901529	Shape (natural)	1
+волос_NOUN	всклокоченные	всклокочивать_VERB	disheveled hair	0.00354032429371	5.82199046477	Caring for hair	6
+волос_NOUN	выгоревшие	выгорать_VERB	sun-bleached hair	0.000945297838326	3.82726864431	Color (natural)	2
+волос_NOUN	выцветшие	выцветший_ADJ	sun-bleached hair	8.45058520303e-05	1.83594059786	Color (natural)	2
+волос_NOUN	вьющиеся	вьющийся_ADJ	curly hair	0.00737252263617	6.12540485788	Shape (natural)	1
+волос_NOUN	гладкие	гладкий_ADJ	smooth hair, flat hair	0.00158820755888	3.00614611065	Caring for hair	6
+волос_NOUN	грязные	грязный_ADJ	dirty hair	0.000856130291084	1.59419483461	Other visible properties	5
+волос_NOUN	густые	густой_ADJ	thick hair	0.00759604246188	3.67934491712	Thickness and tactile properties	4
+волос_NOUN	длинные	длинный_ADJ	long hair	0.0121238441634	3.61531737997	Size	0
+волос_NOUN	жёсткие	жесткий_ADJ	stiff hair, bristly hair	0.00395191469163	3.40097925547	Thickness and tactile properties	4
+волос_NOUN	жидкие	жидкий_ADJ	scanty hair	0.00219308933184	3.22383749211	Thickness and tactile properties	4
+волос_NOUN	жирные	жирный_ADJ	oily hair	0.000887803795361	2.38706152093	Other visible properties	5
+волос_NOUN	завитые	завитой_ADJ	waved hair	0.000884438167786	4.92048456821	Caring for hair	6
+волос_NOUN	золотистые	золотистый_ADJ	golden hair	0.00477023374145	4.64467567782	Color (natural)	2
+волос_NOUN	иссиня-чёрные	иссиня-черный_ADJ	blue-black hair, raven hair	0.000860511143619	5.51259282541	Color (natural)	2
+волос_NOUN	каштановые	каштановый_ADJ	chestnut hair	0.00727436772211	6.33032909609	Color (natural)	2
+волос_NOUN	короткие	короткий_ADJ	short hair	0.00318969530016	2.49125744765	Size	0
+волос_NOUN	красивые	красивый_ADJ	pretty hair	0.000874787378068	1.10117167572	Aesthetics	3
+волос_NOUN	кудрявые	кудрявый_ADJ	curly hair	0.00408500047343	4.75570939081	Shape (natural)	1
+волос_NOUN	курчавые	курчавый_ADJ	curly hair, kinky hair	0.00766008047233	5.78785072715	Shape (natural)	1
+волос_NOUN	летящие	лететь_VERB	wildly blowing hair	0.000229399451353	0.0	Hair and wind	7
+волос_NOUN	лёгкие	легкий_ADJ	fine hair (lit., "light hair")	0.000657442548486	0.0	Other visible properties	5
+волос_NOUN	липкие	липкий_ADJ	hair that is sticky (e.g. from sweat)	0.000191128889132	1.84299530084	Other visible properties	5
+волос_NOUN	ломкие	ломкий_ADJ	brittle hair	0.000170947476388	3.1658579478	Other visible properties	5
+волос_NOUN	льняные	льняной_ADJ	flaxen hair	0.00297502104968	5.2595038254	Color (natural)	2
+волос_NOUN	мягкие	мягкий_ADJ	soft hair	0.00216097426976	2.35597313145	Thickness and tactile properties	4
+волос_NOUN	непокорные	непокорный_ADJ	stubborn hair, rebellious hair	0.000533602943241	3.56417954613	Caring for hair	6
+волос_NOUN	непослушные	непослушный_ADJ	stubborn hair, rebellious hair	0.000395150933544	3.46323725863	Caring for hair	6
+волос_NOUN	непричёсанные	непричесанный_ADJ	disheveled hair, tousled hair, uncombed hair, untidy hair	0.000258851275562	4.87987738403	Caring for hair	6
+волос_NOUN	нестриженые	нестриженый_ADJ	hair which needs cutting	0.000230491090079	5.4470782183	Caring for hair	6
+волос_NOUN	нечёсаные	нечесаный_ADJ	disheveled hair, tousled hair, uncombed hair, untidy hair	0.00168251750246	5.52514776943	Caring for hair	6
+волос_NOUN	огненно-рыжие	огненно-рыжий_ADJ	flaming red hair	0.000287682858417	5.0574561075	Color (natural)	2
+волос_NOUN	пепельные	пепельный_ADJ	ash-blond hair	0.00287546691099	5.39565740135	Color (natural)	2
+волос_NOUN	плохие	плохой_ADJ	unattractive hair	0.000132583988274	0.0	Aesthetics	3
+волос_NOUN	поседевший	поседеть_VERB	having gone grey	0.0012117625509	4.51625938586	Color (natural)	2
+волос_NOUN	послушные	послушный_ADJ	obedient hair	0.0	0.0	Caring for hair	6
+волос_NOUN	прекрасные	прекрасный_ADJ	beautiful hair	0.000790559936755	0.0	Aesthetics	3
+волос_NOUN	приглаженные	приглаживать_VERB	smooth hair	0.00576093523866	5.96646707272	Caring for hair	6
+волос_NOUN	прилизанные	прилизанный_ADJ	flat hair	0.00048830228784	5.19890384422	Caring for hair	6
+волос_NOUN	прямые	прямой_ADJ	straight hair	0.00252654421452	2.27588110008	Shape (natural)	1
+волос_NOUN	пушистые	пушистый_ADJ	fluffy hair, full hair	0.00205896116051	3.91094128097	Thickness and tactile properties	4
+волос_NOUN	пышные	пышный_ADJ	luxuriant hair	0.00344682222828	3.77644127285	Thickness and tactile properties	4
+волос_NOUN	распущенные	распускать_VERB	hair which has been let down	0.00898859140322	4.95753223453	Caring for hair	6
+волос_NOUN	растрёпанные	растрепывать_VERB	disheveled hair, tousled hair, uncombed hair, untidy hair	0.00610068910056	5.62577000704	Caring for hair	6
+волос_NOUN	редкие	редкий_ADJ	thin hair	0.00360231899285	2.91046056553	Thickness and tactile properties	4
+волос_NOUN	роскошные	роскошный_ADJ	luxuriant hair	0.00143077128272	2.77097854325	Aesthetics	3
+волос_NOUN	русые	русый_ADJ	light-brown hair	0.0109799911191	5.66930556264	Color (natural)	2
+волос_NOUN	рыжие	рыжий_ADJ	red hair	0.0113677117861	4.4083576101	Color (natural)	2
+волос_NOUN	сальные	сальный_ADJ	oily hair	0.000921375921376	3.91927745142	Other visible properties	5
+волос_NOUN	свалявшиеся	сваляться_VERB	matted hair	0.00085953728243	5.34464882345	Caring for hair	6
+волос_NOUN	светло-русые	светло-русый_ADJ	fair hair, very light brown hair	0.00203791673244	6.48925757474	Color (natural)	2
+волос_NOUN	светлые	светлый_ADJ	light hair, fair hair	0.00990856864081	3.74664224192	Color (natural)	2
+волос_NOUN	седеющий	седеть_VERB	having greying hair	0.00311977402718	5.35833490122	Color (natural)	2
+волос_NOUN	седой	седой_ADJ	grey-haired	0.0301594423348	5.40546500443	Color (natural)	2
+волос_NOUN	смоляные	смоляной_ADJ	jet-black hair	0.000682331869163	4.3984763502	Color (natural)	2
+волос_NOUN	спутанные	спутывать_VERB	tangled hair	0.0037062270064	4.77470975101	Caring for hair	6
+волос_NOUN	сухие	сухой_ADJ	dry hair	0.00115415005726	1.67730780907	Other visible properties	5
+волос_NOUN	тёмно-русые	темно-русый_ADJ	brown hair	0.00374687164819	6.60771249265	Color (natural)	2
+волос_NOUN	тёмные	темный_ADJ	dark hair	0.0062336	2.9949276325	Color (natural)	2
+волос_NOUN	толстые	толстый_ADJ	coarse hair	0.00037974902042	0.0	Size	0
+волос_NOUN	тонкие	тонкий_ADJ	fine hair	0.00135745931351	1.61192834578	Size	0
+волос_NOUN	тусклые	тусклый_ADJ	dull hair	0.000154964680966	0.0	Other visible properties	5
+волос_NOUN	чёрные	черный_ADJ	black hair	0.0105128892572	3.26208769152	Color (natural)	2
+волос_NOUN	чистые	чистый_ADJ	clean hair	0.000235845966379	0.0	Other visible properties	5
+волос_NOUN	чудесные	чудесный_ADJ	wonderful hair	0.000371820643017	1.22512253148	Aesthetics	3
+волос_NOUN	шелковистые	шелковистый_ADJ	silky hair	0.0012488292226	4.89754369577	Thickness and tactile properties	4
+глаз_NOUN	бегающие	бегать_VERB	shifty eyes	0.00128836350907	1.74988071593	Movements related to looking	14
+глаз_NOUN	бесцветные	бесцветный_ADJ	eyes which are nondescript in color	0.000681922496885	3.00175816014	Color	2
+глаз_NOUN	близорукие	близорукий_ADJ	nearsighted eyes	0.00119367876876	4.11054471387	Conditions of the eyes as an organ of sight; medical treatment	13
+глаз_NOUN	блуждающие	блуждающий_ADJ	wandering eyes	0.000154101522083	3.00578612436	Other emotional or physical states; personality traits	12
+глаз_NOUN	больные	больной_ADJ	bad eyes; infected eyes	0.000561672896252	0.0	Sensations and medical conditions	4
+глаз_NOUN	большие	большой_ADJ	big eyes	0.00281841702063	0.0	Size and shape; aesthetics	1
+глаз_NOUN	быстрые	быстрый_ADJ	sharp eyes, i.e. eyes that are quick to notice things	0.000565962289687	0.0	Other emotional or physical states; personality traits	12
+глаз_NOUN	весёлые	веселый_ADJ	merry eyes	0.00137556150851	1.18864308752	Joy and happiness, dejection and unhappiness	8
+глаз_NOUN	виноватые	виноватый_ADJ	eyes with a guilty look to them	0.000242130750605	0.0	Other emotional or physical states; personality traits	12
+глаз_NOUN	влюблённые	влюбленный_ADJ	loving eyes	0.000754233456682	1.96924626433	Other emotional or physical states; personality traits	12
+глаз_NOUN	внимательные	внимательный_ADJ	attentive eyes	0.00110063469934	2.62576917927	Other emotional or physical states; personality traits	12
+глаз_NOUN	водянистые	водянистый_ADJ	pale, washed-out eyes	0.00040935621033	3.85787441307	Color	2
+глаз_NOUN	волчьи	волчий_ADJ	rapacious eyes, predatory eyes (lit. "a wolf's eyes")	0.000445352614482	2.45796280285	Kindness and generosity, malice and anger	10
+глаз_NOUN	воспалённые	воспаленный_ADJ	inflamed eyes	0.000435594685745	3.7658440102	Sensations and medical conditions	4
+глаз_NOUN	вставной	вставной_ADJ	glass eye, artificial eye	0.0	2.01240965529	Conditions of the eyes as an organ of sight; medical treatment	13
+глаз_NOUN	выпуклые	выпуклый_ADJ	protruding eyes	0.00134513382553	3.58796086001	Size and shape; aesthetics	1
+глаз_NOUN	выпученные	выпучивать_VERB	goggle eyes	0.00440228269758	5.26675272737	Surprise, amazement, and shock	9
+глаз_NOUN	выразительные	выразительный_ADJ	expressive eyes	0.000710005887854	2.33421142905	General expressions for various emotions	6
+глаз_NOUN	выцветшие	выцветший_ADJ	faded eyes	0.000483507982277	3.55961063336	Color	2
+глаз_NOUN	глупые	глупый_ADJ	unintelligent eyes, stupid eyes	0.000283541640555	0.0	Other emotional or physical states; personality traits	12
+глаз_NOUN	гневные	гневный_ADJ	angry eyes	0.000144409703457	1.57343098986	Kindness and generosity, malice and anger	10
+глаз_NOUN	голубые	голубой_ADJ	light-blue eyes	0.00912170010882	3.48561511295	Color	2
+глаз_NOUN	горячие	горячий_ADJ	passionate eyes	0.000484515365491	0.0	Other emotional or physical states; personality traits	12
+глаз_NOUN	грустные	грустный_ADJ	sad eyes	0.00134508407836	2.25990084716	Joy and happiness, dejection and unhappiness	8
+глаз_NOUN	дальнозоркие	дальнозоркий_ADJ	farsighted eyes	0.000101417195065	3.83499838541	Conditions of the eyes as an organ of sight; medical treatment	13
+глаз_NOUN	дивные	дивный_ADJ	beautiful eyes, wonderful eyes	7.82474314194e-05	0.0	Size and shape; aesthetics	1
+глаз_NOUN	добрые	добрый_ADJ	kind eyes	0.00165076418692	0.0	Kindness and generosity, malice and anger	10
+глаз_NOUN	дурной	дурной_ADJ	the evil eye	0.000475730444453	0.0	Other expressions	15
+глаз_NOUN	желтушные	желтушный_ADJ	jaundiced eyes	0.0	1.63818389625	Sensations and medical conditions	4
+глаз_NOUN	жестокие	жестокий_ADJ	cruel eyes	0.000116690734131	0.0	Kindness and generosity, malice and anger	10
+глаз_NOUN	замечательные	замечательный_ADJ	beautiful eyes, wonderful eyes	6.93850646608e-05	0.0	Size and shape; aesthetics	1
+глаз_NOUN	запавшие	запасть_VERB	sunken eyes	0.000207177601897	4.12108533181	Sensations and medical conditions	4
+глаз_NOUN	заплаканные	заплаканный_ADJ	tear-reddened eyes	0.00129297833602	4.69695835668	Crying	7
+глаз_NOUN	заплывшие	заплывать_VERB	eyes which seem small because of an excessively fat face	0.000615521247574	3.86675728665	Size and shape; aesthetics	1
+глаз_NOUN	заспанные	заспанный_ADJ	sleepy eyes	0.000465560594249	3.33266095787	Exhaustion and sleepiness, energy and excitement	11
+глаз_NOUN	затуманенные	затуманивать_VERB	clouded eyes	0.000321252621179	3.52732340372	Other emotional or physical states; personality traits	12
+глаз_NOUN	зеленоватые	зеленоватый_ADJ	hazel eyes, light brown eyes with a hint of green	0.000620003405653	2.78923703877	Color	2
+глаз_NOUN	зелёные	зеленый_ADJ	green eyes	0.00237240578588	1.66160227408	Color	2
+глаз_NOUN	злые	злой_ADJ	mean eyes	0.00143257146578	1.61668111244	Kindness and generosity, malice and anger	10
+глаз_NOUN	зоркие	зоркий_ADJ	sharp, keen eyes	0.0019679388142	4.39762249892	Conditions of the eyes as an organ of sight; medical treatment	13
+глаз_NOUN	изумленные	изумленный_ADJ	eyes filled with astonishment	0.000719159460455	3.4687683907	Surprise, amazement, and shock	9
+глаз_NOUN	испуганные	испуганный_ADJ	frightened eyes	0.00184042954931	3.43391171312	Other emotional or physical states; personality traits	12
+глаз_NOUN	карие	карий_ADJ	brown eyes	0.00420750301552	5.00850788649	Color	2
+глаз_NOUN	квадратные	квадратный_ADJ	to open one's eyes wide (in surprise, often exaggerated)	6.89488744096e-05	0.0	Surprise, amazement, and shock	9
+глаз_NOUN	колючие	колючий_ADJ	angry eyes	0.000299429131851	1.60298886009	Kindness and generosity, malice and anger	10
+глаз_NOUN	коровьи	коровий_ADJ	gentle, rather stupid eyes (lit. "a cow's eyes")	0.000109608260078	1.55877999925	Other emotional or physical states; personality traits	12
+глаз_NOUN	косые	косой_ADJ	crossed eyes	0.000799002983234	2.62463460782	Conditions of the eyes as an organ of sight; medical treatment	13
+глаз_NOUN	красивые	красивый_ADJ	pretty eyes	0.00135216516868	0.0	Size and shape; aesthetics	1
+глаз_NOUN	красные	красный_ADJ	red eyes (as a permanent condition) (lit.кроличий "rabbit")	0.0020360185341	0.0	Sensations and medical conditions	4
+глаз_NOUN	кроличьи	кроличий_ADJ	red eyes (as a permanent condition)	0.0	2.52990753067	Sensations and medical conditions	4
+глаз_NOUN	круглые	круглый_ADJ	round eyes	0.00252025496647	2.22603783965	Size and shape; aesthetics	1
+глаз_NOUN	левый	левый_ADJ	the left	0.00271509428817	1.84422739371	Restrictive modifiers: adjectival modifier	0
+глаз_NOUN	лживые	лживый_ADJ	lying eyes	0.0	0.0	Other emotional or physical states; personality traits	12
+глаз_NOUN	лукавые	лукавый_ADJ	sly eyes	0.000522673124583	2.41031302653	Other emotional or physical states; personality traits	12
+глаз_NOUN	лучистые	лучистый_ADJ	radiant eyes	0.000734099815596	3.99425891575	Kindness and generosity, malice and anger	10
+глаз_NOUN	любящие	любить_VERB	loving eyes, affectionate eyes	0.000151090990986	0.0	Other emotional or physical states; personality traits	12
+глаз_NOUN	маленькие	маленький_ADJ	little eyes	0.00123170989758	0.0	Size and shape; aesthetics	1
+глаз_NOUN	масляные	масляный_ADJ	lustful eyes	0.000174917296916	1.68205692409	Other emotional or physical states; personality traits	12
+глаз_NOUN	мёртвые	мертвый_ADJ	eyes devoid of all expression, dead eyes, empty eyes	0.000651942278661	0.0	Other emotional or physical states; personality traits	12
+глаз_NOUN	миндалевидные	миндалевидный_ADJ	almond-shaped eyes	0.000207272623035	4.81423251237	Size and shape; aesthetics	1
+глаз_NOUN	молочные	молочный_ADJ	light-blue eyes characteristic of newborn babies	0.0	0.0	Color	2
+глаз_NOUN	мутные	мутный_ADJ	lifeless, lackluster eyes	0.00206534955718	3.2101061762	Exhaustion and sleepiness, energy and excitement	11
+глаз_NOUN	накрашенные	накрасить_VERB	made-up eyes	0.000123194973645	2.49258237819	Make-up	3
+глаз_NOUN	небольшие	небольшой_ADJ	small eyes	0.000374738988889	0.0	Size and shape; aesthetics	1
+глаз_NOUN	нежные	нежный_ADJ	tender eyes	0.000395779995795	0.0	Other emotional or physical states; personality traits	12
+глаз_NOUN	некрасивые	некрасивый_ADJ	unattractive eyes	6.52328486533e-05	0.0	Size and shape; aesthetics	1
+глаз_NOUN	несчастные	несчастный_ADJ	unhappy eyes	0.000179260022774	0.0	Joy and happiness, dejection and unhappiness	8
+глаз_NOUN	огненные	огненный_ADJ	fire in the eyes	0.000786401696565	2.10932230666	Exhaustion and sleepiness, energy and excitement	11
+глаз_NOUN	огромные	огромный_ADJ	enormous eyes	0.00154433294725	0.0	Size and shape; aesthetics	1
+глаз_NOUN	оловянные	оловянный_ADJ	dull, expressionless eyes (lit. олово "tin")	0.00039075105426	3.07960603659	Other emotional or physical states; personality traits	12
+глаз_NOUN	опухшие	опухать_VERB	puffy eyes	0.000675098086491	3.35615924595	Sensations and medical conditions	4
+глаз_NOUN	печальные	печальный_ADJ	melancholy eyes, sad eyes	0.0013856427379	1.94479832238	Joy and happiness, dejection and unhappiness	8
+глаз_NOUN	плохие	плохой_ADJ	poor eyes, bad eyes	9.23485387768e-05	0.0	Conditions of the eyes as an organ of sight; medical treatment	13
+глаз_NOUN	плутоватые	плутоватый_ADJ	cunning eyes	0.000202677993135	3.69893330492	Other emotional or physical states; personality traits	12
+глаз_NOUN	погасшие	погасать_VERB	deadened eyes, eyes from which the fire is gone	0.000239229767142	1.52816870726	Exhaustion and sleepiness, energy and excitement	11
+глаз_NOUN	подбитый	подбивать_VERB	a black eye	0.000628991255274	2.84307431223	Inflicting and sustaining injuries	5
+глаз_NOUN	подслеповатые	подслеповатый_ADJ	weak eyes	0.000444345700955	3.74662396375	Conditions of the eyes as an organ of sight; medical treatment	13
+глаз_NOUN	покрасневшие	покраснеть_VERB	reddened eyes, red eyes	0.000739595673365	2.07173839527	Sensations and medical conditions	4
+глаз_NOUN	полуприкрытые	полуприкрытый_ADJ	heavy-lidded eyes	7.93853807411e-05	3.98250859542	Size and shape; aesthetics	1
+глаз_NOUN	посаженные	посадить_VERB	deep-set eyes	0.000437959857851	0.0	Size and shape; aesthetics	1
+глаз_NOUN	правый	правый_ADJ	right eye	0.00227168803614	1.28799700377	Restrictive modifiers: adjectival modifier	0
+глаз_NOUN	преданные	преданный_ADJ	devoted eyes	0.000193496371943	0.0	Other emotional or physical states; personality traits	12
+глаз_NOUN	прекрасные	прекрасный_ADJ	beautiful eyes, wonderful eyes	0.00159753904683	1.01468406696	Size and shape; aesthetics	1
+глаз_NOUN	продолговатые	продолговатый_ADJ	oblong eyes	0.000105180120957	1.45383347656	Size and shape; aesthetics	1
+глаз_NOUN	пустые	пустой_ADJ	eyes devoid of all expression, dead eyes, empty eyes	0.00106229607709	0.0	Other emotional or physical states; personality traits	12
+глаз_NOUN	радостные	радостный_ADJ	joyful eyes	0.00032387369767	0.0	Joy and happiness, dejection and unhappiness	8
+глаз_NOUN	раскосые	раскосый_ADJ	slanting eyes	0.000933540297456	4.8737522024	Size and shape; aesthetics	1
+глаз_NOUN	расставленные	расставлять_VERB	wide-set eyes	0.000335110565005	1.24774811365	Size and shape; aesthetics	1
+глаз_NOUN	светло-голубые	светло-голубой_ADJ	pale, light-blue eyes	0.000282043937157	4.18951764186	Color	2
+глаз_NOUN	светло-серые	светло-серый_ADJ	light-grey eyes	0.00018050144181	3.11850072544	Color	2
+глаз_NOUN	светлые	светлый_ADJ	light-colored eyes	0.00243391251437	1.90675029915	Color	2
+глаз_NOUN	свиные	свиной_ADJ	pig eyes	0.0	0.0	Size and shape; aesthetics	1
+глаз_NOUN	сердитые	сердитый_ADJ	angry eyes	0.000325593611419	1.71041651139	Kindness and generosity, malice and anger	10
+глаз_NOUN	серые	серый_ADJ	grey eyes	0.00684205698852	2.78341614973	Color	2
+глаз_NOUN	серьёзные	серьезный_ADJ	serious eyes	0.000447076805502	0.0	Other emotional or physical states; personality traits	12
+глаз_NOUN	сидящие	сидеть_VERB	deep-set eyes	0.000661490068654	0.0	Size and shape; aesthetics	1
+глаз_NOUN	синие	синий_ADJ	dark-blue eyes	0.00346507116554	2.28427629389	Color	2
+глаз_NOUN	слепые	слепой_ADJ	blind eyes; blindness	0.000568270428361	1.59053605247	Conditions of the eyes as an organ of sight; medical treatment	13
+глаз_NOUN	смеющиеся	смеяться_VERB	laughing eyes	0.00172450874963	1.41990390491	Other emotional or physical states; personality traits	12
+глаз_NOUN	собачьи	собачий_ADJ	devoted eyes (lit. "a dog's eyes")	0.000254868969271	1.20113666377	Other emotional or physical states; personality traits	12
+глаз_NOUN	сонные	сонный_ADJ	sleepy eyes	0.000847648208694	2.45768219248	Exhaustion and sleepiness, energy and excitement	11
+глаз_NOUN	стальные	стальной_ADJ	steely eyes	0.000262520280768	1.06893763877	Color	2
+глаз_NOUN	стеклянный	стеклянный_ADJ	glass eye, artificial eye	0.00107248418405	2.11172777701	Conditions of the eyes as an organ of sight; medical treatment	13
+глаз_NOUN	строгие	строгий_ADJ	severe eyes	0.000849657203778	1.02701300762	Other emotional or physical states; personality traits	12
+глаз_NOUN	счастливые	счастливый_ADJ	happy eyes	0.000534795889489	0.0	Joy and happiness, dejection and unhappiness	8
+глаз_NOUN	тёмно-голубые	темно-голубой_ADJ	grayish-blue eyes	0.000233647434838	4.3476591065	Color	2
+глаз_NOUN	тёмно-серые	темно-серый_ADJ	dark-grey eyes	0.000264018270064	3.29511564364	Color	2
+глаз_NOUN	тёмные	темный_ADJ	dark eyes	0.0041091554575	1.94058076209	Color	2
+глаз_NOUN	томные	томный_ADJ	tender, languid eyes	0.000368561688013	2.8984434475	Other emotional or physical states; personality traits	12
+глаз_NOUN	тусклые	тусклый_ADJ	dull eyes	0.00112256308458	2.85353711059	Exhaustion and sleepiness, energy and excitement	11
+глаз_NOUN	удивительные	удивительный_ADJ	striking eyes	0.000236051724316	0.0	Size and shape; aesthetics	1
+глаз_NOUN	удивленные	удивленный_ADJ	eyes filled with surprise	0.00117838064313	3.3918925026	Surprise, amazement, and shock	9
+глаз_NOUN	удлиненные	удлиненный_ADJ	elongated eyes	0.0	0.0	Size and shape; aesthetics	1
+глаз_NOUN	узкие	узкий_ADJ	narrow eyes	0.000853456295757	1.02828322962	Size and shape; aesthetics	1
+глаз_NOUN	умные	умный_ADJ	intelligent eyes	0.00190720255241	1.59982596869	Other emotional or physical states; personality traits	12
+глаз_NOUN	усталые	усталый_ADJ	tired eyes	0.000987747634774	2.31384740316	Exhaustion and sleepiness, energy and excitement	11
+глаз_NOUN	хитрые	хитрый_ADJ	cunning eyes	0.000514574243415	1.60844192705	Other emotional or physical states; personality traits	12
+глаз_NOUN	холодные	холодный_ADJ	cold eyes	0.00100267703153	0.0	Other emotional or physical states; personality traits	12
+глаз_NOUN	хорошие	хороший_ADJ	good eyes	0.000266037385927	0.0	Conditions of the eyes as an organ of sight; medical treatment	13
+глаз_NOUN	честные	честный_ADJ	honest eyes	0.000338784498364	0.0	Other emotional or physical states; personality traits	12
+глаз_NOUN	чёрные	черный_ADJ	black eyes	0.00763590143149	2.00411707137	Color	2
+глаз_NOUN	чудные	чудный_ADJ	beautiful eyes, wonderful eyes	0.000180185591159	0.0	Size and shape; aesthetics	1
+глаз_NOUN	ясные	ясный_ADJ	clear, untroubled eyes	0.00163013373427	1.46021094564	Other emotional or physical states; personality traits	12
+голова_NOUN	белокурый	белокурый_ADJ	blond hair	0.000369683786419	2.22700602502	Color and other properties related to the hair	2
+голова_NOUN	большой	большой_ADJ	large	0.00129703332476	0.0	Size and shape; aesthetics	3
+голова_NOUN	бритая	бритый_ADJ	shaved head	0.000941275185835	3.50219635947	Color and other properties related to the hair	2
+голова_NOUN	величественный	величественный_ADJ	majestic	0.0	0.0	Size and shape; aesthetics	3
+голова_NOUN	всклокоченный	всклокочивать_VERB	disheveled hair	0.000497812600611	3.8449366642	Color and other properties related to the hair	2
+голова_NOUN	вытянутый	вытянутый_ADJ	elongated	0.0	0.0	Size and shape; aesthetics	3
+голова_NOUN	горячий	горячий_ADJ	hot, feverish head	0.00127570826893	1.2708801025	Sensations and medical conditions	4
+голова_NOUN	горящая	горящий_ADJ	burning head, feverish head	0.0	0.0	Sensations and medical conditions	4
+голова_NOUN	грязный	грязный_ADJ	dirty hair	0.000155211864195	0.0	Washing one's hair	5
+голова_NOUN	золотистый	золотистый_ADJ	golden hair	0.0	0.0	Color and other properties related to the hair	2
+голова_NOUN	квадратный	квадратный_ADJ	square	0.000221573328902	0.0	Size and shape; aesthetics	3
+голова_NOUN	красивый	красивый_ADJ	pretty	0.000785487442358	0.0	Size and shape; aesthetics	3
+голова_NOUN	круглый	круглый_ADJ	round	0.00142847257234	1.67526490516	Size and shape; aesthetics	3
+голова_NOUN	крупный	крупный_ADJ	large	0.000648732533513	0.0	Size and shape; aesthetics	3
+голова_NOUN	кудрявый	кудрявый_ADJ	curly	0.00115302830819	3.4385389418	Color and other properties related to the hair	2
+голова_NOUN	лошадиный	лошадиный_ADJ	large, elongated head, horse-like head	0.000541134238796	2.60842043767	Size and shape; aesthetics	3
+голова_NOUN	лысеющий	лысеть_VERB	balding	0.000346864668582	4.08338408264	Color and other properties related to the hair	2
+голова_NOUN	лысый	лысый_ADJ	bald	0.00270258048556	3.7984900756	Color and other properties related to the hair	2
+голова_NOUN	львиный	львиный_ADJ	leonine	0.000436914413321	3.08531127427	Size and shape; aesthetics	3
+голова_NOUN	маленький	маленький_ADJ	small	0.000933861792103	0.0	Size and shape; aesthetics	3
+голова_NOUN	массивный	массивный_ADJ	large, massive	0.000107004515591	0.0	Size and shape; aesthetics	3
+голова_NOUN	мутный	мутный_ADJ	a feeling of dullness or confusion in the head	0.000110865037655	0.0	Sensations and medical conditions	4
+голова_NOUN	небольшой	небольшой_ADJ	small	0.000289332153312	0.0	Size and shape; aesthetics	3
+голова_NOUN	непокрытый	непокрытый_ADJ	bare head, uncovered head	0.00193798449612	5.33365009397	Headdress	1
+голова_NOUN	обнаженный	обнаженный_ADJ	bare head, uncovered head	0.000830918697801	2.67842382277	Headdress	1
+голова_NOUN	открытый	открытый_ADJ	bare head, uncovered head	0.000382169864951	0.0	Headdress	1
+голова_NOUN	плешивый	плешивый_ADJ	bald	0.000557035274394	3.8182138773	Color and other properties related to the hair	2
+голова_NOUN	плоский	плоский_ADJ	flat	0.000151675623374	0.0	Size and shape; aesthetics	3
+голова_NOUN	породистый	породистый_ADJ	aristocratic	6.48924002888e-05	1.65012619089	Size and shape; aesthetics	3
+голова_NOUN	прекрасный	прекрасный_ADJ	beautiful	0.000361772952178	0.0	Size and shape; aesthetics	3
+голова_NOUN	приплюснутый	приплющивать_VERB	flat	0.0	2.17418267678	Size and shape; aesthetics	3
+голова_NOUN	пробитый	пробивать_VERB	a pierced skull	0.000584052217425	1.84237473808	Inflicting and sustaining injuries; beheading	0
+голова_NOUN	пылающий	пылать_VERB	burning head, feverish head	0.000228073757993	1.19083045903	Sensations and medical conditions	4
+голова_NOUN	разбитый	разбитый_ADJ	smashed head, bloody head	0.000122992021561	0.0	Inflicting and sustaining injuries; beheading	0
+голова_NOUN	русый	русый_ADJ	light-brown hair	0.000380371746415	2.25018962496	Color and other properties related to the hair	2
+голова_NOUN	рыжий	рыжий_ADJ	red hair	0.000685392195224	1.37608730567	Color and other properties related to the hair	2
+голова_NOUN	свежий	свежий_ADJ	clear head	0.000768054755499	0.0	Sensations and medical conditions	4
+голова_NOUN	светло-русый	светло-русый_ADJ	very light brown hair	0.0	2.16548696982	Color and other properties related to the hair	2
+голова_NOUN	светлый	светлый_ADJ	fair hair	0.00104812521986	1.08675914777	Color and other properties related to the hair	2
+голова_NOUN	седой	седой_ADJ	grey hair	0.0040626769096	3.18237113417	Color and other properties related to the hair	2
+голова_NOUN	стриженый	стриженый_ADJ	close-cropped hair	0.00103633095661	4.05166416007	Color and other properties related to the hair	2
+голова_NOUN	темно-русый	темно-русый_ADJ	brown hair	0.0	2.00789667818	Color and other properties related to the hair	2
+голова_NOUN	темный	темный_ADJ	dark hair	0.000412958097933	0.0	Color and other properties related to the hair	2
+голова_NOUN	тяжелый	тяжелый_ADJ	a head that feels heavy	0.00145932296774	0.0	Sensations and medical conditions	4
+голова_NOUN	черный	черный_ADJ	black hair	0.00101618559878	0.0	Color and other properties related to the hair	2
+голова_NOUN	чистый	чистый_ADJ	clean hair	0.000101850129748	0.0	Washing one's hair	5
+голова_NOUN	чугунный	чугунный_ADJ	a head that feels heavy	0.000112153425887	0.0	Sensations and medical conditions	4
+голова_NOUN	шишковатый	шишковатый_ADJ	bumpy head, a head with lumps or bumps	0.0	3.40023143281	Size and shape; aesthetics	3
+голова_NOUN	яйцевидный	яйцевидный_ADJ	egg-shaped	0.0	2.47063673531	Size and shape; aesthetics	3
+голос_NOUN	бархатный	бархатный_ADJ	a velvety voice	0.000947761360842	2.69648584909	Timbre and coloring	2
+голос_NOUN	бодрый	бодрый_ADJ	a hearty voice	0.00184598097837	3.29676454968	Expressing physical and psychological states	7
+голос_NOUN	больной	больной_ADJ	a voice weak from illness	0.000342238003197	0.0	Expressing physical and psychological states	7
+голос_NOUN	весёлый	веселый_ADJ	a joyful voice, a cheerful voice	0.00350400770882	2.24247700044	Expressing physical and psychological states	7
+голос_NOUN	взволнованный	взволновать_VERB	an agitated voice	0.00344862472893	3.63605881627	Expressing physical and psychological states	7
+голос_NOUN	визгливый	визгливый_ADJ	a shrill voice	0.00164155911227	4.99363010665	Pitch	1
+голос_NOUN	вкрадчивый	вкрадчивый_ADJ	an ingratiating voice	0.00184207632245	4.42925069238	Expressing physical and psychological states	7
+голос_NOUN	возбуждённый	возбуждать_VERB	an excited voice	0.000230964027353	0.0	Expressing physical and psychological states	7
+голос_NOUN	ворчливый	ворчливый_ADJ	a querulous voice	0.000368937322161	3.52114976926	Expressing physical and psychological states	7
+голос_NOUN	восторженный	восторженный_ADJ	an enthusiastic voice	0.000356980303612	1.67234106543	Expressing physical and psychological states	7
+голос_NOUN	восхищенный	восхищенный_ADJ	an admiring voice	9.16342510504e-05	1.41876058067	Expressing physical and psychological states	7
+голос_NOUN	высокий	высокий_ADJ	a high voice	0.00141890262071	0.0	Pitch	1
+голос_NOUN	глухой	глухой_ADJ	a muffled voice lacking a ringing quality	0.00448096212303	3.17348501086	Timbre and coloring	2
+голос_NOUN	гневный	гневный_ADJ	an angry voice	0.000656892351766	3.09726853203	Expressing physical and psychological states	7
+голос_NOUN	гнусавый	гнусавый_ADJ	a nasal voice	0.00086859698486	4.72270568236	Timbre and coloring	2
+голос_NOUN	гортанный	гортанный_ADJ	a guttural voice	0.000757170030841	4.43630880176	Other physical characteristics	4
+голос_NOUN	грозный	грозный_ADJ	a threatening voice	0.00118665689087	2.05998448887	Expressing physical and psychological states	7
+голос_NOUN	громкий	громкий_ADJ	a loud voice	0.00884124440515	4.09990191933	Loudness	0
+голос_NOUN	громовой	громовой_ADJ	a thunderous voice	0.00219671136683	4.86448273393	Loudness	0
+голос_NOUN	грубый	грубый_ADJ	a coarse voice	0.00251004839636	2.51692813781	Other physical characteristics	4
+голос_NOUN	грудной	грудной_ADJ	a sonorous voice	0.00190236623706	3.64142256915	Pitch	1
+голос_NOUN	грустный	грустный_ADJ	a sad voice	0.00095063954061	1.95420825921	Expressing physical and psychological states	7
+голос_NOUN	девичий	девичий_ADJ	a girl's voice; a girlish voice	0.00157440166028	3.2167841039	Characteristics of age and sex	6
+голос_NOUN	детский	детский_ADJ	a child's voice; a childish voice	0.00291816270188	1.98765213514	Characteristics of age and sex	6
+голос_NOUN	дребезжащий	дребезжать_VERB	an unsteady voice	0.0015500534264	4.3215958768	Timbre and coloring	2
+голос_NOUN	дрогнувший	дрогнуть_VERB	a faltering voice	0.00428487261431	4.16399899218	Expressing physical and psychological states	7
+голос_NOUN	дрожащий	дрожать_VERB	a quivering voice; a voice quivering from emotion	0.00820131220995	3.5296731481	Expressing physical and psychological states	7
+голос_NOUN	женский	женский_ADJ	a womanly voice; a woman's voice; a female voice	0.0127232337147	3.67780103362	Characteristics of age and sex	6
+голос_NOUN	заискивающий	заискивающий_ADJ	an ingratiating voice	0.000342781439775	4.66725847073	Expressing physical and psychological states	7
+голос_NOUN	замогильный	замогильный_ADJ	a feeble voice	0.000695071939946	5.58513776529	Expressing physical and psychological states	7
+голос_NOUN	звенящий	звенящий_ADJ	an unnaturally loud and high voice	0.000792750937935	4.1971528475	Timbre and coloring	2
+голос_NOUN	звонкий	звонкий_ADJ	a high, ringing voice	0.00534840801992	4.48022377644	Timbre and coloring	2
+голос_NOUN	звучный	звучный_ADJ	a loud, clear voice	0.00205105666044	4.47010312567	Timbre and coloring	2
+голос_NOUN	зычный	зычный_ADJ	a loud, resounding voice	0.00279805521311	5.75870032021	Loudness	0
+голос_NOUN	изменившийся	изменяться_VERB	a faltering voice	0.00124667982165	1.59958093335	Expressing physical and psychological states	7
+голос_NOUN	измученный	измученный_ADJ	an exhausted voice	0.000190234622701	1.51473974287	Expressing physical and psychological states	7
+голос_NOUN	испуганный	испуганный_ADJ	a frightened voice	0.00113930466532	2.97204432897	Expressing physical and psychological states	7
+голос_NOUN	красивый	красивый_ADJ	a beautiful voice	0.00105436164604	0.0	Aesthetics	5
+голос_NOUN	кроткий	кроткий_ADJ	a meek voice	0.000722678729156	2.37051359865	Expressing physical and psychological states	7
+голос_NOUN	ласковый	ласковый_ADJ	an affectionate voice	0.00342547871065	3.23520095928	Expressing physical and psychological states	7
+голос_NOUN	ломающийся	ломаться_VERB	a voice which cracks	0.000509600509601	2.70474858851	Pitch	1
+голос_NOUN	мальчишеский	мальчишеский_ADJ	a boyish voice	0.000871451700936	3.75729293759	Characteristics of age and sex	6
+голос_NOUN	мелодичный	мелодичный_ADJ	a melodious voice	0.000508155902231	4.15796512078	Other physical characteristics	4
+голос_NOUN	металлический	металлический_ADJ	a metallic voice	0.00106280855732	2.07515271034	Timbre and coloring	2
+голос_NOUN	мёртвый	мертвый_ADJ	a dead voice	0.000379413647825	0.0	Expressing physical and psychological states	7
+голос_NOUN	молодой	молодой_ADJ	a youthful voice	0.00184856382566	0.0	Characteristics of age and sex	6
+голос_NOUN	мужской	мужской_ADJ	a masculine voice; a man's voice; a male voice	0.00741600809019	3.7186846329	Characteristics of age and sex	6
+голос_NOUN	мягкий	мягкий_ADJ	a soft voice	0.00245107635925	2.19697264051	Other physical characteristics	4
+голос_NOUN	надтреснутый	надтреснутый_ADJ	a hoarse, raspy voice (due to stress, emotion, etc.)	0.00111013460382	5.27034962407	Timbre and coloring	2
+голос_NOUN	негромкий	негромкий_ADJ	a soft voice	0.00181015432255	4.64188436877	Loudness	0
+голос_NOUN	нежный	нежный_ADJ	a tender voice	0.00211080513872	2.24206636518	Expressing physical and psychological states	7
+голос_NOUN	неприятный	неприятный_ADJ	an unpleasant voice	0.000739061474967	1.39285221989	Aesthetics	5
+голос_NOUN	несчастный	несчастный_ADJ	an unhappy voice	0.000158047793653	0.0	Expressing physical and psychological states	7
+голос_NOUN	неуверенный	неуверенный_ADJ	an uncertain voice	0.000616446233468	3.70407644316	Expressing physical and psychological states	7
+голос_NOUN	низкий	низкий_ADJ	a deep voice	0.00287382455119	2.03191940325	Pitch	1
+голос_NOUN	обиженный	обиженный_ADJ	an offended voice	0.000939302116591	2.99703491337	Expressing physical and psychological states	7
+голос_NOUN	оглушительный	оглушительный_ADJ	a deafening voice	0.000236334631659	1.88161550639	Loudness	0
+голос_NOUN	огорчённый	огорченный_ADJ	a distressed voice	0.000129197177964	2.56068651939	Expressing physical and psychological states	7
+голос_NOUN	отчаянный	отчаянный_ADJ	a desperate voice	0.00161067748578	2.70219880034	Expressing physical and psychological states	7
+голос_NOUN	охрипший	охрипший_ADJ	a hoarse voice (due to illness, emotion, etc.)	0.000324685866424	5.89111983516	Timbre and coloring	2
+голос_NOUN	певучий	певучий_ADJ	a musical voice	0.00169871265128	4.5120342535	Other physical characteristics	4
+голос_NOUN	писклявый	писклявый_ADJ	a squeaky voice	0.000500400783961	5.19074160451	Pitch	1
+голос_NOUN	плачущий	плакать_VERB	a tearful voice	0.000424313932757	0.0	Expressing physical and psychological states	7
+голос_NOUN	погасший	погасать_VERB	a faint, lifeless voice	9.91035632236e-05	0.0	Expressing physical and psychological states	7
+голос_NOUN	приглушённый	приглушать_VERB	a voice which is muffled by trying to speak softly	0.00072926667159	4.34657782706	Timbre and coloring	2
+голос_NOUN	приятный	приятный_ADJ	a pleasant voice	0.00235416387815	2.18639740006	Aesthetics	5
+голос_NOUN	прокуренный	прокуривать_VERB	a smoker's voice	0.000323325635104	3.67505483936	Timbre and coloring	2
+голос_NOUN	пронзительный	пронзительный_ADJ	a piercing voice	0.00164563657653	3.59950950609	Timbre and coloring	2
+голос_NOUN	проникновенный	проникновенный_ADJ	a warm, sincere voice	0.000422759146762	3.20725317139	Expressing physical and psychological states	7
+голос_NOUN	простуженный	простужать_VERB	a voice hoarse and nasal because of a cold	0.000388076802247	3.90567552176	Timbre and coloring	2
+голос_NOUN	радостный	радостный_ADJ	a joyful voice, a cheerful voice	0.00150625854633	2.225155578	Expressing physical and psychological states	7
+голос_NOUN	резкий	резкий_ADJ	a grating voice	0.00300530180602	2.60646327275	Timbre and coloring	2
+голос_NOUN	робкий	робкий_ADJ	a shy voice	0.00127618750139	2.94595827429	Expressing physical and psychological states	7
+голос_NOUN	ровный	ровный_ADJ	an even voice	0.00354502393959	3.24003269088	Timbre and coloring	2
+голос_NOUN	рыдающий	рыдать_VERB	a sobbing voice	0.00097643127805	2.77733824003	Expressing physical and psychological states	7
+голос_NOUN	сердитый	сердитый_ADJ	an angry voice	0.00188443902045	3.48371491319	Expressing physical and psychological states	7
+голос_NOUN	сильный	сильный_ADJ	a robust voice	0.00135207979058	0.0	Strength	3
+голос_NOUN	сиплый	сиплый_ADJ	a croaking, raspy voice	0.00249712047915	5.28986459495	Timbre and coloring	2
+голос_NOUN	скрипучий	скрипучий_ADJ	a creaky, unpleasant voice	0.00222341170173	4.49888349922	Timbre and coloring	2
+голос_NOUN	скучный	скучный_ADJ	a boring voice	0.00104551474176	2.28099356765	Expressing physical and psychological states	7
+голос_NOUN	слабый	слабый_ADJ	a feeble voice	0.00534561118649	2.72417739311	Strength	3
+голос_NOUN	сладкий	сладкий_ADJ	a sweet voice	0.00114465467464	2.02743364322	Expressing physical and psychological states	7
+голос_NOUN	сонный	сонный_ADJ	a sleepy voice	0.00184297333031	3.25596531113	Expressing physical and psychological states	7
+голос_NOUN	спокойный	спокойный_ADJ	a calm voice	0.00457478835709	2.84158433963	Expressing physical and psychological states	7
+голос_NOUN	срывающийся	срываться_VERB	a faltering voice	0.00317868106508	3.38610530339	Timbre and coloring	2
+голос_NOUN	старческий	старческий_ADJ	an old person's voice	0.00189351042337	3.81747115076	Characteristics of age and sex	6
+голос_NOUN	счастливый	счастливый_ADJ	a happy voice	0.000560966902953	0.0	Expressing physical and psychological states	7
+голос_NOUN	тихий	тихий_ADJ	a quiet voice	0.0091516862279	3.26944834695	Loudness	0
+голос_NOUN	томный	томный_ADJ	a languid voice	0.00061465916232	3.41599825266	Expressing physical and psychological states	7
+голос_NOUN	тонкий	тонкий_ADJ	a thin, high-pitched voice	0.00328264267007	2.09777627174	Pitch	1
+голос_NOUN	уверенный	уверенный_ADJ	a confident voice	0.00108113189809	1.38078272646	Expressing physical and psychological states	7
+голос_NOUN	удивленный	удивленный_ADJ	a surprised voice	0.000462717238939	2.46897516094	Expressing physical and psychological states	7
+голос_NOUN	умирающий	умирающий_ADJ	a feeble voice	0.000202004434916	2.38057725823	Expressing physical and psychological states	7
+голос_NOUN	умоляющий	умоляющий_ADJ	a pleading voice	0.00197331889292	4.62235319973	Expressing physical and psychological states	7
+голос_NOUN	упавший	упавший_ADJ	a deadened voice	0.00416737423296	5.3797585768	Expressing physical and psychological states	7
+голос_NOUN	усталый	усталый_ADJ	a tired voice	0.00133399447972	2.6433275997	Expressing physical and psychological states	7
+голос_NOUN	хриплый	хриплый_ADJ	a husky voice	0.00743130129435	5.24887292057	Timbre and coloring	2
+голос_NOUN	чистый	чистый_ADJ	a clear voice	0.000849981594887	0.0	Timbre and coloring	2
+голос_NOUN	энергичный	энергичный_ADJ	an energetic voice	0.000106448093249	0.0	Expressing physical and psychological states	7
+голос_NOUN	юношеский	юношеский_ADJ	an adolescent's voice; a youthful voice	0.000225860075166	1.58248763655	Characteristics of age and sex	6
+грудь_NOUN	белый	белый_ADJ	a white bosom; a white breast	0.00151906190177	1.27660322233	Other properties and conditions (non-medical)	2
+грудь_NOUN	богатырский	богатырский_ADJ	a herculean chest	0.000847468848899	3.80097737979	Strength	4
+грудь_NOUN	большой	большой_ADJ	a large breast	0.000441024366596	0.0	Size and shape; aesthetics	0
+грудь_NOUN	волосатый	волосатый_ADJ	a hairy chest	0.00408863961001	5.10249235374	Other visible properties and conditions	5
+грудь_NOUN	впалый	впалый_ADJ	a sunken chest	0.00529008643146	5.9432549301	Size and shape	3
+грудь_NOUN	выпуклый	выпуклый_ADJ	a prominent chest	0.00164638695238	3.84147215762	Size and shape	3
+грудь_NOUN	высокий	высокий_ADJ	a high bosom	0.00143037466128	1.11694205489	Size and shape; aesthetics	0
+грудь_NOUN	голый	голый_ADJ	a naked chest	0.00325761153464	2.92563340224	Other visible properties and conditions	5
+грудь_NOUN	девический	девический_ADJ	girlish breasts	0.000351451087471	3.91251544737	Characteristics of age	1
+грудь_NOUN	девичий	девичий_ADJ	girlish breasts	0.00118233881397	2.99855013239	Characteristics of age	1
+грудь_NOUN	дряблый	дряблый_ADJ	a flabby bosom	0.000348226722383	3.33629842395	Characteristics of age	1
+грудь_NOUN	загорелый	загорелый_ADJ	a tanned chest	0.000385986130232	2.39560206471	Other visible properties and conditions	5
+грудь_NOUN	заросший	зарастать_VERB	a hairy chest	0.000197326229589	1.22059771128	Other visible properties and conditions	5
+грудь_NOUN	иссохший	иссохший_ADJ	withered breasts	0.000514305822483	4.40383317433	Characteristics of age	1
+грудь_NOUN	крепкий	крепкий_ADJ	a strong chest	0.00100113521583	1.58622327124	Strength	4
+грудь_NOUN	маленький	маленький_ADJ	a small breast	0.000853535652896	0.0	Size and shape; aesthetics	0
+грудь_NOUN	мощный	мощный_ADJ	a powerful chest	0.00110237305485	1.89407840041	Strength	4
+грудь_NOUN	мускулистый	мускулистый_ADJ	a muscular chest	0.00034649111117	3.12188855261	Other visible properties and conditions	5
+грудь_NOUN	мягкий	мягкий_ADJ	a soft bosom; a soft breast	0.000867133857153	1.4236387607	Other properties and conditions (non-medical)	2
+грудь_NOUN	нежный	нежный_ADJ	a tender bosom; a tender breast	0.000743444818285	1.4221566166	Other properties and conditions (non-medical)	2
+грудь_NOUN	неразвитый	неразвитый_ADJ	pre-pubescent breasts	0.000108135872724	2.73158772278	Size and shape; aesthetics	0
+грудь_NOUN	обнаженный	обнаженный_ADJ	a bared chest	0.00269018083993	3.92775763857	Other visible properties and conditions	5
+грудь_NOUN	острый	острый_ADJ	conical breasts	0.00049687677456	0.0	Size and shape; aesthetics	0
+грудь_NOUN	открытый	открытый_ADJ	a bare chest	0.000809939578507	1.21130236979	Other visible properties and conditions	5
+грудь_NOUN	плоский	плоский_ADJ	a flat chest	0.00149084278489	2.74687910563	Size and shape; aesthetics	0
+грудь_NOUN	полный	полный_ADJ	a full breast	0.00408287806579	2.24086003451	Size and shape; aesthetics	0
+грудь_NOUN	пышный	пышный_ADJ	a large bosom	0.00208382666351	3.2658341098	Size and shape; aesthetics	0
+грудь_NOUN	роскошный	роскошный_ADJ	a magnificent bosom	0.000394070399518	1.47318439901	Size and shape; aesthetics	0
+грудь_NOUN	твердый	твердый_ADJ	a firm bosom; a firm breast	0.000437421400842	0.0	Other properties and conditions (non-medical)	2
+грудь_NOUN	тугой	тугой_ADJ	a firm bosom; a firm breast	0.000510497096548	2.55514797784	Other properties and conditions (non-medical)	2
+грудь_NOUN	тщедушный	тщедушный_ADJ	a narrow chest	0.0001339997588	2.40472859481	Size and shape	3
+грудь_NOUN	тяжелый	тяжелый_ADJ	a heavy bosom; a heavy breast	0.000697601280842	0.0	Other properties and conditions (non-medical)	2
+грудь_NOUN	узкий	узкий_ADJ	a narrow chest	0.000805188212745	1.32979448986	Size and shape	3
+грудь_NOUN	упругий	упругий_ADJ	a supple bosom; a supple breast	0.00177970364065	3.9618226369	Other properties and conditions (non-medical)	2
+грудь_NOUN	цыплячий	цыплячий_ADJ	a narrow chest	0.00013617670289	3.92464790705	Size and shape	3
+грудь_NOUN	широкий	широкий_ADJ	a broad chest	0.0041312042046	2.51079970106	Size and shape	3
+губа_NOUN	алый	алый_ADJ	scarlet lips	0.0027987755357	3.77721164544	Color and tactile properties	0
+губа_NOUN	бескровный	бескровный_ADJ	bloodless lips	0.00261304874024	5.33740077155	Color and tactile properties	0
+губа_NOUN	бесцветный	бесцветный_ADJ	colorless lips	0.00055737661407	2.84855612201	Color and tactile properties	0
+губа_NOUN	бледный	бледный_ADJ	pale lips	0.00430501930502	3.17266965924	Color and tactile properties	0
+губа_NOUN	влажный	влажный_ADJ	moist lips	0.0022863536308	3.38207868297	Color and tactile properties	0
+губа_NOUN	воспаленная	воспаленный_ADJ	inflamed lips	0.000386879266035	3.66191302108	Medical conditions and their treatment	2
+губа_NOUN	выпяченный	выпячивать_VERB	puckered lips	0.00386610217945	5.35381440926	Other movements	5
+губа_NOUN	горячий	горячий_ADJ	hot lips	0.0017460199804	1.9915326683	Color and tactile properties	0
+губа_NOUN	запёкшийся	запекаться_VERB	parched, encrusted lips	0.00377613318449	5.80342256151	Medical conditions and their treatment	2
+губа_NOUN	заячий	заячий_ADJ	harelip	0.00134650526923	4.63281080244	Size and shape; aesthetics	1
+губа_NOUN	искусанный	искусывать_VERB	lips which have been bitten (by oneself)	0.000806518897572	4.84901740628	Medical conditions and their treatment	2
+губа_NOUN	капризный	капризный_ADJ	capricious lips	0.00029353293573	2.3023360483	Shapes and movements that express emotional, physical, or psychological states, and personality traits	3
+губа_NOUN	красный	красный_ADJ	red lips	0.002385167925	1.81699686645	Color and tactile properties	0
+губа_NOUN	крашеный	крашеный_ADJ	painted lips, made-up lips	0.000489123789079	3.22932285016	Make-up	4
+губа_NOUN	мокрый	мокрый_ADJ	wet lips	0.00199878074375	2.48604837568	Color and tactile properties	0
+губа_NOUN	морщинистый	морщинистый_ADJ	wrinkled lips	0.000326259838773	2.84013811792	Size and shape; aesthetics	1
+губа_NOUN	мягкий	мягкий_ADJ	soft lips	0.0019992795389	2.26875219807	Color and tactile properties	0
+губа_NOUN	мясистый	мясистый_ADJ	fleshy	0.00125734590679	4.35875397173	Size and shape; aesthetics	1
+губа_NOUN	надутый	надутый_ADJ	pouting lips, a pouting mouth	0.000500960173666	4.44018245505	Shapes and movements that express emotional, physical, or psychological states, and personality traits	3
+губа_NOUN	накрашенный	накрасить_VERB	painted lips, made-up lips	0.00425490764916	6.04946200182	Make-up	4
+губа_NOUN	нежный	нежный_ADJ	tender lips	0.000680001165716	1.34134656613	Color and tactile properties	0
+губа_NOUN	обветренный	обветренный_ADJ	chapped lips	0.000417943716913	4.37564393392	Medical conditions and their treatment	2
+губа_NOUN	обугленный	обугливать_VERB	puffy, chapped, dark red lips	0.0	1.36929745912	Medical conditions and their treatment	2
+губа_NOUN	отвислый	отвислый_ADJ	a hanging lower lip	0.00145231112973	5.91878961644	Size and shape; aesthetics	1
+губа_NOUN	пепельный	пепельный_ADJ	ashen lips	0.000439711439368	3.51720680008	Color and tactile properties	0
+губа_NOUN	пересохший	пересыхать_VERB	parched lips	0.00674833324299	5.78062488357	Medical conditions and their treatment	2
+губа_NOUN	поджатый	поджимать_VERB	pursed lips, a pout	0.00607389451034	5.81809033779	Shapes and movements that express emotional, physical, or psychological states, and personality traits	3
+губа_NOUN	подкрашенный	подкрашивать_VERB	lightly made-up lips	0.00231986522688	5.41907784554	Make-up	4
+губа_NOUN	полный	полный_ADJ	full	0.00103175764671	0.0	Size and shape; aesthetics	1
+губа_NOUN	посиневший	посинеть_VERB	blue lips	0.00290697674419	5.31943191525	Color and tactile properties	0
+губа_NOUN	потрескавшийся	потрескаться_VERB	chapped lips	0.00226948784302	5.52256780557	Medical conditions and their treatment	2
+губа_NOUN	презрительный	презрительный_ADJ	scornful lips	0.000159672139873	1.64399233604	Shapes and movements that express emotional, physical, or psychological states, and personality traits	3
+губа_NOUN	приоткрытый	приоткрытый_ADJ	slightly parted lips	0.000640730990487	4.78346467756	Other movements	5
+губа_NOUN	припухший	припухать_VERB	puffy lips	0.00133142865068	5.13842389013	Medical conditions and their treatment	2
+губа_NOUN	пунцовый	пунцовый_ADJ	crimson lips	0.00096078619762	4.25149329353	Color and tactile properties	0
+губа_NOUN	пухлый	пухлый_ADJ	plump lips, full lips	0.0051946017907	4.83564747983	Size and shape; aesthetics	1
+губа_NOUN	распухший	распухать_VERB	swollen lips	0.0019987575291	4.47779602265	Medical conditions and their treatment	2
+губа_NOUN	румяный	румяный_ADJ	ruddy lips	0.00148413510747	3.35540242645	Color and tactile properties	0
+губа_NOUN	сжатая	сжатый_ADJ	compressed lips	0.00557507860597	5.07834417135	Shapes and movements that express emotional, physical, or psychological states, and personality traits	3
+губа_NOUN	синий	синий_ADJ	blue lips	0.00194304857621	2.12265489113	Color and tactile properties	0
+губа_NOUN	смеющийся	смеяться_VERB	a laughing mouth	0.000510547446102	0.0	Shapes and movements that express emotional, physical, or psychological states, and personality traits	3
+губа_NOUN	сморщенный	сморщенный_ADJ	wrinkled lips	0.000328807661219	3.106573028	Size and shape; aesthetics	1
+губа_NOUN	сочный	сочный_ADJ	ripe lips, lips that are appealing because they're full and moist	0.0017733077483	3.95981228586	Size and shape; aesthetics	1
+губа_NOUN	сухой	сухой_ADJ	dry lips	0.00485729511562	3.10447514263	Color and tactile properties	0
+губа_NOUN	тёплый	теплый_ADJ	warm lips	0.00106151746449	1.52684757565	Color and tactile properties	0
+губа_NOUN	толстый	толстый_ADJ	thick	0.00739192495922	3.48034577169	Size and shape; aesthetics	1
+губа_NOUN	тонкий	тонкий_ADJ	thin	0.00924181775371	3.5175424955	Size and shape; aesthetics	1
+губа_NOUN	увядший	увядший_ADJ	withered lips	0.000221892465364	3.34258694329	Size and shape; aesthetics	1
+губа_NOUN	холодный	холодный_ADJ	cold lips	0.00111573936328	1.41534929449	Color and tactile properties	0
+губа_NOUN	чувственный	чувственный_ADJ	sensual lips	0.00139952571629	3.43575180527	Size and shape; aesthetics	1
+губа_NOUN	шершавый	шершавый_ADJ	rough lips	0.000487105241794	3.11320090717	Color and tactile properties	0
+губа_NOUN	яркий	яркий_ADJ	bright-red lips	0.00193617536217	2.16748200135	Color and tactile properties	0
+губа_NOUN	ярко-красный	яркокрасный_ADJ	bright-red lips	8.43075539568e-05	5.46817717651	Color and tactile properties	0
+желудок_NOUN	больной	больной_ADJ	a bad stomach	0.00104495229986	2.77160240236	General properties	1
+желудок_NOUN	здоровый	здоровый_ADJ	a healthy stomach	0.000733796848343	2.40566807492	General properties	1
+желудок_NOUN	капризный	капризный_ADJ	a sensitive stomach	0.000144373059987	1.86348442779	General properties	1
+желудок_NOUN	луженый	луженый_ADJ	a cast-iron stomach	0.00116459627329	6.28415677757	General properties	1
+желудок_NOUN	нежный	нежный_ADJ	a delicate stomach	0.000191181742144	1.13133651805	General properties	1
+желудок_NOUN	полный	полный_ADJ	a full stomach	0.000282720144753	1.29700275274	Sensations and conditions (non-medical)	0
+желудок_NOUN	пустой	пустой_ADJ	an empty stomach	0.00328109973412	3.8530189317	Sensations and conditions (non-medical)	0
+живот_NOUN	большой	большой_ADJ	a large stomach	0.000682466334203	1.2181479272	Size and shape	0
+живот_NOUN	вздутый	вздутый_ADJ	a distended abdomen	0.00164639850327	6.12265894046	Sensations and medical conditions; inflicting injuries	3
+живот_NOUN	впалый	впалый_ADJ	a sunken stomach	0.002997002997	5.41602021524	Size and shape	0
+живот_NOUN	гладкий	гладкий_ADJ	a smooth stomach	0.000212930185515	1.20345004156	Other properties	2
+живот_NOUN	жирный	жирный_ADJ	a fat stomach	0.000577791784851	2.17133050842	Size and shape	0
+живот_NOUN	круглый	круглый_ADJ	a rounded abdomen	0.00214047250132	2.85395212991	Size and shape	0
+живот_NOUN	мускулистый	мускулистый_ADJ	a muscular stomach	0.000567194866886	3.65974343437	Other properties	2
+живот_NOUN	мягкий	мягкий_ADJ	a soft abdomen	0.00105760950036	2.11052922163	Sensations and medical conditions; inflicting injuries	3
+живот_NOUN	небольшой	небольшой_ADJ	a small stomach, a little pot belly	6.24887715489e-05	0.0	Size and shape	0
+живот_NOUN	огромный	огромный_ADJ	an enormous stomach	0.00116208569119	1.88045275758	Size and shape	0
+живот_NOUN	плоский	плоский_ADJ	a flat stomach	0.00108991825613	2.68689698664	Size and shape	0
+живот_NOUN	толстый	толстый_ADJ	a large stomach	0.00197685433055	2.677625023	Size and shape	0
+живот_NOUN	тугой	тугой_ADJ	a swollen, tight abdomen	0.00177631161581	3.91498291201	Hunger, eating, and breathing	1
+живот_NOUN	упругий	упругий_ADJ	a firm stomach	0.000586090127637	2.94830340719	Other properties	2
+зад_NOUN	бабий	бабий_ADJ	an effeminate butt	0.000669971861182	3.10901338888	Size and shape	0
+зад_NOUN	большой	большой_ADJ	a large butt	6.31825442426e-05	0.0	Size and shape	0
+зад_NOUN	жирный	жирный_ADJ	a fat butt	0.00090103619162	3.13841180521	Size and shape	0
+зад_NOUN	костлявый	костлявый_ADJ	a bony butt	0.00106185293337	4.06075640295	Size and shape	0
+зад_NOUN	круглый	круглый_ADJ	a rounded butt	0.000674096710408	2.52506170388	Size and shape	0
+зад_NOUN	необъятный	необъятный_ADJ	an enormous butt	0.000481231953802	3.05063832988	Size and shape	0
+зад_NOUN	огромный	огромный_ADJ	an enormous butt	0.000156877286308	0.0	Size and shape	0
+зад_NOUN	отвислый	отвислый_ADJ	a droopy rump	0.001617001617	6.07716720255	Size and shape	0
+зад_NOUN	оттопыренный	оттопыривать_VERB	a protruding butt	0.00382987300947	5.79453358964	Size and shape	0
+зад_NOUN	плоский	плоский_ADJ	a flat butt	8.98028826725e-05	0.0	Size and shape	0
+зад_NOUN	толстый	толстый_ADJ	a plump butt	0.00160748209849	3.35290053016	Size and shape	0
+зад_NOUN	тяжёлый	тяжелый_ADJ	a heavy butt	0.000163700355594	0.0	Size and shape	0
+зад_NOUN	худой	худой_ADJ	a skinny butt	0.000253332911112	1.64296963661	Size and shape	0
+зад_NOUN	худощавый	худощавый_ADJ	a skinny butt	0.00016784155757	2.0895558398	Size and shape	0
+зад_NOUN	широкий	широкий_ADJ	a wide butt	0.000576756704797	2.24803985032	Size and shape	0
+запястье_NOUN	сильный	сильный_ADJ	a strong wrist	0.0	0.0	Strength	0
+запястье_NOUN	тонкий	тонкий_ADJ	a thin wrist	0.000922358261801	3.88182624688	Size and shape; aesthetics	1
+запястье_NOUN	узкий	узкий_ADJ	a narrow wrist	0.000458736639295	3.20397843389	Size and shape; aesthetics	1
+запястье_NOUN	хрупкий	хрупкий_ADJ	a delicate wrist	0.000473148805299	3.51772678727	Strength	0
+затылок_NOUN	бритый	брить_VERB	a shaved back of the head	0.00118948495302	4.08403611294	Appearance	0
+затылок_NOUN	выдающийся	выдающийся_ADJ	a head with a prominent or protruding back	0.000260331923202	1.44301630619	Appearance	0
+затылок_NOUN	выпуклый	выпуклый_ADJ	a head with a prominent or protruding back	0.000650688645483	3.14179821517	Appearance	0
+затылок_NOUN	жирный	жирный_ADJ	fat neck, fat back of the neck	0.00148431701887	3.36196118892	Appearance	0
+затылок_NOUN	костлявый	костлявый_ADJ	bony neck, bony back of the neck	0.000118168389956	1.74533191561	Appearance	0
+затылок_NOUN	красный	красный_ADJ	red neck, red back of the neck	0.000385845686619	1.33034857744	Appearance	0
+затылок_NOUN	крепкий	крепкий_ADJ	a strong, sturdy neck	0.000760904715707	2.22405352574	Appearance	0
+затылок_NOUN	круглый	круглый_ADJ	round back of the head	0.000718161506543	2.18371824255	Appearance	0
+затылок_NOUN	нежный	нежный_ADJ	a delicate neck	0.000263082893035	1.21780411138	Appearance	0
+затылок_NOUN	плоский	плоский_ADJ	a head with a flat back	0.00100376411543	2.87899883703	Appearance	0
+затылок_NOUN	седой	седой_ADJ	a head with grey hair in back	0.00078031379762	2.43011350976	Appearance	0
+затылок_NOUN	скошенный	скашивать_VERB	a head with the back angling inward towards the neck	0.000668374735435	3.25277066009	Appearance	0
+затылок_NOUN	срезанный	срезать_VERB	a head with the back angling inward towards the neck	0.00032376429959	2.42946477138	Appearance	0
+затылок_NOUN	стёсанный	стесывать_VERB	a head with the back angling inward towards the neck	0.000715051841258	6.16149155665	Appearance	0
+зуб_NOUN	аккуратные	аккуратный_ADJ	regular/neat/straight teeth	6.54460969584e-05	0.0	Size and shape; aesthetics	1
+зуб_NOUN	безупречные	безупречный_ADJ	perfect teeth	0.00013640006138	1.69740417019	Size and shape; aesthetics	1
+зуб_NOUN	белые	белый_ADJ	white teeth	0.00663243652583	2.9569530909	Color	2
+зуб_NOUN	блестящие	блестящий_ADJ	sparkling teeth	0.000936899798567	1.78362099896	Color	2
+зуб_NOUN	больные	больной_ADJ	unhealthy teeth	0.00234981294252	2.5031266473	Medical conditions	3
+зуб_NOUN	большие	большой_ADJ	large teeth	0.000325099290742	0.0	Size and shape; aesthetics	1
+зуб_NOUN	верхние	верхний_ADJ	upper teeth	0.00163272229938	2.17796329933	Types of teeth	0
+зуб_NOUN	вставные	вставной_ADJ	dentures	0.00309707735574	6.1827603474	Dental hygiene and treatment	4
+зуб_NOUN	гнилые	гнилой_ADJ	rotten teeth	0.00376128791686	4.40908739777	Medical conditions	3
+зуб_NOUN	длинные	длинный_ADJ	long teeth	0.000908641975309	1.16082086869	Size and shape; aesthetics	1
+зуб_NOUN	желтоватые	желтоватый_ADJ	yellowish teeth	0.000911823308905	3.44604935928	Color	2
+зуб_NOUN	жемчужные	жемчужный_ADJ	pearly teeth	0.00111513799833	4.26281220819	Color	2
+зуб_NOUN	жёлтые	желтый_ADJ	yellow teeth	0.00445041318263	3.07884713009	Color	2
+зуб_NOUN	задние	задний_ADJ	back teeth	0.000184333920898	0.0	Types of teeth	0
+зуб_NOUN	здоровые	здоровый_ADJ	healthy teeth	0.00146200294403	1.99155790506	Medical conditions	3
+зуб_NOUN	золотой	золотой_ADJ	a gold cap	0.00575346017957	3.14846276302	Dental hygiene and treatment	4
+зуб_NOUN	искусственные	искусственный_ADJ	false teeth	0.00117651887218	2.3828810427	Dental hygiene and treatment	4
+зуб_NOUN	испорченные	испорченный_ADJ	rotten teeth	0.000588754783633	3.46695097651	Medical conditions	3
+зуб_NOUN	кариозные	кариозный_ADJ	decayed teeth	0.000469203977406	7.4724026326	Medical conditions	3
+зуб_NOUN	коренные	коренной_ADJ	molars	0.00319720094106	3.76831634891	Types of teeth	0
+зуб_NOUN	красивые	красивый_ADJ	pretty teeth	0.000507220202734	0.0	Size and shape; aesthetics	1
+зуб_NOUN	крепкие	крепкий_ADJ	strong teeth	0.00346244941744	2.93223163033	Medical conditions	3
+зуб_NOUN	кривые	кривой_ADJ	crooked teeth	0.0013285198556	2.69511871979	Size and shape; aesthetics	1
+зуб_NOUN	крупные	крупный_ADJ	large teeth	0.00100772801421	1.23969493078	Size and shape; aesthetics	1
+зуб_NOUN	лошадиные	лошадиный_ADJ	horsey teeth	0.00168946897671	3.81979399849	Size and shape; aesthetics	1
+зуб_NOUN	маленькие	маленький_ADJ	small teeth	0.00021245405681	0.0	Size and shape; aesthetics	1
+зуб_NOUN	мелкие	мелкий_ADJ	small teeth	0.00141036619151	1.77224142544	Size and shape; aesthetics	1
+зуб_NOUN	молочные	молочный_ADJ	deciduous teeth, baby teeth	0.00202250031602	3.58721373568	Types of teeth	0
+зуб_NOUN	некрасивые	некрасивый_ADJ	unattractive teeth	9.68210424399e-05	0.0	Size and shape; aesthetics	1
+зуб_NOUN	неровные	неровный_ADJ	uneven teeth	0.000901592813971	3.28485874524	Size and shape; aesthetics	1
+зуб_NOUN	нижние	нижний_ADJ	lower teeth	0.000934579439252	1.56225246218	Types of teeth	0
+зуб_NOUN	острые	острый_ADJ	sharp teeth	0.00467447148994	3.21995281624	Size and shape; aesthetics	1
+зуб_NOUN	отличные	отличный_ADJ	perfect teeth	0.000324715873611	0.0	Size and shape; aesthetics	1
+зуб_NOUN	передние	передний_ADJ	front teeth	0.00722116803711	4.08851861009	Types of teeth	0
+зуб_NOUN	пластмассовый	пластмассовый_ADJ	a plastic tooth	0.000170276529083	1.89728031743	Dental hygiene and treatment	4
+зуб_NOUN	плохие	плохой_ADJ	bad teeth	0.000344688918251	0.0	Medical conditions	3
+зуб_NOUN	прекрасные	прекрасный_ADJ	beautiful teeth	0.000413084817709	0.0	Size and shape; aesthetics	1
+зуб_NOUN	редкие	редкий_ADJ	widely-spaced teeth	0.00148893012818	2.11121150272	Size and shape; aesthetics	1
+зуб_NOUN	ровные	ровный_ADJ	even teeth	0.00243147955531	3.07022270261	Size and shape; aesthetics	1
+зуб_NOUN	сломанный	сломать_VERB	a broken tooth	0.00144561962502	2.86944267959	Inflicting and sustaining injuries	5
+зуб_NOUN	торчащие	торчать_VERB	teeth that stick out, buckteeth	0.000997702658352	2.09907914416	Size and shape; aesthetics	1
+зуб_NOUN	хорошие	хороший_ADJ	good teeth	0.000151071566247	0.0	Medical conditions	3
+зуб_NOUN	частые	частый_ADJ	close-set, crowded teeth	0.000230783654748	0.0	Size and shape; aesthetics	1
+зуб_NOUN	чёрные	черный_ADJ	blackened (i.e. decayed) teeth	0.00080943769913	0.0	Color	2
+зуб_NOUN	чувствительный	чувствительный_ADJ	a sensitive tooth	6.12857755715e-05	0.0	Medical conditions	3
+зуб_NOUN	чудесные	чудесный_ADJ	wonderful teeth	0.000221763295403	0.0	Size and shape; aesthetics	1
+икра_NOUN	выпуклый	выпуклый_ADJ	rounded, bulging calves	0.000349192492361	2.74931935508	Size and shape	0
+икра_NOUN	голый	голый_ADJ	bare calves	0.00128116158651	3.34737161792	Other properties	1
+икра_NOUN	крепкий	крепкий_ADJ	strong calves	0.000526523627748	2.41936133055	Other properties	1
+икра_NOUN	круглый	круглый_ADJ	rounded calves	0.000185438446026	1.38577427435	Size and shape	0
+икра_NOUN	мускулистый	мускулистый_ADJ	muscular calves	0.00205784840517	5.12774687274	Other properties	1
+икра_NOUN	толстый	толстый_ADJ	heavy calves	0.00123639497199	3.24768686816	Size and shape	0
+икра_NOUN	упругий	упругий_ADJ	firm calves	0.000888888888889	3.71073714499	Other properties	1
+икра_NOUN	худой	худой_ADJ	thin calves	0.000198570293884	1.53775597461	Size and shape	0
+кисть_NOUN	белый	белый_ADJ	a white hand	0.000284317359098	1.13686507135	Color and other visible properties	0
+кисть_NOUN	большой	большой_ADJ	a large hand	0.000203799289054	0.0	Size and shape; aesthetics	1
+кисть_NOUN	волосатый	волосатый_ADJ	a hairy hand	0.00131423314496	4.16139343756	Color and other visible properties	0
+кисть_NOUN	жилистый	жилистый_ADJ	a sinewy hand	0.000856164383562	4.1198861061	Color and other visible properties	0
+кисть_NOUN	загорелый	загорелый_ADJ	a tanned hand	0.00012025012025	1.49372386168	Color and other visible properties	0
+кисть_NOUN	изящный	изящный_ADJ	an elegant hand	0.000466762612315	2.19913134308	Size and shape; aesthetics	1
+кисть_NOUN	костлявый	костлявый_ADJ	a bony hand	0.000396353547364	2.98266653067	Size and shape; aesthetics	1
+кисть_NOUN	маленький	маленький_ADJ	a small hand	0.000239615781304	0.0	Size and shape; aesthetics	1
+кисть_NOUN	небольшой	небольшой_ADJ	a small hand	8.79035873454e-05	0.0	Size and shape; aesthetics	1
+кисть_NOUN	опухший	опухать_VERB	a swollen hand	0.000133886731825	1.95010663884	Color and other visible properties	0
+кисть_NOUN	пухлый	пухлый_ADJ	a fleshy hand	0.000228532251614	2.01425829958	Size and shape; aesthetics	1
+кисть_NOUN	распухший	распухать_VERB	a swollen hand	0.000401848503114	3.05111168203	Color and other visible properties	0
+кисть_NOUN	сильный	сильный_ADJ	a strong hand	0.00013604825178	0.0	Color and other visible properties	0
+кисть_NOUN	слабый	слабый_ADJ	a weak hand	0.000181047358972	0.0	Color and other visible properties	0
+кисть_NOUN	смуглый	смуглый_ADJ	an olive-complected hand	0.00041239239136	2.41093433285	Color and other visible properties	0
+кисть_NOUN	тонкий	тонкий_ADJ	a fine-boned hand	0.00106786128221	2.56734285965	Size and shape; aesthetics	1
+кисть_NOUN	узкий	узкий_ADJ	a narrow hand	0.000489015949443	1.87227444891	Size and shape; aesthetics	1
+кисть_NOUN	хрупкий	хрупкий_ADJ	a fragile hand	0.000554815801154	2.8399492697	Color and other visible properties	0
+кисть_NOUN	худой	худой_ADJ	a bony hand	0.000225886604924	1.25802694488	Size and shape; aesthetics	1
+кисть_NOUN	широкий	широкий_ADJ	a broad hand	0.000945608944348	2.39372540966	Size and shape; aesthetics	1
+кожа_NOUN	белоснежный	белоснежный_ADJ	skin as white as snow	0.000239998080015	2.09567450092	Color and tactile properties	2
+кожа_NOUN	белый	белый_ADJ	white skin	0.00145565639321	1.7502179643	Color and tactile properties	2
+кожа_NOUN	гладкий	гладкий_ADJ	smooth skin	0.00367902546703	3.95773571919	Color and tactile properties	2
+кожа_NOUN	грубый	грубый_ADJ	coarse skin	0.000970226183979	2.00426101724	Color and tactile properties	2
+кожа_NOUN	грязный	грязный_ADJ	dirty skin	0.000174459176553	0.0	Other properties and conditions (non-medical)	0
+кожа_NOUN	дряблый	дряблый_ADJ	flaccid skin	0.00234753763715	5.26412352895	Characteristics of age	3
+кожа_NOUN	жёлтый	желтый_ADJ	sallow skin	0.00308572378025	2.90795478002	Color and tactile properties	2
+кожа_NOUN	жирный	жирный_ADJ	oily skin	0.00469341101738	4.16779579515	Other properties and conditions (non-medical)	0
+кожа_NOUN	загорелый	загорелый_ADJ	tanned skin	0.00184619754314	4.0152465757	Color and tactile properties	2
+кожа_NOUN	морщинистый	морщинистый_ADJ	wrinkled skin	0.00129795571974	4.25005753796	Characteristics of age	3
+кожа_NOUN	нежный	нежный_ADJ	soft skin	0.00469449764555	3.51647823725	Color and tactile properties	2
+кожа_NOUN	нечистый	нечистый_ADJ	dirty skin; blemished skin	0.000275881095248	1.90446326673	Other properties and conditions (non-medical)	0
+кожа_NOUN	обветренный	обветренный_ADJ	chapped skin	0.000208975497623	3.69061762574	Other properties and conditions (non-medical)	0
+кожа_NOUN	плохой	плохой_ADJ	bad skin	0.000192132186945	0.0	Aesthetics	1
+кожа_NOUN	пористый	пористый_ADJ	skin with large pores	0.000412063148678	3.77735187927	Other properties and conditions (non-medical)	0
+кожа_NOUN	розовый	розовый_ADJ	rosy skin	0.00146508966043	2.4253389396	Color and tactile properties	2
+кожа_NOUN	сморщенный	сморщенный_ADJ	wrinkled skin	0.000860912060365	4.09160925408	Characteristics of age	3
+кожа_NOUN	смуглый	смуглый_ADJ	olive skin	0.00559800959659	4.71888294657	Color and tactile properties	2
+кожа_NOUN	сухой	сухой_ADJ	dry skin	0.0035322160333	3.07642819101	Other properties and conditions (non-medical)	0
+кожа_NOUN	тёмный	темный_ADJ	dark skin	0.00122007994734	1.74805987127	Color and tactile properties	2
+кожа_NOUN	толстый	толстый_ADJ	thick skin	0.00197154326706	2.4605698802	Medical conditions and their treatment	4
+кожа_NOUN	тонкий	тонкий_ADJ	thin skin	0.00314434701092	2.79313622582	Medical conditions and their treatment	4
+кожа_NOUN	упругий	упругий_ADJ	supple skin	0.000950864097749	3.38758147182	Medical conditions and their treatment	4
+кожа_NOUN	хороший	хороший_ADJ	good skin	0.000180244148893	0.0	Aesthetics	1
+кожа_NOUN	чёрный	черный_ADJ	black skin	0.00182745470989	1.98537189726	Color and tactile properties	2
+кожа_NOUN	чистый	чистый_ADJ	clean skin	0.000694364078232	1.19737377916	Other properties and conditions (non-medical)	0
+кожа_NOUN	чувствительный	чувствительный_ADJ	sensitive skin	0.00294649997895	3.83990211591	Medical conditions and their treatment	4
+кожа_NOUN	чудесный	чудесный_ADJ	marvelous skin	0.000220608511812	0.0	Aesthetics	1
+кожа_NOUN	шершавый	шершавый_ADJ	rough skin	0.000791922391606	3.63214740332	Color and tactile properties	2
+колено_NOUN	гладкий	гладкий_ADJ	smooth knees	0.000123990638707	0.0	Other properties	2
+колено_NOUN	голый	голый_ADJ	bare knees	0.00169293497699	2.37578987581	Other properties	2
+колено_NOUN	костлявый	костлявый_ADJ	bony knees	0.000567879325643	3.16784627762	Shape	0
+колено_NOUN	круглый	круглый_ADJ	rounded knees	0.00100499145757	1.7499346142	Shape	0
+колено_NOUN	округлый	округлый_ADJ	rounded knees	0.000391138925435	2.82695520138	Shape	0
+колено_NOUN	острый	острый_ADJ	pointy knees	0.00178831133854	2.2758815046	Shape	0
+колено_NOUN	полный	полный_ADJ	soft, round knees	0.000109624653018	0.0	Shape	0
+колено_NOUN	разбитый	разбитый_ADJ	a scraped and bruised knee	0.000169684217671	1.40283970746	Medical conditions; sustaining injuries	1
+колено_NOUN	худой	худой_ADJ	skinny knees	0.0011223051626	2.14413601283	Shape	0
+кровь_NOUN	алая	алый_ADJ	crimson blood	0.00226895349677	3.54571313759	Physical properties	0
+кровь_NOUN	артериальная	артериальный_ADJ	arterial blood	0.000742106683458	4.65006513027	Medical properties	1
+кровь_NOUN	венозная	венозный_ADJ	venous blood	0.00153738328322	6.13875887524	Medical properties	1
+кровь_NOUN	густая	густой_ADJ	thick blood	0.00108000064478	1.65302647682	Physical properties	0
+кровь_NOUN	запекшаяся	запекаться_VERB	dried blood	0.00529685876161	6.13802177447	Physical properties	0
+кровь_NOUN	засохшая	засыхать_VERB	dried blood	0.00215190707275	4.50826425132	Physical properties	0
+кровь_NOUN	тёмная	темный_ADJ	dark blood	0.000777116213158	0.0	Physical properties	0
+кулак_NOUN	большой	большой_ADJ	a large fist	0.000189235526321	0.0	Size and other visible propertiesSize and other visible properties	2
+кулак_NOUN	волосатый	волосатый_ADJ	a hairy fist	0.00227858727589	4.57603180103	Size and other visible properties	0
+кулак_NOUN	грозный	грозный_ADJ	a large, scary-looking fist	0.000158040300277	0.0	Size and other visible properties	0
+кулак_NOUN	железный	железный_ADJ	an iron fist	0.000947224524504	1.74930857742	Strength	1
+кулак_NOUN	крепкий	крепкий_ADJ	a strong fist	0.00156707971793	2.43566492189	Strength	1
+кулак_NOUN	литой	литой_ADJ	an iron fist	0.000441961044291	3.62374108116	Strength	1
+кулак_NOUN	маленький	маленький_ADJ	a small fist	0.000190376469468	0.0	Size and other visible properties	0
+кулак_NOUN	могучий	могучий_ADJ	a powerful fist	0.000619156708563	1.90511708174	Strength	1
+кулак_NOUN	огромный	огромный_ADJ	an enormous fist	0.000900067813328	1.51157021895	Size and other visible propertiesSize and other visible properties	2
+кулак_NOUN	пудовый	пудовый_ADJ	an iron fist	0.00163409373162	6.11514398179	Strength	1
+кулак_NOUN	свинцовый	свинцовый_ADJ	an iron fist	0.00022837567799	1.90453007905	Strength	1
+кулак_NOUN	сухой	сухой_ADJ	a dried up, withered fist	0.000299368604398	0.0	Size and other visible properties	0
+кулак_NOUN	тяжёлый	тяжелый_ADJ	an iron fist	0.00110664746456	1.77200169906	Strength	1
+ладонь_NOUN	большой	большой_ADJ	a large palm	0.000375195101453	0.0	Size and shape	1
+ладонь_NOUN	влажный	влажный_ADJ	a damp palm	0.00130827264402	2.95596758368	Tactile properties	0
+ладонь_NOUN	гладкий	гладкий_ADJ	a smooth palm	0.000477648233787	1.93507809117	Tactile properties	0
+ладонь_NOUN	горячий	горячий_ADJ	a hot palm	0.0015754697016	2.24877249489	Tactile properties	0
+ладонь_NOUN	жёсткий	жесткий_ADJ	a tough palm	0.00139151532451	2.56707488684	Tactile properties	0
+ладонь_NOUN	маленький	маленький_ADJ	a small palm	0.000512285538645	0.0	Size and shape	1
+ладонь_NOUN	мозолистый	мозолистый_ADJ	a calloused palm	0.00124378109453	5.53591425252	Color and other visible properties	2
+ладонь_NOUN	морщинистый	морщинистый_ADJ	a palm crisscrossed by lines	0.000483923002473	3.26844234678	Color and other visible properties	2
+ладонь_NOUN	мягкий	мягкий_ADJ	a soft palm	0.000964178105122	1.85872723652	Tactile properties	0
+ладонь_NOUN	нежный	нежный_ADJ	a tender palm	0.000480653689017	1.27457352819	Tactile properties	0
+ладонь_NOUN	потный	потный_ADJ	a sweaty palm	0.00267588922828	4.35247435033	Tactile properties	0
+ладонь_NOUN	розовый	розовый_ADJ	a pink palm	0.00105333716365	2.12990225966	Color and other visible properties	2
+ладонь_NOUN	смуглый	смуглый_ADJ	an olive-skinned palm	0.000569408526893	2.44676445891	Color and other visible properties	2
+ладонь_NOUN	твёрдый	твердый_ADJ	a hard palm	0.000532265068004	1.30544775231	Tactile properties	0
+ладонь_NOUN	тёплый	теплый_ADJ	a warm palm	0.00221053526532	2.61055865708	Tactile properties	0
+ладонь_NOUN	узкий	узкий_ADJ	a narrow palm	0.00144893174214	2.25187611408	Size and shape	1
+ладонь_NOUN	холодный	холодный_ADJ	a cold palm	0.000795309711955	1.47740912839	Tactile properties	0
+ладонь_NOUN	шершавый	шершавый_ADJ	a rough palm	0.00271702938121	4.87064108331	Tactile properties	0
+ладонь_NOUN	широкий	широкий_ADJ	a broad palm	0.00326144376306	2.76040978004	Size and shape	1
+лицо_NOUN	бабье	бабий_ADJ	womanish face	0.000404608035965	2.0176036958	Shape (natural)	1
+лицо_NOUN	багровое	багровый_ADJ	purple face	0.000738821939408	2.7649499162	Color	3
+лицо_NOUN	безобразное	безобразный_ADJ	ugly face	0.000193247136122	1.25688327627	Aesthetic characteristics	4
+лицо_NOUN	белое	белый_ADJ	white face	0.00202864823657	0.0	Color	3
+лицо_NOUN	бескровное	бескровный_ADJ	bloodless face, pale face	0.000409361645998	3.46526325494	Color	3
+лицо_NOUN	бесстрастное	бесстрастный_ADJ	impassive face	0.000386246006898	3.17095405727	General expressions for various emotions	8
+лицо_NOUN	бледное	бледный_ADJ	pale face	0.00806209984339	3.49545656237	Color	3
+лицо_NOUN	большое	большой_ADJ	large face	0.00051472739738	0.0	Size	0
+лицо_NOUN	бульдожье	бульдожий_ADJ	face like a bulldog	8.21345866463e-05	4.01112022671	Shape (natural)	1
+лицо_NOUN	весёлое	веселый_ADJ	merry face	0.00178811987652	1.45489771041	General expressions for various emotions	8
+лицо_NOUN	восковое	восковой_ADJ	wax-like face	0.000389374601004	2.59773779152	Color	3
+лицо_NOUN	выбритое	выбривать_VERB	clean-shaven face	0.000576004208913	3.22549904035	Shape and appearance due to current condition	2
+лицо_NOUN	выразительное	выразительный_ADJ	expressive face	0.000805751273535	2.46136308817	General expressions for various emotions	8
+лицо_NOUN	гладкое	гладкий_ADJ	clean-shaven face	0.000244759368165	1.01045940695	Shape and appearance due to current condition	2
+лицо_NOUN	глупое	глупый_ADJ	stupid face	0.000419917670687	0.0	General expressions for various emotions	8
+лицо_NOUN	грубое	грубый_ADJ	coarse face	0.000463063205984	0.0	Aesthetic characteristics	4
+лицо_NOUN	грустное	грустный_ADJ	sad face	0.000727805228798	1.6470480977	General expressions for various emotions	8
+лицо_NOUN	девичье	девичий_ADJ	girlish face	0.000524409702924	2.0988562951	Characteristics of age	5
+лицо_NOUN	деревянное	деревянный_ADJ	wooden face	0.000258173588425	0.0	General expressions for various emotions	8
+лицо_NOUN	детское	детский_ADJ	child's face; childish face	0.000935757276508	0.0	Characteristics of age	5
+лицо_NOUN	длинное	длинный_ADJ	long face	0.000871653672917	0.0	Shape (natural)	1
+лицо_NOUN	дряблое	дряблый_ADJ	sagging face, flaccid face	0.000181948440361	2.66956175943	Characteristics of age	5
+лицо_NOUN	жёлтое	желтый_ADJ	yellow face, jaundiced face	0.00171633447068	1.61630576268	Color	3
+лицо_NOUN	живое	живой_ADJ	lively face	0.00131088274154	0.0	General expressions for various emotions	8
+лицо_NOUN	жирное	жирный_ADJ	fat face	0.000297826753733	1.16409839629	Size	0
+лицо_NOUN	заплаканное	заплаканный_ADJ	tear-stained face	0.000523221955303	3.79237195376	Shape and appearance due to current condition	2
+лицо_NOUN	заспанное	заспанный_ADJ	the face of a person who has just woken up from a deep sleep	0.000477072140123	3.35724344997	Shape and appearance due to current condition	2
+лицо_NOUN	застывшее	застывший_ADJ	set face, immobile face	0.000366426303075	2.43933903371	General expressions for various emotions	8
+лицо_NOUN	зелёное	зеленый_ADJ	green face	0.000330944287722	0.0	Color	3
+лицо_NOUN	значительное	значительный_ADJ	imposing face	0.000672712978497	0.0	Aesthetic characteristics	4
+лицо_NOUN	измождённое	изможденный_ADJ	exhausted face	0.000818550165756	4.1014969439	Other visible properties	6
+лицо_NOUN	измученное	измученный_ADJ	exhausted face, worn-out face	0.000644988148907	2.72344418685	Shape and appearance due to current condition	2
+лицо_NOUN	интересное	интересный_ADJ	interesting face	0.00027526943492	0.0	Aesthetic characteristics	4
+лицо_NOUN	испитое	испитой_ADJ	a face worn out by excess	0.000542345072749	4.54392475719	Other visible properties	6
+лицо_NOUN	испуганное	испуганный_ADJ	frightened face	0.00144978926438	3.19589181717	General expressions for various emotions	8
+лицо_NOUN	истасканное	истасканный_ADJ	a face worn out by vice	0.0	2.56062707606	Other visible properties	6
+лицо_NOUN	каменное	каменный_ADJ	stone face	0.00130488597982	1.51579170028	General expressions for various emotions	8
+лицо_NOUN	квадратное	квадратный_ADJ	square face	0.000240570955067	1.03634885969	Shape (natural)	1
+лицо_NOUN	кирпичное	кирпичный_ADJ	a sun-burnt, weather-beaten face (lit."brick-red face")	9.87512456123e-05	0.0	Color	3
+лицо_NOUN	конопатое	конопатый_ADJ	freckled face	0.000104871270515	3.23285381731	Other visible properties	6
+лицо_NOUN	костлявое	костлявый_ADJ	bony face	0.000326345609065	2.56388160177	Size	0
+лицо_NOUN	красивое	красивый_ADJ	pretty face, handsome face	0.00333033057626	1.86383133754	Aesthetic characteristics	4
+лицо_NOUN	красное	красный_ADJ	red face	0.0023760236987	0.0	Color	3
+лицо_NOUN	круглое	круглый_ADJ	round face	0.00220885946553	2.09672173612	Shape (natural)	1
+лицо_NOUN	крупное	крупный_ADJ	large face	0.000542922251318	0.0	Size	0
+лицо_NOUN	кукольное	кукольный_ADJ	a doll-like face	7.73025941841e-05	1.72523388736	Aesthetic characteristics	4
+лицо_NOUN	курносое	курносый_ADJ	face with a turned-up nose	0.000327264545659	3.06801823738	Shape (natural)	1
+лицо_NOUN	лисье	лисий_ADJ	fox-like face	0.0	0.0	Shape (natural)	1
+лицо_NOUN	лошадиное	лошадиный_ADJ	horse face, horsey face	0.000306918068673	2.03919946075	Shape (natural)	1
+лицо_NOUN	маленькое	маленький_ADJ	small face	0.000643923337529	0.0	Size	0
+лицо_NOUN	мальчишеское	мальчишеский_ADJ	boyish face	0.000199697730254	2.27798793135	Characteristics of age	5
+лицо_NOUN	мертвенное	мертвенный_ADJ	deathly pale face	0.000163887036308	2.82413878759	Color	3
+лицо_NOUN	миловидное	миловидный_ADJ	nice-looking face	0.000367747207845	2.94732611825	Aesthetic characteristics	4
+лицо_NOUN	милое	милый_ADJ	sweet face	0.00104258261484	0.0	Aesthetic characteristics	4
+лицо_NOUN	мокрое	мокрый_ADJ	tear-stained face	0.00134458675368	1.81220088027	Shape and appearance due to current condition	2
+лицо_NOUN	молодое	молодой_ADJ	youthful face	0.0023395281901	0.0	Characteristics of age	5
+лицо_NOUN	моложавое	моложавый_ADJ	young-looking face	0.000286773592249	3.34792012251	Characteristics of age	5
+лицо_NOUN	морщинистое	морщинистый_ADJ	wrinkled face	0.00122571829362	4.13558313179	Characteristics of age	5
+лицо_NOUN	мясистое	мясистый_ADJ	fleshy face	0.000327148559524	2.98870839892	Size	0
+лицо_NOUN	набелённое	набелить_VERB	a whitened face	6.84336228076e-05	3.48305279651	Make-up and care	7
+лицо_NOUN	напряжённое	напряженный_ADJ	tense, strained face	0.000831067789492	2.00348220034	General expressions for various emotions	8
+лицо_NOUN	напудренное	напудривать_VERB	a powdered face	0.000159433691528	3.05262708706	Make-up and care	7
+лицо_NOUN	нарумяненное	нарумянивать_VERB	a rouged face	6.84033517642e-05	2.92563722948	Make-up and care	7
+лицо_NOUN	небритое	небритый_ADJ	unshaven face	0.000462803317665	3.07044882659	Shape and appearance due to current condition	2
+лицо_NOUN	невыразительное	невыразительный_ADJ	unexpressive face	0.000164059562736	3.30716213004	General expressions for various emotions	8
+лицо_NOUN	нежное	нежный_ADJ	soft face	0.000642637965008	0.0	Other visible properties	6
+лицо_NOUN	некрасивое	некрасивый_ADJ	unattractive face	0.000809514493682	2.73533244981	Aesthetic characteristics	4
+лицо_NOUN	немолодое	немолодой_ADJ	a face that's no longer young	0.00012200935857	1.22682493223	Characteristics of age	5
+лицо_NOUN	неподвижное	неподвижный_ADJ	immobile face	0.00127563732036	2.49429233843	General expressions for various emotions	8
+лицо_NOUN	неприятное	неприятный_ADJ	unpleasant face	0.000302059397823	0.0	Aesthetic characteristics	4
+лицо_NOUN	несимпатичное	несимпатичный_ADJ	unpleasant/unattractive face	0.0	1.64739913372	Aesthetic characteristics	4
+лицо_NOUN	несчастное	несчастный_ADJ	unhappy face	0.00035734780662	0.0	General expressions for various emotions	8
+лицо_NOUN	обветренное	обветренный_ADJ	weathered face, weather-beaten face; chapped face	0.000410231165262	4.3493331078	Shape and appearance due to current condition	2
+лицо_NOUN	обрюзгшее	обрюзгший_ADJ	flabby face	0.000177868587039	3.99535880544	Shape and appearance due to current condition	2
+лицо_NOUN	одутловатое	одутловатый_ADJ	puffy face	0.00071972759677	4.55880282122	Shape and appearance due to current condition	2
+лицо_NOUN	одухотворенное	одухотворенный_ADJ	spiritual face	0.000250601443464	3.63006121097	General expressions for various emotions	8
+лицо_NOUN	оживленное	оживленный_ADJ	animated face	0.000526198619741	2.30637213447	Joy and happiness, dejection and unhappiness; fear, hatred, malice	9
+лицо_NOUN	опухшее	опухать_VERB	swollen face, puffy face	0.000861580319692	3.60029195175	Shape and appearance due to current condition	2
+лицо_NOUN	острое	острый_ADJ	sharp face	0.000360039771835	0.0	Shape (natural)	1
+лицо_NOUN	осунувшееся	осунуться_VERB	thin, pinched, drawn face	0.00103529069873	4.00926268527	Shape and appearance due to current condition	2
+лицо_NOUN	отёкшее	отекать_VERB	swollen face, edematous face	0.00028256247707	3.88356739945	Shape and appearance due to current condition	2
+лицо_NOUN	открытое	открытый_ADJ	open face, frank face	0.00118324540878	1.17503929129	General expressions for various emotions	8
+лицо_NOUN	отрешённое	отрешенный_ADJ	aloof face	0.000154843528338	2.92279080499	General expressions for various emotions	8
+лицо_NOUN	отталкивающее	отталкивать_VERB	repulsive face	5.81495472163e-05	0.0	Aesthetic characteristics	4
+лицо_NOUN	пепельное	пепельный_ADJ	ashen face	8.64084116315e-05	1.87098676166	Color	3
+лицо_NOUN	плоское	плоский_ADJ	flat face	0.000601477157136	1.69447996029	Shape (natural)	1
+лицо_NOUN	побледневшее	побледнеть_VERB	a face which has turned pale	0.00127069919776	2.89343952351	Color	3
+лицо_NOUN	поблекшее	поблекнуть_VERB	a face which has faded	9.10000910001e-05	2.05971279309	Characteristics of age	5
+лицо_NOUN	подвижное	подвижный_ADJ	mobile face	0.000582663084036	2.20285886969	General expressions for various emotions	8
+лицо_NOUN	полное	полный_ADJ	full face, heavy face	0.000790233587426	0.0	Size	0
+лицо_NOUN	помолодевшее	помолодеть_VERB	rejuvenated face	0.000136482127665	2.42566322366	Characteristics of age	5
+лицо_NOUN	помятое	помятый_ADJ	a face lined or creased (from sleeping, etc.)	0.000268258637701	2.9441377854	Shape and appearance due to current condition	2
+лицо_NOUN	посвежевшее	посвежеть_VERB	a face which has acquired a healthy	0.0	2.34464468067	Color	3
+лицо_NOUN	постаревшее	постареть_VERB	a face which has aged	0.000235433673354	2.09352771305	Characteristics of age	5
+лицо_NOUN	постное	постный_ADJ	pious face	0.000290112599953	2.45961228528	General expressions for various emotions	8
+лицо_NOUN	потасканное	потаскать_VERB	worn out	0.0	2.38124050511	Other visible properties	6
+лицо_NOUN	правильное	правильный_ADJ	a face with regular features	0.000411484227852	0.0	Aesthetic characteristics	4
+лицо_NOUN	прекрасное	прекрасный_ADJ	beautiful face	0.00187327486677	1.17936548543	Aesthetic characteristics	4
+лицо_NOUN	прелестное	прелестный_ADJ	charming face	0.000342353838253	1.31163283842	Aesthetic characteristics	4
+лицо_NOUN	привлекательное	привлекательный_ADJ	attractive face	0.000197310744243	1.14829842058	Aesthetic characteristics	4
+лицо_NOUN	приятное	приятный_ADJ	pleasant face	0.000755260071708	0.0	Aesthetic characteristics	4
+лицо_NOUN	продолговатое	продолговатый_ADJ	oblong face	0.000448796409629	2.9049607324	Shape (natural)	1
+лицо_NOUN	просветленное	просветленный_ADJ	an exalted/uplifted face, suffused with a clear, joyful light	0.000186710748619	3.08228915451	Joy and happiness, dejection and unhappiness; fear, hatred, malice	9
+лицо_NOUN	противное	противный_ADJ	revolting/disgusting face	8.29609188577e-05	0.0	Aesthetic characteristics	4
+лицо_NOUN	прыщавое	прыщавый_ADJ	pimply face	8.20703616567e-05	2.95885543577	Other visible properties	6
+лицо_NOUN	пухлое	пухлый_ADJ	plump face	0.000419282485939	2.25687185292	Size	0
+лицо_NOUN	равнодушное	равнодушный_ADJ	apathetic face	0.000573496461216	1.82380300845	General expressions for various emotions	8
+лицо_NOUN	радостное	радостный_ADJ	joyful face	0.000795109425305	1.53763817644	General expressions for various emotions	8
+лицо_NOUN	раскрасневшееся	раскраснеться_VERB	a rosy, glowing complexion	0.00089416004557	3.78846233734	Color	3
+лицо_NOUN	распухшее	распухать_VERB	swollen face, puffy face	0.00032196407153	2.61834051115	Shape and appearance due to current condition	2
+лицо_NOUN	розовое	розовый_ADJ	rosy face	0.000708124114845	1.20528357545	Color	3
+лицо_NOUN	румяное	румяный_ADJ	ruddy face	0.00134334628008	3.17733269395	Color	3
+лицо_NOUN	рябое	рябой_ADJ	pitted face, pock-marked face	0.000729508623834	3.32393189368	Other visible properties	6
+лицо_NOUN	свежее	свежий_ADJ	fresh face	0.000710643444003	0.0	Other visible properties	6
+лицо_NOUN	серое	серый_ADJ	ashen face	0.00127906298581	1.11044488365	Color	3
+лицо_NOUN	симпатичное	симпатичный_ADJ	nice face	0.00049534111599	1.82938912552	Aesthetic characteristics	4
+лицо_NOUN	скуластое	скуластый_ADJ	face with prominent cheekbones	0.00128262565297	4.59858316973	Shape (natural)	1
+лицо_NOUN	смазливое	смазливый_ADJ	pretty face	8.2035015279e-05	2.65237581735	Aesthetic characteristics	4
+лицо_NOUN	смуглое	смуглый_ADJ	swarthy face	0.0025409024693	3.76639529068	Color	3
+лицо_NOUN	сонное	сонный_ADJ	sleepy face	0.000389021543745	1.67953688796	Shape and appearance due to current condition	2
+лицо_NOUN	старое	старый_ADJ	old face	0.00102335156615	0.0	Characteristics of age	5
+лицо_NOUN	счастливое	счастливый_ADJ	happy face	0.000937314573632	0.0	General expressions for various emotions	8
+лицо_NOUN	сытое	сытый_ADJ	contented, self-satisfied face	0.000143274173039	0.0	Size	0
+лицо_NOUN	тёмное	темный_ADJ	dark face	0.00128362125936	0.0	Color	3
+лицо_NOUN	толстое	толстый_ADJ	fat face	0.000590064226222	0.0	Size	0
+лицо_NOUN	топорное	топорный_ADJ	crude face	6.84094350293e-05	3.01545590729	Aesthetic characteristics	4
+лицо_NOUN	точёное	точеный_ADJ	exquisite face	6.3765633967e-05	2.0800715166	Aesthetic characteristics	4
+лицо_NOUN	увядшее	увядший_ADJ	withered face	0.000100204051887	2.53611755963	Characteristics of age	5
+лицо_NOUN	угреватое	угреватый_ADJ	a face covered with blackheads	0.000114072431431	4.27135632255	Other visible properties	6
+лицо_NOUN	удивленное	удивленный_ADJ	surprised face	0.000668056947341	2.82474405342	General expressions for various emotions	8
+лицо_NOUN	удлиненное	удлиненный_ADJ	elongated face	0.000236055690985	2.48186090074	Shape (natural)	1
+лицо_NOUN	узкое	узкий_ADJ	narrow face	0.000659322316809	0.0	Shape (natural)	1
+лицо_NOUN	упитанное	упитанный_ADJ	full face, heavy face	5.92047436662e-05	1.96041111476	Size	0
+лицо_NOUN	усталое	усталый_ADJ	tired face	0.00121635599277	2.52295743668	Shape and appearance due to current condition	2
+лицо_NOUN	утомленное	утомленный_ADJ	weary face	0.00031226170246	2.32283269845	Shape and appearance due to current condition	2
+лицо_NOUN	хорошее	хороший_ADJ	nice face	0.000464348835541	0.0	Aesthetic characteristics	4
+лицо_NOUN	худое	худой_ADJ	thin face	0.00138669809849	2.0432148203	Size	0
+лицо_NOUN	широкое	широкий_ADJ	wide face, broad face	0.00118356714403	0.0	Shape (natural)	1
+лицо_NOUN	широкоскулое	широкоскулый_ADJ	broad face, face with broad cheekbones	0.000150551566193	4.24494312948	Shape (natural)	1
+лицо_NOUN	юное	юный_ADJ	young face	0.000598518773682	1.09059310792	Characteristics of age	5
+лоб_NOUN	безмятежный	безмятежный_ADJ	a serene forehead	9.65833635156e-05	1.75035541348	Size and shape; aesthetics	1
+лоб_NOUN	большой	большой_ADJ	a large forehead	0.000494863466053	0.0	Size and shape; aesthetics	1
+лоб_NOUN	влажный	влажный_ADJ	a damp forehead	0.00194722619615	3.32571473279	Sensations; medical and other conditions	0
+лоб_NOUN	выпуклый	выпуклый_ADJ	a protuberant forehead	0.00651911285359	5.26794777266	Size and shape; aesthetics	1
+лоб_NOUN	высокий	высокий_ADJ	a high forehead	0.00297714786711	2.37098216948	Size and shape; aesthetics	1
+лоб_NOUN	гладкий	гладкий_ADJ	a smooth forehead	0.00213755566551	3.4052910976	Size and shape; aesthetics	1
+лоб_NOUN	горячий	горячий_ADJ	a hot forehead	0.00180965147453	2.31765326284	Sensations; medical and other conditions	0
+лоб_NOUN	дегенеративный	дегенеративный_ADJ	a degenerate brow	0.000101084127265	3.59557346123	Size and shape; aesthetics	1
+лоб_NOUN	здоровый	здоровый_ADJ	a large forehead	0.00043006642137	0.0	Size and shape; aesthetics	1
+лоб_NOUN	красивый	красивый_ADJ	a pretty forehead	0.000438727339733	0.0	Size and shape; aesthetics	1
+лоб_NOUN	крутой	крутой_ADJ	a steep forehead	0.00230327558692	3.01885804144	Size and shape; aesthetics	1
+лоб_NOUN	липкий	липкий_ADJ	a forehead sticky from sweat	0.000138953219083	1.5647414642	Sensations; medical and other conditions	0
+лоб_NOUN	маленький	маленький_ADJ	a small forehead	0.000374104658059	0.0	Size and shape; aesthetics	1
+лоб_NOUN	мокрый	мокрый_ADJ	a wet, moist forehead	0.00319826296177	3.1673366059	Sensations; medical and other conditions	0
+лоб_NOUN	морщинистый	морщинистый_ADJ	a wrinkled brow, a furrowed brow	0.0022082473237	4.7789833986	Size and shape; aesthetics	1
+лоб_NOUN	мраморный	мраморный_ADJ	a marble brow	0.000377453447408	1.9026306334	Size and shape; aesthetics	1
+лоб_NOUN	небольшой	небольшой_ADJ	a small forehead	0.00028373422615	0.0	Size and shape; aesthetics	1
+лоб_NOUN	невысокий	невысокий_ADJ	a low forehead	0.000534418614211	2.16258730571	Size and shape; aesthetics	1
+лоб_NOUN	некрасивый	некрасивый_ADJ	an unattractive forehead, an ugly forehead	8.73076503329e-05	0.0	Size and shape; aesthetics	1
+лоб_NOUN	низкий	низкий_ADJ	a low forehead	0.00340639510128	2.88056069851	Size and shape; aesthetics	1
+лоб_NOUN	огромный	огромный_ADJ	an enormous forehead	0.000560453032868	0.0	Size and shape; aesthetics	1
+лоб_NOUN	открытый	открытый_ADJ	an uncovered forehead, i.e. usually a high forehead without a scarf, bangs, etc. on it	0.00158498063422	2.18447330954	Size and shape; aesthetics	1
+лоб_NOUN	покатый	покатый_ADJ	a sloping forehead	0.00299239636988	5.51695973057	Size and shape; aesthetics	1
+лоб_NOUN	потный	потный_ADJ	a sweaty forehead	0.00526327729758	5.01489686055	Sensations; medical and other conditions	0
+лоб_NOUN	прямой	прямой_ADJ	a straight forehead	0.000444619597619	0.0	Size and shape; aesthetics	1
+лоб_NOUN	узкий	узкий_ADJ	a narrow forehead	0.0023636544586	2.67754405311	Size and shape; aesthetics	1
+лоб_NOUN	умный	умный_ADJ	an intelligent forehead	0.00106031917771	1.75887167851	Size and shape; aesthetics	1
+лоб_NOUN	упрямый	упрямый_ADJ	a stubborn forehead	0.00141661870822	3.52295038538	Size and shape; aesthetics	1
+лоб_NOUN	холодный	холодный_ADJ	a cool forehead	0.00163836904263	2.12378851377	Sensations; medical and other conditions	0
+лоб_NOUN	чистый	чистый_ADJ	a pure brow, usually a large, broad forehead with smooth skin	0.00120744372741	1.72215025625	Size and shape; aesthetics	1
+лоб_NOUN	широкий	широкий_ADJ	a broad forehead	0.00217643967042	2.26867443377	Size and shape; aesthetics	1
+лоб_NOUN	шишковатый	шишковатый_ADJ	a bumpy forehead	0.000760475550711	6.04526920498	Size and shape; aesthetics	1
+лоб_NOUN	ясный	ясный_ADJ	a clear brow, indicating that its possessor is untroubled, unworried	0.000415736729246	0.0	Size and shape; aesthetics	1
+лодыжка_NOUN	распухший	распухать_VERB	a swollen ankle	0.000584453535944	5.1313029426	Medical conditions; sustaining injuries	0
+лодыжка_NOUN	сухой	сухой_ADJ	a bony ankle	0.0	2.4344260421	Size and shape; aesthetics	1
+лодыжка_NOUN	тонкий	тонкий_ADJ	a slim ankle	0.000337009803922	4.43046961498	Size and shape; aesthetics	1
+лодыжка_NOUN	узкий	узкий_ADJ	a narrow ankle	0.000288053001752	4.27788810992	Size and shape; aesthetics	1
+локоть_NOUN	круглый	круглый_ADJ	rounded elbows	0.000330706057433	1.21920357839	Size and shape	0
+локоть_NOUN	ободранный	обдирать_VERB	a scraped elbow	0.000839787253896	3.60683027426	Sustaining injuries	1
+локоть_NOUN	округлый	округлый_ADJ	rounded elbows	0.00037875201212	2.89406116633	Size and shape	0
+локоть_NOUN	острый	острый_ADJ	sharp elbows	0.00235697821528	3.15525547861	Size and shape	0
+локоть_NOUN	худой	худой_ADJ	bony elbow	0.000385505011565	1.54108431544	Size and shape	0
+ляжка_NOUN	дряблый	дряблый_ADJ	flabby thighs	0.000660501981506	4.68200501771	Size, shape and other properties	0
+ляжка_NOUN	жирный	жирный_ADJ	heavy thighs	0.0030145451805	5.65646076285	Size, shape and other properties	0
+ляжка_NOUN	круглый	круглый_ADJ	round thighs	0.0001058313049	2.22969994475	Size, shape and other properties	0
+ляжка_NOUN	мускулистый	мускулистый_ADJ	muscular thighs	0.00235155790711	5.85388950748	Size, shape and other properties	0
+ляжка_NOUN	толстый	толстый_ADJ	heavy thighs	0.00120742776251	4.65554798764	Size, shape and other properties	0
+ляжка_NOUN	худой	худой_ADJ	thin thighs	0.000482489646576	3.76797600613	Size, shape and other properties	0
+нога_NOUN	безобразные	безобразный_ADJ	ugly legs; ugly feet	6.05049570847e-05	0.0	Size and shape; aesthetics	1
+нога_NOUN	белые	белый_ADJ	white legs; white feet	0.000708293135663	0.0	Color and other visible properties	2
+нога_NOUN	большие	большой_ADJ	large feet	0.000398462598474	0.0	Size and shape; aesthetics	1
+нога_NOUN	босые	босой_ADJ	bare feet	0.0149812091363	5.40867528497	Color and other visible properties	2
+нога_NOUN	венозные	венозный_ADJ	legs with varicose veins	0.0	0.0	Color and other visible properties	2
+нога_NOUN	голые	голый_ADJ	bare legs	0.00380186408924	2.85792087392	Color and other visible properties	2
+нога_NOUN	длинные	длинный_ADJ	long legs	0.00471063257066	2.15518318693	Size and shape; aesthetics	1
+нога_NOUN	жилистые	жилистый_ADJ	sinewy legs	0.000203101268058	2.5354861504	Color and other visible properties	2
+нога_NOUN	загорелые	загорелый_ADJ	tanned legs; tanned feet	0.000611076192472	2.81408440133	Color and other visible properties	2
+нога_NOUN	задние	задний_ADJ	hind legs	0.0073388042204	3.49403567803	Restrictive modifiers	0
+нога_NOUN	изящные	изящный_ADJ	graceful legs; elegant feet	7.55727786851e-05	0.0	Size and shape; aesthetics	1
+нога_NOUN	кавалерийские	кавалерийский_ADJ	bow legs	6.07765506703e-05	0.0	Size and shape; aesthetics	1
+нога_NOUN	короткие	короткий_ADJ	short legs	0.00226388199864	1.75423396275	Size and shape; aesthetics	1
+нога_NOUN	костлявые	костлявый_ADJ	bony legs	0.000246034884232	2.28812404977	Size and shape; aesthetics	1
+нога_NOUN	красивые	красивый_ADJ	beautiful legs	0.000701820053338	0.0	Size and shape; aesthetics	1
+нога_NOUN	кривые	кривой_ADJ	crooked legs	0.00219843843743	3.03524927372	Size and shape; aesthetics	1
+нога_NOUN	левая	левый_ADJ	the left leg/foot	0.00919165442752	3.17646180788	Restrictive modifiers	0
+нога_NOUN	ледяные	ледяной_ADJ	frozen feet	0.00020848622323	0.0	Feet exposed to cold and weather	4
+нога_NOUN	маленькие	маленький_ADJ	small feet	0.000731865317002	0.0	Size and shape; aesthetics	1
+нога_NOUN	мокрые	мокрый_ADJ	wet feet	0.000923375608678	1.493685886	Feet exposed to cold and weather	4
+нога_NOUN	мускулистые	мускулистый_ADJ	muscular legs	0.000353327238438	3.12385594493	Color and other visible properties	2
+нога_NOUN	передние	передний_ADJ	Forelegs legs	0.00351852532155	3.14192604047	Restrictive modifiers	0
+нога_NOUN	полные	полный_ADJ	full, rounded legs	0.000267181029209	0.0	Size and shape; aesthetics	1
+нога_NOUN	правая	правый_ADJ	right leg/foot	0.00756817967349	2.65200493071	Restrictive modifiers	0
+нога_NOUN	прямые	прямой_ADJ	straight legs	0.000654429537994	0.0	Size and shape; aesthetics	1
+нога_NOUN	пухлые	пухлый_ADJ	chubby legs	9.56625720187e-05	0.0	Size and shape; aesthetics	1
+нога_NOUN	раненая	раненый_ADJ	a wounded leg	0.000782372875396	3.47604690624	Sensations and medical conditions; inflicting and sustaining injuries	5
+нога_NOUN	сильные	сильный_ADJ	strong legs	0.000649693425915	0.0	Strength	3
+нога_NOUN	слабые	слабый_ADJ	weak legs	0.000681607014095	0.0	Strength	3
+нога_NOUN	смуглые	смуглый_ADJ	dark-complexioned legs; dark-complexioned feet	0.000163884228731	1.04094424849	Color and other visible properties	2
+нога_NOUN	стройные	стройный_ADJ	well-shaped legs	0.00165306593384	2.75054118061	Size and shape; aesthetics	1
+нога_NOUN	толстые	толстый_ADJ	heavy legs	0.00143883299576	1.52863306067	Size and shape; aesthetics	1
+нога_NOUN	тонкие	тонкий_ADJ	thin legs	0.00190831117918	1.54603695626	Size and shape; aesthetics	1
+нога_NOUN	узкие	узкий_ADJ	narrow feet	0.000218340611354	0.0	Size and shape; aesthetics	1
+нога_NOUN	холодные	холодный_ADJ	cold feet	0.000396112537657	0.0	Feet exposed to cold and weather	4
+нога_NOUN	худые	худой_ADJ	skinny legs	0.000911702058994	1.67098570007	Size and shape; aesthetics	1
+нога_NOUN	широкие	широкий_ADJ	wide feet	0.00153587293461	1.03909661046	Size and shape; aesthetics	1
+ноготь_NOUN	блестящие	блестящий_ADJ	shiny nails	0.000301242625832	1.61558583244	Other visible properties	2
+ноготь_NOUN	большие	большой_ADJ	large nails	0.000338500051169	1.46844138744	Size and shape; aesthetics	0
+ноготь_NOUN	выпуклые	выпуклый_ADJ	protuberant, dome-shaped nails	0.00165826020866	4.17419039143	Size and shape; aesthetics	0
+ноготь_NOUN	грязные	грязный_ADJ	dirty nails, black nails	0.00356227888252	4.07667878305	Other visible properties	2
+ноготь_NOUN	длинные	длинный_ADJ	long nails	0.00208799683979	3.36532938377	Size and shape; aesthetics	0
+ноготь_NOUN	жёлтые	желтый_ADJ	yellowish nails	0.00141693234148	3.07186138509	Color (natural)	1
+ноготь_NOUN	запущенные	запущенный_ADJ	neglected nails	0.000161694558978	2.29233920322	Growing and tending the nails	4
+ноготь_NOUN	короткие	короткий_ADJ	short nails	0.000586756077117	2.14667025639	Size and shape; aesthetics	0
+ноготь_NOUN	красивые	красивый_ADJ	beautiful nails	0.000260145681582	1.3091568451	Size and shape; aesthetics	0
+ноготь_NOUN	красные	красный_ADJ	reddish nails	0.000408379435543	1.70134227145	Growing and tending the nails	4
+ноготь_NOUN	крашеные	крашеный_ADJ	polished nails	0.00195058517555	4.80314887527	Growing and tending the nails	4
+ноготь_NOUN	круглые	круглый_ADJ	rounded nails	0.000389956454863	1.82981605768	Size and shape; aesthetics	0
+ноготь_NOUN	ломкие	ломкий_ADJ	brittle nails	0.000372786579683	4.02047028211	Medical conditions and their treatment; inflicting and sustaining injuries	3
+ноготь_NOUN	маленькие	маленький_ADJ	small nails	0.0	0.0	Size and shape; aesthetics	0
+ноготь_NOUN	малиновые	малиновый_ADJ	deep pink nails	0.000264270613108	2.24903406295	Growing and tending the nails	4
+ноготь_NOUN	миндалевидные	миндалевидный_ADJ	almond shaped nails	0.00139511709018	6.74141772432	Size and shape; aesthetics	0
+ноготь_NOUN	накладные	накладной_ADJ	false nails	0.00111513799833	5.08532868597	Growing and tending the nails	4
+ноготь_NOUN	накрашенные	накрасить_VERB	polished nails	0.00360685302074	5.98753280617	Growing and tending the nails	4
+ноготь_NOUN	обкусанные	обкусать_VERB	bitten nails	0.00436507936508	7.6906986196	Growing and tending the nails	4
+ноготь_NOUN	обломанные	обломать_VERB	jagged nails	0.00541223164351	6.39617000259	Medical conditions and their treatment; inflicting and sustaining injuries	3
+ноготь_NOUN	острые	острый_ADJ	sharp nails	0.0016184175922	3.23523970684	Other visible properties	2
+ноготь_NOUN	плоские	плоский_ADJ	flat nails	0.00100309286968	3.06409315289	Size and shape; aesthetics	0
+ноготь_NOUN	подстриженные	подстригать_VERB	clipped/trimmed nails, nails that have been clipped short	0.00312719881166	5.13448294211	Growing and tending the nails	4
+ноготь_NOUN	розовые	розовый_ADJ	pink nails	0.00201452579123	3.53428568982	Color (natural)	1
+ноготь_NOUN	синие	синий_ADJ	blue nails	0.000447481197184	1.91330519069	Color (natural)	1
+ноготь_NOUN	толстые	толстый_ADJ	thick nails	0.000496462703239	2.02334820343	Size and shape; aesthetics	0
+ноготь_NOUN	тонкие	тонкий_ADJ	thin nails	0.000107228544238	0.0	Size and shape; aesthetics	0
+ноготь_NOUN	ухоженные	ухоженный_ADJ	cared-for nails	0.00283486888731	5.61875796546	Growing and tending the nails	4
+ноготь_NOUN	чёрные	черный_ADJ	dirty nails, black nails	0.000706990096783	2.23947358147	Other visible properties	2
+ноготь_NOUN	чистые	чистый_ADJ	clean nails	0.000407834719614	1.74670474145	Other visible properties	2
+ноздря_NOUN	большие	большой_ADJ	large nostrils	7.12876933679e-05	0.0	Size, shape, and other visible properties	0
+ноздря_NOUN	волосатые	волосатый_ADJ	hairy nostrils	0.00302785627776	5.15055665282	Size, shape, and other visible properties	0
+ноздря_NOUN	вывернутые	выворачивать_VERB	up-turned nostrils	0.00162301733678	4.08123690535	Size, shape, and other visible properties	0
+ноздря_NOUN	изогнутые	изогнутый_ADJ	curved nostrils	0.000215866162979	2.66611754765	Size, shape, and other visible properties	0
+ноздря_NOUN	маленькие	маленький_ADJ	small nostrils	9.64299489993e-05	0.0	Size, shape, and other visible properties	0
+нос_NOUN	аккуратненький	аккуратненький_ADJ	accurate	0.0	1.93658306737	Size and shape; aesthetics	0
+нос_NOUN	безобразный	безобразный_ADJ	ill-formed nose, ugly nose	0.0	0.0	Size and shape; aesthetics	0
+нос_NOUN	белый	белый_ADJ	white nose	0.000435014731181	0.0	Color	1
+нос_NOUN	большой	большой_ADJ	large nose, prominent nose	0.00104555216458	0.0	Size and shape; aesthetics	0
+нос_NOUN	веснушчатый	веснушчатый_ADJ	a freckled nose	0.000550940222986	4.17651110733	A nose exposed to sun	3
+нос_NOUN	вздёрнутый	вздернутый_ADJ	snub nose	0.0049278933256	6.34736658501	Size and shape; aesthetics	0
+нос_NOUN	восковой	восковой_ADJ	waxy nose	0.000111850567642	1.39398195993	Color	1
+нос_NOUN	воспаленный	воспаленный_ADJ	an inflamed nose	0.0	1.06908249967	Sensations, medical conditions, and their treatment	4
+нос_NOUN	вострый	вострый_ADJ	sharp nose, needle nose	0.000699076636276	4.75662950855	Size and shape; aesthetics	0
+нос_NOUN	горбатый	горбатый_ADJ	a large, ill-shaped nose with a hump in it	0.00607518035692	5.50497884425	Size and shape; aesthetics	0
+нос_NOUN	греческий	греческий_ADJ	Greek nose	0.000578600676518	1.46105443606	Size and shape; aesthetics	0
+нос_NOUN	грязный	грязный_ADJ	dirty nose, a nose smeared with N	0.000403758996255	0.0	Color	1
+нос_NOUN	длинный	длинный_ADJ	long nose	0.00610683308395	2.94133497714	Size and shape; aesthetics	0
+нос_NOUN	заостренный	заостренный_ADJ	pointed nose	0.000663388183037	4.07004582264	Size and shape; aesthetics	0
+нос_NOUN	здоровенный	здоровенный_ADJ	large nose, prominent nose	8.35549861438e-05	1.03037473856	Size and shape; aesthetics	0
+нос_NOUN	здоровый	здоровый_ADJ	large nose, prominent nose	0.0	0.0	Size and shape; aesthetics	0
+нос_NOUN	изящный	изящный_ADJ	fine	7.35195010477e-05	0.0	Size and shape; aesthetics	0
+нос_NOUN	классический	классический_ADJ	classical nose	9.15803331235e-05	0.0	Size and shape; aesthetics	0
+нос_NOUN	костистый	костистый_ADJ	bony nose	0.000378330398848	4.06543034726	Size and shape; aesthetics	0
+нос_NOUN	красный	красный_ADJ	red nose	0.00328676309701	2.16901010057	Color	1
+нос_NOUN	кривой	кривой_ADJ	crooked nose	0.00183416686027	2.97998593019	Size and shape; aesthetics	0
+нос_NOUN	круглый	круглый_ADJ	round nose (not necessarily large)	0.000959297027139	1.61155016077	Size and shape; aesthetics	0
+нос_NOUN	крупный	крупный_ADJ	large nose, prominent nose	0.00126091626582	1.33582001658	Size and shape; aesthetics	0
+нос_NOUN	крючковатый	крючковатый_ADJ	hooked nose	0.00350329163443	6.59723240568	Size and shape; aesthetics	0
+нос_NOUN	лиловый	лиловый_ADJ	purplish nose	0.000326619488296	2.05991719616	Color	1
+нос_NOUN	маленький	маленький_ADJ	little nose	0.00100050025013	0.0	Size and shape; aesthetics	0
+нос_NOUN	мокрый	мокрый_ADJ	a runny nose	0.00136296051545	2.11675973993	Sensations, medical conditions, and their treatment	4
+нос_NOUN	мясистый	мясистый_ADJ	fleshy nose	0.00357362379748	5.40465312075	Size and shape; aesthetics	0
+нос_NOUN	напудренный	напудривать_VERB	a powdered nose	0.000493870199291	4.19478947317	Make-up	6
+нос_NOUN	некрасивый	некрасивый_ADJ	an unattractive nose	0.000429524435914	2.17926142471	Size and shape; aesthetics	0
+нос_NOUN	облупившийся	облупливаться_VERB	flaked	0.000668954685591	4.5867159984	A nose exposed to sun	3
+нос_NOUN	облупленный	облупленный_ADJ	a peeled nose, i.e. a nose that has recently been peeling	0.000643077417752	5.0566130576	A nose exposed to sun	3
+нос_NOUN	обмороженный	обмораживать_VERB	white nose, i.e. frost-bitten nose	0.000262674021539	3.97558363949	A nose exposed to cold	2
+нос_NOUN	орлиный	орлиный_ADJ	aquiline nose	0.00563501760943	6.06714411361	Size and shape; aesthetics	0
+нос_NOUN	острый	острый_ADJ	sharp nose, needle nose	0.00435288099335	3.06861704308	Size and shape; aesthetics	0
+нос_NOUN	отмороженный	отмораживать_VERB	white nose, i.e. frost-bitten nose	0.00087080200865	4.70246417729	A nose exposed to cold	2
+нос_NOUN	очаровательный	очаровательный_ADJ	pretty	0.0	0.0	Size and shape; aesthetics	0
+нос_NOUN	перебитый	перебивать_VERB	a broken nose	0.000715739560268	1.68958349024	Inflicting and sustaining injuries	5
+нос_NOUN	плоский	плоский_ADJ	flat, broad nose	0.00109742714303	2.45278466787	Size and shape; aesthetics	0
+нос_NOUN	породистый	породистый_ADJ	aristocratic nose	0.000575887586743	3.85164075294	Size and shape; aesthetics	0
+нос_NOUN	правильный	правильный_ADJ	well-formed nose	0.000711083018942	1.36889713416	Size and shape; aesthetics	0
+нос_NOUN	прелестный	прелестный_ADJ	pretty	7.53607897811e-05	0.0	Size and shape; aesthetics	0
+нос_NOUN	приплюснутый	приплющивать_VERB	flat, broad nose	0.00146265120157	5.98513515128	Size and shape; aesthetics	0
+нос_NOUN	провалившийся	проваливаться_VERB	a collapsed nose	0.000869208895732	2.31213278931	Sensations, medical conditions, and their treatment	4
+нос_NOUN	прямой	прямой_ADJ	straight nose	0.00271060032747	2.35558279174	Size and shape; aesthetics	0
+нос_NOUN	разбитый	разбитый_ADJ	a bloody nose (from being struck)	0.00135827119243	3.46167983137	Inflicting and sustaining injuries	5
+нос_NOUN	расквашенный	расквашивать_VERB	a bloody nose (from being struck)	0.00131976420213	6.36119692209	Inflicting and sustaining injuries	5
+нос_NOUN	распухший	распухать_VERB	a swollen nose	0.00217412787825	4.56376315951	Sensations, medical conditions, and their treatment	4
+нос_NOUN	римский	римский_ADJ	Roman nose	0.00138485966357	2.5893733862	Size and shape; aesthetics	0
+нос_NOUN	сизый	сизый_ADJ	bluish nose	0.00229189965345	4.20299724073	Color	1
+нос_NOUN	синий	синий_ADJ	purple nose	0.000809040598346	1.26543910993	Color	1
+нос_NOUN	сопливый	сопливый_ADJ	a runny nose	0.000291451721022	3.93589399315	Sensations, medical conditions, and their treatment	4
+нос_NOUN	сплющенный	сплющивать_VERB	flat, broad nose	0.000583209401336	4.68100091264	Size and shape; aesthetics	0
+нос_NOUN	толстый	толстый_ADJ	fat nose	0.00204397159404	2.2134004836	Size and shape; aesthetics	0
+нос_NOUN	тонкий	тонкий_ADJ	thin nose	0.00319539380968	2.47781541191	Size and shape; aesthetics	0
+нос_NOUN	точёный	точеный_ADJ	fine	0.000203198931754	3.25122143958	Size and shape; aesthetics	0
+нос_NOUN	тупой	тупой_ADJ	blunt nose	0.00132133963511	2.8642014518	Size and shape; aesthetics	0
+нос_NOUN	уродливый	уродливый_ADJ	ill-formed nose, ugly nose	0.00021828997094	1.68786459827	Size and shape; aesthetics	0
+нос_NOUN	утиный	утиный_ADJ	long, flat nose resembling the bill of a duck	0.00268239569663	5.46715109986	Size and shape; aesthetics	0
+нос_NOUN	хищный	хищный_ADJ	beaklike nose	0.000827186875302	3.16216330127	Size and shape; aesthetics	0
+нос_NOUN	хорошенький	хорошенький_ADJ	pretty	0.0	0.0	Size and shape; aesthetics	0
+нос_NOUN	чуткий	чуткий_ADJ	a sensitive nose	0.000514765646166	2.46018841778	Sniffing and smelling	7
+нос_NOUN	широкий	широкий_ADJ	wide nose	0.00189291013562	1.77278323814	Size and shape; aesthetics	0
+палец_NOUN	аристократические	аристократический_ADJ	aristocratic fingers	8.44478692747e-05	0.0	Size and shape; aesthetics	0
+палец_NOUN	безымянный	безымянный_ADJ	the ring finger	0.00375518738598	4.99704688009	Different fingers	2
+палец_NOUN	большой	большой_ADJ	the thumb	0.00551305742004	2.18605316411	Different fingers	2
+палец_NOUN	быстрые	быстрый_ADJ	nimble fingers	0.000624744695677	1.13177002274	Strength and mobility	1
+палец_NOUN	длинные	длинный_ADJ	long fingers	0.00440684130023	2.45675003721	Size and shape; aesthetics	0
+палец_NOUN	железные	железный_ADJ	"very strong fingers (lit. ""fingers of iron"") "	0.000887467780352	1.08543952664	Strength and mobility	1
+палец_NOUN	жирные	жирный_ADJ	fat fingers	0.000997145426817	2.46852034358	Size and shape; aesthetics	0
+палец_NOUN	изящные	изящный_ADJ	elegant fingers	0.000230355034697	0.0	Size and shape; aesthetics	0
+палец_NOUN	короткие	короткий_ADJ	short fingers	0.00189174986863	1.85188862364	Size and shape; aesthetics	0
+палец_NOUN	костлявые	костлявый_ADJ	bony fingers	0.00249957272261	4.6266783515	Size and shape; aesthetics	0
+палец_NOUN	красивые	красивый_ADJ	beautiful fingers	0.000423657007287	0.0	Size and shape; aesthetics	0
+палец_NOUN	красные	красный_ADJ	reddened fingers	0.000497099550504	0.0	Fingers exposed to cold	3
+палец_NOUN	кривые	кривой_ADJ	crooked fingers	0.00111156894123	2.43593265761	Size and shape; aesthetics	0
+палец_NOUN	ловкие	ловкий_ADJ	dexterous fingers	0.000806053461496	2.52367314611	Strength and mobility	1
+палец_NOUN	неверные	неверный_ADJ	uncertain fingers	0.000200056015684	1.058091371	Strength and mobility	1
+палец_NOUN	некрасивые	некрасивый_ADJ	ugly fingers	6.18066071263e-05	0.0	Size and shape; aesthetics	0
+палец_NOUN	неловкие	неловкий_ADJ	clumsy fingers	0.00035734555315	2.29963039261	Strength and mobility	1
+палец_NOUN	нервные	нервный_ADJ	nervous fingers	0.000572474390445	1.29080114778	Size and shape; aesthetics	0
+палец_NOUN	обмороженные	обмораживать_VERB	frostbitten fingers	0.00041711488222	4.43578987173	Fingers exposed to cold	3
+палец_NOUN	подвижные	подвижный_ADJ	agile fingers	0.000182568742203	1.10983793052	Strength and mobility	1
+палец_NOUN	прямые	прямой_ADJ	straight fingers	0.000199703108046	0.0	Size and shape; aesthetics	0
+палец_NOUN	растопыренные	растопыривать_VERB	splayed fingers	0.00802774388286	5.85407451992	Size and shape; aesthetics	0
+палец_NOUN	ровные	ровный_ADJ	even fingers	0.0	0.0	Size and shape; aesthetics	0
+палец_NOUN	сильные	сильный_ADJ	strong fingers	0.000721117352361	0.0	Strength and mobility	1
+палец_NOUN	скрюченные	скрючивать_VERB	gnarled fingers	0.00326765349802	5.73670743406	Size and shape; aesthetics	0
+палец_NOUN	слабые	слабый_ADJ	weak fingers	0.000483562334639	0.0	Strength and mobility	1
+палец_NOUN	средний	средний_ADJ	the middle finger	0.00311497250943	2.2829856598	Different fingers	2
+палец_NOUN	толстые	толстый_ADJ	plump fingers	0.00439226902283	2.87132864396	Size and shape; aesthetics	0
+палец_NOUN	тонкие	тонкий_ADJ	slender fingers; thin fingers	0.00521682005835	2.83810803475	Size and shape; aesthetics	0
+палец_NOUN	узловатые	узловатый_ADJ	knotted fingers	0.00126979956871	5.20953126236	Size and shape; aesthetics	0
+палец_NOUN	указательный	указательный_ADJ	the index finger	0.0308270836432	6.9902250316	Different fingers	2
+палец_NOUN	худые	худой_ADJ	bony fingers	0.001229213128	2.10067800051	Size and shape; aesthetics	0
+палец_NOUN	цепкие	цепкий_ADJ	prehensile fingers	0.00176058228038	4.43210837598	Strength and mobility	1
+плечо_NOUN	бронзовые	бронзовый_ADJ	bronzed shoulders	0.000127434917167	0.0	Color and other visible properties	0
+плечо_NOUN	голые	голый_ADJ	naked shoulders	0.00371241555006	2.96796702661	Color and other visible properties	0
+плечо_NOUN	загорелые	загорелый_ADJ	tanned shoulders	0.000392402343203	2.394918304	Color and other visible properties	0
+плечо_NOUN	квадратные	квадратный_ADJ	square shoulders	0.000547601593344	1.93486278146	Size and shape; aesthetics	2
+плечо_NOUN	костлявые	костлявый_ADJ	bony shoulders	0.00119387145984	3.88386097299	Size and shape; aesthetics	2
+плечо_NOUN	красивые	красивый_ADJ	beautiful shoulders	0.000361273715644	0.0	Size and shape; aesthetics	2
+плечо_NOUN	маленькие	маленький_ADJ	small shoulders	0.000283311199646	0.0	Size and shape; aesthetics	2
+плечо_NOUN	мраморные	мраморный_ADJ	marble shoulders	0.00010823194105	0.0	Color and other visible properties	0
+плечо_NOUN	обнаженные	обнаженный_ADJ	bared shoulders	0.00226273243189	3.72875197972	Color and other visible properties	0
+плечо_NOUN	опухшее	опухать_VERB	a swollen shoulder	5.69589610686e-05	0.0	Sensations and medical conditions; inflicting and sustaining injuries	1
+плечо_NOUN	ослепительные	ослепительный_ADJ	dazzling shoulders	0.0	0.0	Color and other visible properties	0
+плечо_NOUN	острые	острый_ADJ	bony shoulders	0.001070317011	1.53324292831	Size and shape; aesthetics	2
+плечо_NOUN	открытые	открытый_ADJ	bare shoulders	0.000798554746819	1.0729972312	Color and other visible properties	0
+плечо_NOUN	покатые	покатый_ADJ	sloping shoulders	0.00236640854216	5.2586001563	Size and shape; aesthetics	2
+плечо_NOUN	полные	полный_ADJ	full shoulders	0.000453044260454	0.0	Size and shape; aesthetics	2
+плечо_NOUN	прямые	прямой_ADJ	straight shoulders	0.000764742886041	0.0	Size and shape; aesthetics	2
+плечо_NOUN	распухшее	распухать_VERB	a swollen shoulder	0.0	0.0	Sensations and medical conditions; inflicting and sustaining injuries	1
+плечо_NOUN	роскошные	роскошный_ADJ	luxurious shoulders	0.000294145636696	1.13602840168	Size and shape; aesthetics	2
+плечо_NOUN	сильные	сильный_ADJ	strong shoulders	0.000511883326523	0.0	Strength	3
+плечо_NOUN	слабые	слабый_ADJ	weak shoulders	0.000421235368453	0.0	Strength	3
+плечо_NOUN	смуглые	смуглый_ADJ	olive-skinned shoulders	0.000528233151184	2.24860780631	Color and other visible properties	0
+плечо_NOUN	узкие	узкий_ADJ	narrow shoulders	0.00242392159867	2.32305239526	Size and shape; aesthetics	2
+плечо_NOUN	худые	худой_ADJ	thin shoulders	0.00122399993642	2.07221001021	Size and shape; aesthetics	2
+плечо_NOUN	чёрные	черный_ADJ	shoulders brown from the sun	0.000422499910487	0.0	Color and other visible properties	0
+плечо_NOUN	широкие	широкий_ADJ	broad shoulders	0.00490245526257	2.50478040543	Size and shape; aesthetics	2
+подбородок_NOUN	безвольный	безвольный_ADJ	weak chin	0.000731047591198	4.06966662398	Size and shape	1
+подбородок_NOUN	большой	большой_ADJ	large chin	8.62403518606e-05	0.0	Size and shape	1
+подбородок_NOUN	волевой	волевой_ADJ	strong chin	0.00431307877712	5.20889990276	Size and shape	1
+подбородок_NOUN	второй	второй_ADJ	second chin, second fold of a double chin	0.000328779133484	1.28384553906	Size and shape	1
+подбородок_NOUN	выбритый	выбривать_VERB	shaven chin	0.00881176709822	6.16123587178	Bristling and shaved chin; other visible properties	0
+подбородок_NOUN	двойной	двойной_ADJ	double chin	0.00724285980959	4.90815854453	Size and shape	1
+подбородок_NOUN	жирный	жирный_ADJ	fat chin	0.00126528890763	3.27299262599	Size and shape	1
+подбородок_NOUN	заросший	зарастать_VERB	bristly chin, chin in need of a shave	0.00100558097441	3.25861114942	Bristling and shaved chin; other visible properties	0
+подбородок_NOUN	квадратный	квадратный_ADJ	square chin	0.00475435816165	4.64188550768	Size and shape	1
+подбородок_NOUN	колючий	колючий_ADJ	bristly chin, prickly chin	0.00164262614856	3.78106896179	Bristling and shaved chin; other visible properties	0
+подбородок_NOUN	круглый	круглый_ADJ	round chin	0.00149263013869	3.02428563825	Size and shape	1
+подбородок_NOUN	маленький	маленький_ADJ	small chin	0.000343982905092	1.33721076936	Size and shape	1
+подбородок_NOUN	массивный	массивный_ADJ	large/heavy/massive chin	0.00137733142037	3.80999438493	Size and shape	1
+подбородок_NOUN	морщинистый	морщинистый_ADJ	wrinkled chin	0.00027890112955	2.83584500135	Bristling and shaved chin; other visible properties	0
+подбородок_NOUN	небритый	небритый_ADJ	unshaven chin	0.00768386388584	6.07636435204	Bristling and shaved chin; other visible properties	0
+подбородок_NOUN	острый	острый_ADJ	pointed chin	0.00415461375682	4.02736430663	Size and shape	1
+подбородок_NOUN	раздвоенный	раздваивать_VERB	cleft chin	0.00288819639736	5.75316230192	Size and shape	1
+подбородок_NOUN	скошенный	скашивать_VERB	receding chin	0.00186764614331	4.3164816071	Size and shape	1
+подбородок_NOUN	срезанный	срезать_VERB	receding chin	0.00120185085031	3.78085779084	Size and shape	1
+подбородок_NOUN	тройной	тройной_ADJ	triple chin	0.00246693620229	4.93503993067	Size and shape	1
+подбородок_NOUN	тяжёлый	тяжелый_ADJ	large/heavy/massive chin	0.000897176532677	2.34242848264	Size and shape	1
+подбородок_NOUN	упрямый	упрямый_ADJ	stubborn chin	0.00268787098219	4.42762413161	Size and shape	1
+подошва_NOUN	голые	голый_ADJ	bare soles	0.00065014221861	2.73860905861	Appearance and conditions (non-medical)	0
+подошва_NOUN	грубые	грубый_ADJ	rough/calloused soles	0.000115620302925	1.02550695054	Appearance and conditions (non-medical)	0
+подошва_NOUN	нежные	нежный_ADJ	soft soles	0.0001050558109	0.0	Appearance and conditions (non-medical)	0
+подошва_NOUN	потрескавшиеся	потрескаться_VERB	dry, cracked soles	0.000540759767473	4.23955992622	Appearance and conditions (non-medical)	0
+подъем_NOUN	высокий	высокий_ADJ	a high instep	0.000621609021439	1.50649059679	Shape	0
+подъем_NOUN	низкий	низкий_ADJ	a low instep	0.000103143291818	0.0	Shape	0
+пот_NOUN	едкий	едкий_ADJ	the acrid smell of sweat	0.00141458106638	3.91821253471	Amount, smell, and other physical properties	0
+пот_NOUN	обильный	обильный_ADJ	abundant sweat	0.00564161407535	4.99591228776	Amount, smell, and other physical properties	0
+пот_NOUN	солёный	соленый_ADJ	salty sweat	0.00256245996156	4.12797168338	Amount, smell, and other physical properties	0
+пот_NOUN	холодный	холодный_ADJ	N broke into a (cold) sweat	0.017730818655	5.26956188572	Emotional reaction	1
+пятка_NOUN	босые	босой_ADJ	bare heels	0.0120614841509	6.15746888182	Shape, color, and conditions	0
+пятка_NOUN	красные	красный_ADJ	red heels	0.0	0.0	Shape, color, and conditions	0
+пятка_NOUN	круглые	круглый_ADJ	rounded heels	0.000145215160463	1.4097034833	Shape, color, and conditions	0
+пятка_NOUN	розовые	розовый_ADJ	rosy heels	0.00158126805534	3.8332957824	Shape, color, and conditions	0
+ресница_NOUN	белёсые	белесый_ADJ	pale eyelashes, whitish eyelashes	0.00984009840098	6.33619009802	Color (natural and sun-bleached)	1
+ресница_NOUN	бесцветные	бесцветный_ADJ	pale eyelashes, whitish eyelashes	0.00186693822132	4.44414419395	Color (natural and sun-bleached)	1
+ресница_NOUN	Выгоревшие	выгорать_VERB	(sun-)bleached eyelashes	0.000588466065124	3.615669135	Color (natural and sun-bleached)	1
+ресница_NOUN	густые	густой_ADJ	thick lashes	0.00523187773928	4.64022754504	Size, shape, and thickness; aesthetics	0
+ресница_NOUN	длинные	длинный_ADJ	long lashes	0.00814992791927	4.96845674135	Size, shape, and thickness; aesthetics	0
+ресница_NOUN	загнутые	загнутый_ADJ	curly lashes	0.00602968460111	6.67958738562	Size, shape, and thickness; aesthetics	0
+ресница_NOUN	искусственные	искусственный_ADJ	false eyelashes	0.000395694840139	2.22312776146	Make-up	3
+ресница_NOUN	короткие	короткий_ADJ	short lashes	0.000317423674035	1.76296719512	Size, shape, and thickness; aesthetics	0
+ресница_NOUN	красивые	красивый_ADJ	beautiful lashes	0.000194420141927	1.25362721764	Size, shape, and thickness; aesthetics	0
+ресница_NOUN	мокрые	мокрый_ADJ	wet eyelashes	0.00175380905404	3.58882932936	Conditions	2
+ресница_NOUN	накладные	накладной_ADJ	false eyelashes	0.00212039109436	5.75371789773	Make-up	3
+ресница_NOUN	наклеенные	наклеивать_VERB	false eyelashes	0.000999800039992	4.20278960762	Make-up	3
+ресница_NOUN	накрашенные	накрасить_VERB	painted eyelashes, eyelashes with make-up on them	0.00476298480381	6.299247074	Make-up	3
+ресница_NOUN	подкрашенные	подкрашивать_VERB	slightly painted eyelashes, eyelashes with some make-up on them	0.00361622782235	6.00306500581	Make-up	3
+ресница_NOUN	прямые	прямой_ADJ	straight lashes	0.000267494910166	1.59550420325	Size, shape, and thickness; aesthetics	0
+ресница_NOUN	пушистые	пушистый_ADJ	fluffy lashes	0.0114889705882	6.10077269929	Size, shape, and thickness; aesthetics	0
+ресница_NOUN	редкие	редкий_ADJ	sparse lashes	0.00049042555563	2.26700919294	Size, shape, and thickness; aesthetics	0
+ресница_NOUN	рыжие	рыжий_ADJ	red eyelashes	0.00297265160523	4.17158736245	Color (natural and sun-bleached)	1
+ресница_NOUN	светлые	светлый_ADJ	light eyelashes	0.00164485196332	3.43451238662	Color (natural and sun-bleached)	1
+ресница_NOUN	тёмные	темный_ADJ	dark eyelashes	0.00148130905397	3.2713074781	Color (natural and sun-bleached)	1
+ресница_NOUN	чёрные	черный_ADJ	black eyelashes	0.00145308645322	3.21058274305	Color (natural and sun-bleached)	1
+ресница_NOUN	шелковистые	шелковистый_ADJ	silky lashes	0.00114586914174	4.93894070092	Size, shape, and thickness; aesthetics	0
+рот_NOUN	аккуратный	аккуратный_ADJ	a small, nicely shaped mouth	5.86381294437e-05	0.0	Size and shape; aesthetics	0
+рот_NOUN	беззубый	беззубый_ADJ	a toothless mouth	0.0101183063512	6.59188281712	Characteristics of age	4
+рот_NOUN	безобразный	безобразный_ADJ	a misshapen/ugly mouth	0.0	0.0	Size and shape; aesthetics	0
+рот_NOUN	большой	большой_ADJ	a large mouth	0.000888059874495	0.0	Size and shape; aesthetics	0
+рот_NOUN	ввалившийся	вваливаться_VERB	a sunken mouth	0.000364077669903	2.6239146556	Characteristics of age	4
+рот_NOUN	закрытый	закрытый_ADJ	a closed mouth	0.000446164949806	1.58934455251	Other movements	6
+рот_NOUN	капризный	капризный_ADJ	a capricious mouth	9.04963726037e-05	1.13269541376	Shapes and movements that express emotional, physical, or psychological states, and personality traits	1
+рот_NOUN	красивый	красивый_ADJ	a beautiful mouth	0.000743348127419	0.0	Size and shape; aesthetics	0
+рот_NOUN	красный	красный_ADJ	a bright red mouth, bright red lips	0.000735554005904	0.0	Color	2
+рот_NOUN	кривой	кривой_ADJ	a crooked mouth	0.000838288842899	2.21164926085	Size and shape; aesthetics	0
+рот_NOUN	маленький	маленький_ADJ	a little mouth	0.00124566389348	1.20015904165	Size and shape; aesthetics	0
+рот_NOUN	набитый	набивать_VERB	a full mouth	0.00506626624013	3.99668685981	Eating	5
+рот_NOUN	накрашенный	накрасить_VERB	a mouth with lipstick on it, a painted mouth	0.001223740567	4.80571339513	Make-up	3
+рот_NOUN	насмешливый	насмешливый_ADJ	an ironic mouth	0.000174259036057	1.31313638702	Shapes and movements that express emotional, physical, or psychological states, and personality traits	1
+рот_NOUN	небольшой	небольшой_ADJ	a small mouth	0.000340989356261	0.0	Size and shape; aesthetics	0
+рот_NOUN	нежный	нежный_ADJ	a soft mouth, a tender mouth; soft lips, tender lips	0.000466630608847	1.00668330759	Size and shape; aesthetics	0
+рот_NOUN	некрасивый	некрасивый_ADJ	an unpleasant-looking mouth	0.000260620276257	1.6873128212	Size and shape; aesthetics	0
+рот_NOUN	огромный	огромный_ADJ	an enormous mouth	0.000791606910626	0.0	Size and shape; aesthetics	0
+рот_NOUN	открытый	открытый_ADJ	an open mouth	0.00733769341203	3.48219122194	Other movements	6
+рот_NOUN	очаровательный	очаровательный_ADJ	a charming mouth	5.74118727753e-05	0.0	Size and shape; aesthetics	0
+рот_NOUN	очерченный	очерчивать_VERB	a beautifully shaped mouth	0.000873257249541	3.37124921363	Size and shape; aesthetics	0
+рот_NOUN	перекошенный	перекашивать_VERB	contorted lips	0.00282547272332	5.22484458542	Shapes and movements that express emotional, physical, or psychological states, and personality traits	1
+рот_NOUN	пересохший	пересыхать_VERB	a dry mouth	0.00374531835206	5.19683538143	Taste and other sensations	7
+рот_NOUN	подкрашенный	подкрашивать_VERB	a mouth with lipstick on it, a painted mouth	0.0	1.11790339629	Make-up	3
+рот_NOUN	полный	полный_ADJ	a full mouth	0.00220650465482	1.74315787064	Eating	5
+рот_NOUN	презрительный	презрительный_ADJ	disdainful lips	0.0	0.0	Shapes and movements that express emotional, physical, or psychological states, and personality traits	1
+рот_NOUN	прелестный	прелестный_ADJ	a charming mouth	0.000134803591168	0.0	Size and shape; aesthetics	0
+рот_NOUN	приоткрытый	приоткрытый_ADJ	a slightly open mouth	0.000886847731412	5.1098173214	Other movements	6
+рот_NOUN	провалившийся	проваливаться_VERB	a sunken mouth	0.000665796692322	2.05907609408	Characteristics of age	4
+рот_NOUN	пухлый	пухлый_ADJ	a full mouth, full lips	0.00117698984846	3.36086445881	Size and shape; aesthetics	0
+рот_NOUN	раскрытый	раскрытый_ADJ	an open mouth	0.00259364255986	4.48451652203	Other movements	6
+рот_NOUN	сжатый	сжинать_VERB	a tightly compressed mouth	0.00107012109265	2.86799846988	Shapes and movements that express emotional, physical, or psychological states, and personality traits	1
+рот_NOUN	смеющийся	смеяться_VERB	smiling lips, a smiling mouth	0.000646632124352	0.0	Shapes and movements that express emotional, physical, or psychological states, and personality traits	1
+рот_NOUN	упрямый	упрямый_ADJ	a stubborn mouth	0.000204591620512	1.53765644726	Shapes and movements that express emotional, physical, or psychological states, and personality traits	1
+рот_NOUN	чувственный	чувственный_ADJ	a sensual mouth	0.00090483209527	3.01039731279	Size and shape; aesthetics	0
+рот_NOUN	шамкающий	шамкать_VERB	a mumbling mouth, a mouth with many teeth missing	0.000476001586672	4.68334863095	Characteristics of age	4
+рот_NOUN	широкий	широкий_ADJ	a wide mouth	0.00145262546263	1.55770579098	Size and shape; aesthetics	0
+рот_NOUN	щербатый	щербатый_ADJ	a gap-toothed mouth, a mouth with some teeth missing	0.00116920257225	5.19112667076	Size and shape; aesthetics	0
+рот_NOUN	яркий	яркий_ADJ	a bright red mouth, bright red lips	0.000354994207989	0.0	Color	2
+рука_NOUN	аристократические	аристократический_ADJ	aristocratic hands	0.0	0.0	Size and shape; aesthetics	0
+рука_NOUN	безжизненные	безжизненный_ADJ	limp, listless hands	0.0	0.0	Strength and mobility	3
+рука_NOUN	белые	белый_ADJ	white arms/hands	0.00196865992452	0.0	Color and other visible properties	1
+рука_NOUN	большие	большой_ADJ	large arms/hands	0.00128278437358	0.0	Size and shape; aesthetics	0
+рука_NOUN	бронзовые	бронзовый_ADJ	bronzed arms	0.000114258147241	0.0	Color and other visible properties	1
+рука_NOUN	быстрые	быстрый_ADJ	nimble hands	0.000210024563742	0.0	Strength and mobility	3
+рука_NOUN	влажные	влажный_ADJ	moist hands	0.000230354762111	0.0	Tactile and other properties	2
+рука_NOUN	волосатые	волосатый_ADJ	hairy arms/hands	0.000629482466357	3.19360036829	Color and other visible properties	1
+рука_NOUN	высохшая	высыхать_VERB	a withered arm	5.73974101013e-05	0.0	Sensations and medical conditions; inflicting and sustaining injuries	5
+рука_NOUN	вялые	вялый_ADJ	limp, listless hands	0.00020374217065	1.5227032146	Strength and mobility	3
+рука_NOUN	гибкие	гибкий_ADJ	lithe arms	0.000165121562812	1.06230720027	Strength and mobility	3
+рука_NOUN	голые	голый_ADJ	naked arms	0.00324170938183	2.61857532598	Color and other visible properties	1
+рука_NOUN	горячие	горячий_ADJ	hot hands	0.00127192246028	1.21757352867	Tactile and other properties	2
+рука_NOUN	грубые	грубый_ADJ	rough hands	0.000374784959449	0.0	Size and shape; aesthetics	0
+рука_NOUN	грязные	грязный_ADJ	dirty hands	0.00092374514422	1.34771198496	Hand care	6
+рука_NOUN	длинные	длинный_ADJ	long arms	0.00209678293986	1.13225717615	Size and shape; aesthetics	0
+рука_NOUN	добрые	добрый_ADJ	kind hands	0.000438699270288	0.0	Tactile and other properties	2
+рука_NOUN	железные	железный_ADJ	iron hands	0.00111749773874	0.0	Strength and mobility	3
+рука_NOUN	жёсткие	жесткий_ADJ	tough hands	0.00035714452086	0.0	Tactile and other properties	2
+рука_NOUN	жилистые	жилистый_ADJ	sinewy arms	0.000566663838683	3.55586466444	Color and other visible properties	1
+рука_NOUN	загорелые	загорелый_ADJ	tanned arms/hands	0.000379388674132	2.32443564978	Color and other visible properties	1
+рука_NOUN	загрубевшие	загрубеть_VERB	hands roughened (from work)	0.0	2.90449752312	Size and shape; aesthetics	0
+рука_NOUN	заскорузлые	заскорузлый_ADJ	hands roughened by exposure to weather and/or by hard work	0.000147523844343	2.9818784425	Size and shape; aesthetics	0
+рука_NOUN	золотые	золотой_ADJ	golden	0.00108581405651	0.0	Strength and mobility	3
+рука_NOUN	изнеженные	изнеженный_ADJ	soft hands	0.0	1.63455044723	Size and shape; aesthetics	0
+рука_NOUN	изящные	изящный_ADJ	elegant hands	0.000157133384245	0.0	Size and shape; aesthetics	0
+рука_NOUN	короткие	короткий_ADJ	short arms	0.000677911623116	0.0	Size and shape; aesthetics	0
+рука_NOUN	костлявые	костлявый_ADJ	bony hands	0.000866048501912	3.53776135787	Size and shape; aesthetics	0
+рука_NOUN	красивые	красивый_ADJ	beautiful arms/hands	0.000524774067558	0.0	Size and shape; aesthetics	0
+рука_NOUN	красные	красный_ADJ	reddened hands	0.000787430222767	0.0	Color and other visible properties	1
+рука_NOUN	крепкие	крепкий_ADJ	strong arms/hands	0.00123058316641	1.42744505901	Strength and mobility	3
+рука_NOUN	кривые	кривой_ADJ	crooked	9.11130241355e-05	0.0	Strength and mobility	3
+рука_NOUN	ласковые	ласковый_ADJ	tender, caressing hands	0.000321491219856	0.0	Tactile and other properties	2
+рука_NOUN	ледяные	ледяной_ADJ	icy hands	0.000285246338424	0.0	Tactile and other properties	2
+рука_NOUN	лёгкие	легкий_ADJ	gentle hands	0.00195559177022	1.41905029765	Tactile and other properties	2
+рука_NOUN	ловкие	ловкий_ADJ	deft hands	0.000421243332953	1.79628094051	Strength and mobility	3
+рука_NOUN	любящие	любящий_ADJ	loving hands	9.593138987e-05	1.46777230838	Tactile and other properties	2
+рука_NOUN	маленькие	маленький_ADJ	little arms/hands	0.00149501599044	0.0	Size and shape; aesthetics	0
+рука_NOUN	мозолистые	мозолистый_ADJ	calloused hands	0.000503754899177	4.6154880621	Size and shape; aesthetics	0
+рука_NOUN	мокрые	мокрый_ADJ	wet hands	0.000662943746461	1.08651335628	Tactile and other properties	2
+рука_NOUN	мускулистые	мускулистый_ADJ	muscular arms	0.00046106557377	3.38451278778	Color and other visible properties	1
+рука_NOUN	мягкие	мягкий_ADJ	soft hands	0.000576501091126	0.0	Tactile and other properties	2
+рука_NOUN	натруженные	натруживать_VERB	work-worn hands	0.000166866692766	3.62543672101	Size and shape; aesthetics	0
+рука_NOUN	небольшие	небольшой_ADJ	small hands	0.000300916276258	0.0	Size and shape; aesthetics	0
+рука_NOUN	негибкие	негибкий_ADJ	stiff arms	0.0	1.76460357548	Strength and mobility	3
+рука_NOUN	нежные	нежный_ADJ	tender hands	0.000672249392302	1.00998280989	Size and shape; aesthetics	0
+рука_NOUN	неловкие	неловкий_ADJ	clumsy hands	9.56387151895e-05	0.0	Strength and mobility	3
+рука_NOUN	непослушные	непослушный_ADJ	uncoordinated hands	0.000131354052032	2.34204224439	Strength and mobility	3
+рука_NOUN	обветренные	обветренный_ADJ	weather-beaten hands, chapped hands	0.0	1.10738840415	Hands exposed to cold and wind	4
+рука_NOUN	обезьяньи	обезьяний_ADJ	simian arms	0.0	1.5733352327	Size and shape; aesthetics	0
+рука_NOUN	обнаженные	обнаженный_ADJ	bared arms	0.000657253442643	2.43610549777	Color and other visible properties	1
+рука_NOUN	округлые	округлый_ADJ	rounded arms	0.0	0.0	Size and shape; aesthetics	0
+рука_NOUN	опухшая	опухать_VERB	swollen	7.03289958458e-05	1.09273738719	Sensations and medical conditions; inflicting and sustaining injuries	5
+рука_NOUN	опытные	опытный_ADJ	experienced hands	0.000525945348091	1.04444560043	Strength and mobility	3
+рука_NOUN	осторожные	осторожный_ADJ	careful hands	0.0	0.0	Tactile and other properties	2
+рука_NOUN	отёкшая	отекать_VERB	a puffy arm/hand	7.05781958288e-05	2.49590252201	Sensations and medical conditions; inflicting and sustaining injuries	5
+рука_NOUN	полные	полный_ADJ	full, rounded arms	0.000569767413668	0.0	Size and shape; aesthetics	0
+рука_NOUN	породистые	породистый_ADJ	aristocratic hands	0.0	1.47325177414	Size and shape; aesthetics	0
+рука_NOUN	пухлые	пухлый_ADJ	pudgy arms/hands	0.000776827614311	2.8698676393	Size and shape; aesthetics	0
+рука_NOUN	рабочие	рабочий_ADJ	work-roughened hands	0.00185913045235	1.29420326296	Size and shape; aesthetics	0
+рука_NOUN	раненая	раненый_ADJ	a wounded arm/hand	0.000386745805726	2.76292407949	Sensations and medical conditions; inflicting and sustaining injuries	5
+рука_NOUN	распухшая	распухать_VERB	a swollen arm/hand	0.000127872332263	1.69296714246	Sensations and medical conditions; inflicting and sustaining injuries	5
+рука_NOUN	сильные	сильный_ADJ	strong arms/hands	0.00276178029849	1.21981534239	Strength and mobility	3
+рука_NOUN	слабые	слабый_ADJ	weak arms/hands	0.000856753730572	0.0	Strength and mobility	3
+рука_NOUN	смуглые	смуглый_ADJ	olive-skinned arms/hands	0.00046025024917	2.05296200914	Color and other visible properties	1
+рука_NOUN	сухие	сухой_ADJ	dry hands	0.000678632825109	0.0	Tactile and other properties	2
+рука_NOUN	тёплые	теплый_ADJ	warm hands	0.000671365228652	0.0	Tactile and other properties	2
+рука_NOUN	толстые	толстый_ADJ	fat arms/hands	0.000570767727418	0.0	Size and shape; aesthetics	0
+рука_NOUN	тонкие	тонкий_ADJ	slender arms/hands; thin arms/hands	0.00129167018191	1.00118365037	Size and shape; aesthetics	0
+рука_NOUN	тяжёлая	тяжелый_ADJ	heavy hand	0.00140513218319	0.0	Tactile and other properties	2
+рука_NOUN	уверенные	уверенный_ADJ	confident, sure hands	0.000181129888243	0.0	Strength and mobility	3
+рука_NOUN	узкие	узкий_ADJ	narrow hands	0.000216912877846	0.0	Size and shape; aesthetics	0
+рука_NOUN	умелые	умелый_ADJ	skillful hands	0.00100319168309	3.63182651911	Strength and mobility	3
+рука_NOUN	ухоженные	ухоженный_ADJ	well-tended hands	6.08815325484e-05	1.64167384807	Hand care	6
+рука_NOUN	холёные	холеный_ADJ	well-cared-for hands	0.000253154416183	3.09303653504	Hand care	6
+рука_NOUN	холодные	холодный_ADJ	cold hands	0.000991227635426	0.0	Tactile and other properties	2
+рука_NOUN	худые	худой_ADJ	skinny arms	0.000761481421865	1.42865241468	Size and shape; aesthetics	0
+рука_NOUN	цепкие	цепкий_ADJ	strong, tenacious hands	0.00051809660263	3.18412358423	Strength and mobility	3
+рука_NOUN	чёрные	черный_ADJ	arms brown from the sun	0.000690360713473	0.0	Color and other visible properties	1
+рука_NOUN	чистые	чистый_ADJ	clean hands	0.000575030097019	0.0	Hand care	6
+рука_NOUN	широкие	широкий_ADJ	broad hands	0.000442551770207	0.0	Size and shape; aesthetics	0
+сердце_NOUN	больное	больной_ADJ	a heart in bad condition; a diseased heart	0.00279862983748	2.34322908576	Good heart, bad heart	0
+сердце_NOUN	здоровое	здоровый_ADJ	a healthy heart	0.000440931899985	0.0	Good heart, bad heart	0
+сердце_NOUN	искусственное	искусственный_ADJ	an artificial heart	0.000626776554158	1.57807260156	Specific diseases and their treatment	1
+сердце_NOUN	отличное	отличный_ADJ	an excellent heart	0.0	0.0	Good heart, bad heart	0
+сердце_NOUN	плохое	плохой_ADJ	a heart in bad condition	0.00019944934637	0.0	Good heart, bad heart	0
+сердце_NOUN	сильное	сильный_ADJ	a strong heart	0.000224985323223	0.0	Good heart, bad heart	0
+сердце_NOUN	слабое	слабый_ADJ	a weak heart	0.00117195726018	1.2675677881	Good heart, bad heart	0
+сердце_NOUN	хорошее	хороший_ADJ	a good heart	0.000284142802054	0.0	Good heart, bad heart	0
+скула_NOUN	высокие	высокий_ADJ	high cheekbones	0.000290449523769	2.10084432414	Appearance	0
+скула_NOUN	выступающие	выступать_VERB	(very) prominent cheekbones	0.00106467926537	3.43942672207	Appearance	0
+скула_NOUN	квадратные	квадратный_ADJ	square cheekbones	0.00013093289689	1.63381471598	Appearance	0
+скула_NOUN	острые	острый_ADJ	sharp cheekbones	0.00176999183081	3.99901037316	Appearance	0
+скула_NOUN	худые	худой_ADJ	thin cheekbones	0.000287036704819	2.24763808848	Appearance	0
+скула_NOUN	широкие	широкий_ADJ	broad cheekbones	0.00193377325013	4.02622189904	Appearance	0
+слеза_NOUN	бессильные	бессильный_ADJ	tears of frustration	0.00101511701281	2.79624566314	The cause of crying	2
+слеза_NOUN	восторженные	восторженный_ADJ	ecstatic tears	0.000329579785773	1.67924242979	The cause of crying	2
+слеза_NOUN	гневные	гневный_ADJ	angry tears	0.000147206029559	1.64091449412	The cause of crying	2
+слеза_NOUN	горькие	горький_ADJ	bitter tears	0.013882569792	4.66804600441	The cause of crying	2
+слеза_NOUN	горючие	горючий_ADJ	bitter tears	0.0046783978751	5.668169596	The cause of crying	2
+слеза_NOUN	горячие	горячий_ADJ	hot tears	0.00358094239923	2.75352517523	Various properties of tears	0
+слеза_NOUN	злые	злой_ADJ	angry tears	0.00121184875346	1.83473747518	The cause of crying	2
+слеза_NOUN	крупные	крупный_ADJ	large tears	0.00436772418896	2.61251693655	Various properties of tears	0
+слеза_NOUN	обильные	обильный_ADJ	abundant tears	0.00288551778235	4.01031960878	Various properties of tears	0
+слеза_NOUN	прозрачные	прозрачный_ADJ	clear tears	0.000593965312426	1.57256491632	Various properties of tears	0
+слеза_NOUN	радостные	радостный_ADJ	joyful tears	0.00312525320338	3.15391871927	The cause of crying	2
+слеза_NOUN	скупые	скупой_ADJ	sparse tears	0.00104973100643	3.45283839242	Various properties of tears	0
+слеза_NOUN	солёные	соленый_ADJ	salty tears	0.000801891357547	2.6202787799	Various properties of tears	0
+слеза_NOUN	счастливые	счастливый_ADJ	happy tears	0.00121709778975	1.58762604953	The cause of crying	2
+слеза_NOUN	частые	частый_ADJ	tears falling rapidly, one after the other	0.000409474209523	1.4856017658	Various properties of tears	0
+смех_NOUN	беззаботный	беззаботный_ADJ	carefree laughter	0.0019675865997	4.53446561279	Other emotional states and attitudes	2
+смех_NOUN	беззвучный	беззвучный_ADJ	silent laughter	0.00358778012798	5.70575665589	Other properties	0
+смех_NOUN	весёлый	веселый_ADJ	merry laughter	0.00793213149523	3.78759688932	Positive emotions	6
+смех_NOUN	гомерический	гомерический_ADJ	homeric laughter	0.0020340846619	6.10523372216	Loudness	5
+смех_NOUN	горький	горький_ADJ	bitter laughter	0.00191874967294	2.87059381078	Negative emotions	4
+смех_NOUN	громкий	громкий_ADJ	loud laughter	0.00967817373941	4.54228750216	Loudness	5
+смех_NOUN	дерзкий	дерзкий_ADJ	impertinent laughter	0.000321019926165	1.82385510981	Other emotional states and attitudes	2
+смех_NOUN	дружный	дружный_ADJ	general laughter	0.00438475030001	4.46824172291	Other expressions	1
+смех_NOUN	заливистый	заливистый_ADJ	unrestrained, sonorous laughter	0.00082999031678	5.73387183962	Pitch and other auditory properties	3
+смех_NOUN	заразительный	заразительный_ADJ	infectious laughter	0.00392115303095	5.57667158753	Other properties	0
+смех_NOUN	звонкий	звонкий_ADJ	ringing laughter	0.00817038465069	5.0647404087	Pitch and other auditory properties	3
+смех_NOUN	здоровый	здоровый_ADJ	robust laughter	0.000971442093333	1.80065144378	Other properties	0
+смех_NOUN	злобный	злобный_ADJ	spiteful laughter	0.00118815645644	3.31497743318	Negative emotions	4
+смех_NOUN	злой	злой_ADJ	nasty laughter	0.00105500926515	1.95494076295	Negative emotions	4
+смех_NOUN	злорадный	злорадный_ADJ	malicious laughter	0.00131201312013	5.36514297134	Negative emotions	4
+смех_NOUN	издевательский	издевательский_ADJ	mocking laughter	0.000377185656168	3.61037260577	Negative emotions	4
+смех_NOUN	истерический	истерический_ADJ	hysterical laughter	0.0022125601379	4.57530894188	Other emotional states and attitudes	2
+смех_NOUN	неудержимый	неудержимый_ADJ	irrepressible laughter	0.00333168484344	5.13211296856	Other properties	0
+смех_NOUN	презрительный	презрительный_ADJ	contemptuous laughter	0.00120481927711	3.71648434575	Negative emotions	4
+смех_NOUN	радостный	радостный_ADJ	joyful laughter	0.00268951605951	3.18912879421	Positive emotions	6
+смех_NOUN	раскатистый	раскатистый_ADJ	peals of laughter	0.00342549547345	6.10270281455	Pitch and other auditory properties	3
+смех_NOUN	рассыпчатый	рассыпчатый_ADJ	staccato laughter	0.000602607647639	4.68962834038	Pitch and other auditory properties	3
+смех_NOUN	саркастический	саркастический_ADJ	sarcastic laughter	0.000767628029389	4.97771982942	Negative emotions	4
+смех_NOUN	сдавленный	сдавленный_ADJ	restrained laughter	0.000590699173021	3.96962442198	Other properties	0
+смех_NOUN	серебристый	серебристый_ADJ	silvery laughter	0.00182925361639	3.82284662547	Pitch and other auditory properties	3
+смех_NOUN	счастливый	счастливый_ADJ	happy laughter	0.00221392877475	2.50787431284	Positive emotions	6
+смех_NOUN	тихий	тихий_ADJ	quiet laughter	0.00236691675598	2.61114349233	Loudness	5
+смех_NOUN	тонкий	тонкий_ADJ	high-pitched laughter	0.000357888458097	0.0	Pitch and other auditory properties	3
+смех_NOUN	язвительный	язвительный_ADJ	acerbic laughter	0.000773036487322	3.54230169278	Negative emotions	4
+спина_NOUN	белая	белый_ADJ	a white back	0.000486749594375	0.0	Other visible properties	0
+спина_NOUN	вогнутая	вогнутый_ADJ	a concave back	0.0	2.15437999927	Size and shape	1
+спина_NOUN	гладкая	гладкий_ADJ	a smooth back	0.000375560406544	1.55541605643	Other visible properties	0
+спина_NOUN	голая	голый_ADJ	a bare back	0.00248653921559	2.65230348907	Other visible properties	0
+спина_NOUN	горбатая	горбатый_ADJ	a humped back	0.000855986719236	3.54161200697	Size and shape	1
+спина_NOUN	длинная	длинный_ADJ	a long back	0.000586851016133	0.0	Size and shape	1
+спина_NOUN	жирная	жирный_ADJ	a flabby back	0.00056002146749	1.91716071972	Size and shape	1
+спина_NOUN	загорелая	загорелый_ADJ	a tanned back	0.000229214685021	1.87381079224	Other visible properties	0
+спина_NOUN	квадратная	квадратный_ADJ	a squarish back	0.000212472113035	1.02429050294	Size and shape	1
+спина_NOUN	короткая	короткий_ADJ	a short back	0.000235885566015	0.0	Size and shape	1
+спина_NOUN	крепкая	крепкий_ADJ	a strong back	0.000496987016214	0.0	Strength	2
+спина_NOUN	круглая	круглый_ADJ	a rounded back	0.000743845135071	1.32850323098	Size and shape	1
+спина_NOUN	могучая	могучий_ADJ	a powerful back	0.00108443403388	2.21231494255	Strength	2
+спина_NOUN	мощная	мощный_ADJ	a powerful back	0.000429666520189	0.0	Strength	2
+спина_NOUN	мускулистая	мускулистый_ADJ	a muscular back	0.000448288592374	3.3791868905	Other visible properties	0
+спина_NOUN	прямая	прямой_ADJ	a straight back	0.00200535759716	2.01553500613	Size and shape	1
+спина_NOUN	сгорбленная	сгорбленный_ADJ	a crooked back	0.000986824558596	4.73973679213	Size and shape	1
+спина_NOUN	слабая	слабый_ADJ	a weak back	9.36198099518e-05	0.0	Strength	2
+спина_NOUN	смуглая	смуглый_ADJ	an olive-skinned back	0.000147608738437	0.0	Other visible properties	0
+спина_NOUN	согбенная	согбенный_ADJ	a bent back	0.00112321989704	5.07427005949	Movements and positions	3
+спина_NOUN	сутулая	сутулый_ADJ	a stooped back	0.0029674759385	5.12275521717	Size and shape	1
+спина_NOUN	узкая	узкий_ADJ	a narrow back	0.000712640681354	1.20375951138	Size and shape	1
+спина_NOUN	худая	худой_ADJ	a bony back	0.000863194023409	1.79226455527	Size and shape	1
+спина_NOUN	чёрная	черный_ADJ	a back brown from the sun	0.000422671121992	0.0	Other visible properties	0
+спина_NOUN	широкая	широкий_ADJ	a broad back	0.00454748945595	2.60059949962	Size and shape	1
+стан_NOUN	гибкий	гибкий_ADJ	a lithe waist	0.00808744550452	5.54184169946	Size, shape, and other properties	0
+стан_NOUN	длинный	длинный_ADJ	a long waist	0.000228169415791	1.26366659235	Size, shape, and other properties	0
+стан_NOUN	изящный	изящный_ADJ	an elegant waist	8.9325591782e-05	0.0	Size, shape, and other properties	0
+стан_NOUN	стройный	стройный_ADJ	a shapely waist	0.00966569122994	5.41030346591	Size, shape, and other properties	0
+стан_NOUN	тонкий	тонкий_ADJ	a slender waist	0.00157887573159	3.23769723289	Size, shape, and other properties	0
+ступня_NOUN	большие	большой_ADJ	large feet	9.96454614482e-05	1.27049677409	Size and shape; aesthetics	1
+ступня_NOUN	голые	голый_ADJ	bare soles	0.00222619291719	4.47754237245	Appearance and conditions	0
+ступня_NOUN	грубые	грубый_ADJ	rough, calloused soles	6.28535512256e-05	0.0	Appearance and conditions	0
+ступня_NOUN	изящные	изящный_ADJ	elegant feet	0.000465603538587	3.03171576231	Size and shape; aesthetics	1
+ступня_NOUN	маленькие	маленький_ADJ	small feet	0.000316167612444	2.43735067647	Size and shape; aesthetics	1
+ступня_NOUN	мозолистые	мозолистый_ADJ	calloused soles	0.000487923883874	4.7457034891	Appearance and conditions	0
+ступня_NOUN	опухшая	опухать_VERB	a swollen foot	0.000623927624396	3.88130334674	Sensations and medical conditions; sustaining injuries	2
+ступня_NOUN	потрескавшиеся	потрескаться_VERB	dry, cracked soles	0.000865613503571	4.82581373012	Appearance and conditions	0
+ступня_NOUN	узкие	узкий_ADJ	narrow feet	0.000761631683878	3.37858796284	Size and shape; aesthetics	1
+ступня_NOUN	широкие	широкий_ADJ	wide feet	0.000261727400846	2.26489866173	Size and shape; aesthetics	1
+талия_NOUN	гибкая	гибкий_ADJ	a lithe waist	0.00441238862961	5.26679107385	Size, shape, and other properties	0
+талия_NOUN	осиная	осиный_ADJ	a wasp waist	0.0118460019743	8.24985349466	Size, shape, and other properties	0
+талия_NOUN	полная	полный_ADJ	a thick waist	0.0	0.0	Size, shape, and other properties	0
+талия_NOUN	располневшая	располнеть_VERB	a thick waist	0.00157604412924	6.20891350034	Size, shape, and other properties	0
+талия_NOUN	тонкая	тонкий_ADJ	a thin waist	0.00627988707726	5.18748520487	Size, shape, and other properties	0
+талия_NOUN	узкая	узкий_ADJ	a narrow waist	0.00170279651582	3.92010608671	Size, shape, and other properties	0
+тело_NOUN	бездыханное	бездыханный_ADJ	a lifeless body	0.0018487793316	5.54872162366	Sensations and medical conditions	2
+тело_NOUN	безжизненное	безжизненный_ADJ	a limp body	0.000969098269691	3.97969176493	Sensations and medical conditions	2
+тело_NOUN	безобразное	безобразный_ADJ	an ugly body	0.000150853453413	1.04707212899	Size and shape; aesthetics	4
+тело_NOUN	белое	белый_ADJ	a white body	0.00139073103519	0.0	Color and other visible properties	0
+тело_NOUN	бессильное	бессильный_ADJ	a weak body	0.000282797011282	1.45807868785	Strength and agility	3
+тело_NOUN	бесформенное	бесформенный_ADJ	a shapeless body	0.000250140704146	2.63661512948	Size and shape; aesthetics	4
+тело_NOUN	больное	больной_ADJ	a sick body	0.000645458185665	0.0	Sensations and medical conditions	2
+тело_NOUN	большое	большой_ADJ	a large body	0.000557718227289	0.0	Size and shape; aesthetics	4
+тело_NOUN	бронзовое	бронзовый_ADJ	a bronzed body	0.00027042456657	1.55889054836	Color and other visible properties	0
+тело_NOUN	волосатое	волосатый_ADJ	a hairy body	0.000186215404669	1.99568011051	Color and other visible properties	0
+тело_NOUN	высохшее	высыхать_VERB	a withered body	0.000230453686491	1.87981713312	Characteristics of age	6
+тело_NOUN	гибкое	гибкий_ADJ	a lithe body	0.00153601734796	3.33641311615	Strength and agility	3
+тело_NOUN	гладкое	гладкий_ADJ	a smooth body	0.000262823601559	1.14230185503	Tactile properties; weight	1
+тело_NOUN	голое	голый_ADJ	a naked body	0.00766322738292	3.64913339967	Color and other visible properties	0
+тело_NOUN	горячее	горячий_ADJ	a hot body	0.00106836999699	1.30212193654	Tactile properties; weight	1
+тело_NOUN	длинное	длинный_ADJ	a long body	0.00102624578587	0.0	Size and shape; aesthetics	4
+тело_NOUN	дряблое	дряблый_ADJ	a flabby, flaccid body	0.00047155723919	3.63068356239	Characteristics of age	6
+тело_NOUN	жирное	жирный_ADJ	an obese body	0.000698288465875	2.07941066322	Size and shape; aesthetics	4
+тело_NOUN	загорелое	загорелый_ADJ	a tanned body	0.000613981902883	2.83456843196	Color and other visible properties	0
+тело_NOUN	закоченевшее	закоченеть_VERB	a body numbed by cold	0.000126782884311	3.39862843078	Tactile properties; weight	1
+тело_NOUN	здоровое	здоровый_ADJ	a healthy body	0.00267987799503	2.3109713581	Sensations and medical conditions	2
+тело_NOUN	коричневое	коричневый_ADJ	a brown body	0.000377531091863	1.44468644429	Color and other visible properties	0
+тело_NOUN	короткое	короткий_ADJ	a short body	0.000149391496423	0.0	Size and shape; aesthetics	4
+тело_NOUN	костлявое	костлявый_ADJ	a bony body, N is all skin and bones, a bag of bones	0.000574520779796	3.14693727081	Color and other visible properties	0
+тело_NOUN	красивое	красивый_ADJ	a beautiful body	0.000898136367038	0.0	Size and shape; aesthetics	4
+тело_NOUN	крепкое	крепкий_ADJ	a strong body	0.00159321848377	1.89420601795	Strength and agility	3
+тело_NOUN	крупное	крупный_ADJ	a large body	0.000471477777244	0.0	Size and shape; aesthetics	4
+тело_NOUN	лёгкое	легкий_ADJ	a light body	0.000820051305774	0.0	Tactile properties; weight	1
+тело_NOUN	ловкое	ловкий_ADJ	a graceful body	0.000178523609747	0.0	Strength and agility	3
+тело_NOUN	маленькое	маленький_ADJ	a small body	0.000752521765874	0.0	Size and shape; aesthetics	4
+тело_NOUN	могучее	могучий_ADJ	a powerful body	0.00102790626606	2.07345979327	Strength and agility	3
+тело_NOUN	мускулистое	мускулистый_ADJ	a muscular body	0.000987367959126	4.15821103578	Color and other visible properties	0
+тело_NOUN	мягкое	мягкий_ADJ	a soft body	0.000821305634398	1.20946328201	Tactile properties; weight	1
+тело_NOUN	напряжённое	напряженный_ADJ	a tense body	0.000314323882186	1.10688656629	Conditions caused by physical states	5
+тело_NOUN	нежное	нежный_ADJ	a tender body	0.000914337962169	1.49339820373	Tactile properties; weight	1
+тело_NOUN	некрасивое	некрасивый_ADJ	an ugly body	0.000151212726063	1.09376456733	Size and shape; aesthetics	4
+тело_NOUN	обнаженное	обнаженный_ADJ	a bare body	0.00245359986754	3.79751372649	Color and other visible properties	0
+тело_NOUN	огромное	огромный_ADJ	an enormous body	0.00116396820039	0.0	Size and shape; aesthetics	4
+тело_NOUN	оплывшее	оплыть_VERB	an obese body	9.49224404559e-05	2.76286335268	Size and shape; aesthetics	4
+тело_NOUN	плотное	плотный_ADJ	a stocky body	0.000611251288248	1.72848371653	Color and other visible properties	0
+тело_NOUN	полное	полный_ADJ	a full body	0.000347698783054	0.0	Size and shape; aesthetics	4
+тело_NOUN	потное	потный_ADJ	a sweaty body	0.000597572934543	2.76049136168	Color and other visible properties	0
+тело_NOUN	пропорциональное	пропорциональный_ADJ	a well-proportioned body	0.0	1.09781931187	Size and shape; aesthetics	4
+тело_NOUN	разгорячённое	разгорячать_VERB	a hot body	0.000797710102764	3.82374408649	Tactile properties; weight	1
+тело_NOUN	распростёртое	распростирать_VERB	a prostrate body	0.000812157371109	3.76087605375	Sensations and medical conditions	2
+тело_NOUN	расслабленное	расслабленный_ADJ	a relaxed body	0.000221085212558	3.34213412781	Conditions caused by physical states	5
+тело_NOUN	розовое	розовый_ADJ	a rosy body	0.000481855534502	0.0	Color and other visible properties	0
+тело_NOUN	сбитое	сбитый_ADJ	a well-built body	0.0	2.37773792881	Color and other visible properties	0
+тело_NOUN	сильное	сильный_ADJ	a strong body	0.00123591805538	0.0	Strength and agility	3
+тело_NOUN	слабое	слабый_ADJ	a weak body	0.000944727862803	1.12537563917	Strength and agility	3
+тело_NOUN	смуглое	смуглый_ADJ	an olive-skinned body	0.000661335898515	2.46079472181	Color and other visible properties	0
+тело_NOUN	стройное	стройный_ADJ	a shapely body	0.00140463529648	2.63240474911	Size and shape; aesthetics	4
+тело_NOUN	тёмное	темный_ADJ	a dark body	0.00042327046983	0.0	Color and other visible properties	0
+тело_NOUN	толстое	толстый_ADJ	a fat body	0.000522508505277	0.0	Size and shape; aesthetics	4
+тело_NOUN	тонкое	тонкий_ADJ	a thin body	0.000966112552112	1.02752448616	Size and shape; aesthetics	4
+тело_NOUN	тренированное	тренировать_VERB	a body toned by exercise	0.000298706913493	3.18874024568	Strength and agility	3
+тело_NOUN	тучное	тучный_ADJ	a corpulent body	0.00110283552994	3.81286104254	Size and shape; aesthetics	4
+тело_NOUN	тщедушное	тщедушный_ADJ	a puny body	0.000613202726394	3.91698944275	Strength and agility	3
+тело_NOUN	тяжёлое	тяжелый_ADJ	a heavy body	0.00145081091537	1.15981555124	Tactile properties; weight	1
+тело_NOUN	упитанное	упитанный_ADJ	a plump body	0.000142060028254	2.84149021005	Size and shape; aesthetics	4
+тело_NOUN	хилое	хилый_ADJ	a puny body	0.000437845487455	3.20918041741	Strength and agility	3
+тело_NOUN	холодное	холодный_ADJ	a cold body	0.000656119371395	0.0	Tactile properties; weight	1
+тело_NOUN	хрупкое	хрупкий_ADJ	a fragile body	0.000501180812369	2.37898403489	Strength and agility	3
+тело_NOUN	худое	худой_ADJ	a skinny body	0.00104641101146	1.88040652662	Size and shape; aesthetics	4
+тело_NOUN	чёрное	черный_ADJ	a black body	0.00202277940467	1.22484638826	Color and other visible properties	0
+тело_NOUN	шершавое	шершавый_ADJ	a rough-skinned body	0.0	0.0	Tactile properties; weight	1
+улыбка_NOUN	беззаботная	беззаботный_ADJ	a carefree smile	0.000827189354433	3.64420330511	Other emotional states and attitudes, and personality traits	6
+улыбка_NOUN	благодарная	благодарный_ADJ	a grateful smile	0.001249676151	2.7063581607	Positive emotions	5
+улыбка_NOUN	благодушная	благодушный_ADJ	a good-natured smile	0.000988829884637	4.2432271133	Other emotional states and attitudes, and personality traits	6
+улыбка_NOUN	блаженная	блаженный_ADJ	a blissful smile	0.00536824260689	4.29564371522	Positive emotions	5
+улыбка_NOUN	весёлая	веселый_ADJ	a cheerful smile	0.00373818338665	2.81270880772	Positive emotions	5
+улыбка_NOUN	восторженная	восторженный_ADJ	an ecstatic smile	0.00107467352721	2.88644900427	Positive emotions	5
+улыбка_NOUN	горькая	горький_ADJ	a bitter smile	0.00368710723561	3.39507118749	Negative emotions	1
+улыбка_NOUN	грустная	грустный_ADJ	a sad smile	0.00686062762038	4.14421933272	Negative emotions	1
+улыбка_NOUN	деланная	деланный_ADJ	an artificial smile	0.000782108340627	4.68616179407	Insincere smile	2
+улыбка_NOUN	дерзкая	дерзкий_ADJ	a daring smile	0.000396072283192	1.97468124666	Other emotional states and attitudes, and personality traits	6
+улыбка_NOUN	добрая	добрый_ADJ	a kind smile	0.00376645538762	2.56526434017	Positive emotions	5
+улыбка_NOUN	довольная	довольный_ADJ	a satisfied smile	0.00503737217085	3.4238585426	Positive emotions	5
+улыбка_NOUN	ехидная	ехидный_ADJ	a venomous smile	0.000961111932574	4.53209592829	Negative emotions	1
+улыбка_NOUN	загадочная	загадочный_ADJ	an enigmatic smile	0.00272608928708	3.5068542561	Other expressions	4
+улыбка_NOUN	заметная	заметный_ADJ	a barely noticeable smile	0.0033433634236	3.38760574544	Big smile, little smile	0
+улыбка_NOUN	застенчивая	застенчивый_ADJ	a bashful smile	0.00360727168827	4.99474701511	Other emotional states and attitudes, and personality traits	6
+улыбка_NOUN	злая	злой_ADJ	an evil smile	0.00136388134232	2.03034313799	Negative emotions	1
+улыбка_NOUN	злобная	злобный_ADJ	a spiteful smile	0.00128669623811	3.34551740416	Negative emotions	1
+улыбка_NOUN	зловещая	зловещий_ADJ	an ominous smile	0.000471309060917	2.29374405953	Negative emotions	1
+улыбка_NOUN	злорадная	злорадный_ADJ	a malicious smile	0.000821370568799	4.88996123046	Negative emotions	1
+улыбка_NOUN	издевательская	издевательский_ADJ	a mocking smile	0.000147871573538	2.66258645396	Negative emotions	1
+улыбка_NOUN	ироническая	иронический_ADJ	an ironic smile	0.00648113526699	5.53341725013	Negative emotions	1
+улыбка_NOUN	кислая	кислый_ADJ	a sour smile	0.00126861187154	3.21954801368	Negative emotions	1
+улыбка_NOUN	кокетливая	кокетливый_ADJ	a flirtatious smile	0.00068422853233	3.47941329469	Other emotional states and attitudes, and personality traits	6
+улыбка_NOUN	кривая	кривой_ADJ	a crooked smile	0.00192007680307	3.07318137651	Negative emotions	1
+улыбка_NOUN	кроткая	кроткий_ADJ	a shy smile	0.00325319626533	3.98771446145	Positive emotions	5
+улыбка_NOUN	ласковая	ласковый_ADJ	an affectionate smile	0.00838319972903	4.34394838245	Positive emotions	5
+улыбка_NOUN	лукавая	лукавый_ADJ	a sly smile	0.00535187741815	4.8292259052	Other emotional states and attitudes, and personality traits	6
+улыбка_NOUN	лучезарная	лучезарный_ADJ	a radiant smile	0.00132406487918	4.66759217254	Positive emotions	5
+улыбка_NOUN	насмешливая	насмешливый_ADJ	a derisive smile	0.0117943258816	5.5448337751	Negative emotions	1
+улыбка_NOUN	натянутая	натянутый_ADJ	a strained smile	0.000477502295684	3.60457082898	Insincere smile	2
+улыбка_NOUN	недобрая	недобрый_ADJ	an unkind smile	0.00120430107527	3.42583575113	Negative emotions	1
+улыбка_NOUN	недоверчивая	недоверчивый_ADJ	an incredulous smile	0.0015757842275	4.72749031412	Negative emotions	1
+улыбка_NOUN	нежная	нежный_ADJ	a tender smile	0.00361655103946	3.11446371073	Positive emotions	5
+улыбка_NOUN	неприятная	неприятный_ADJ	an unpleasant smile	0.000665318969267	1.56879221966	Pleasant smile, unpleasant smile	3
+улыбка_NOUN	нехорошая	нехороший_ADJ	an unkind smile	0.00100315995385	2.99688813287	Negative emotions	1
+улыбка_NOUN	обаятельная	обаятельный_ADJ	a charming smile	0.00187783446712	4.21849598307	Pleasant smile, unpleasant smile	3
+улыбка_NOUN	обворожительная	обворожительный_ADJ	an enchanting smile	0.00230526120097	5.67516893392	Pleasant smile, unpleasant smile	3
+улыбка_NOUN	ослепительная	ослепительный_ADJ	a blinding smile	0.00251120450622	4.30578521791	Big smile, little smile	0
+улыбка_NOUN	открытая	открытый_ADJ	an open smile	0.000736719658782	1.26229634295	Positive emotions	5
+улыбка_NOUN	отталкивающая	отталкивающий_ADJ	a repulsive smile	0.0	2.71844052956	Pleasant smile, unpleasant smile	3
+улыбка_NOUN	презрительная	презрительный_ADJ	a contemptuous smile	0.00552583415458	5.20650595687	Negative emotions	1
+улыбка_NOUN	приветливая	приветливый_ADJ	a friendly smile	0.00854109754832	5.435215446	Positive emotions	5
+улыбка_NOUN	притворная	притворный_ADJ	an insincere smile	0.000730820528749	3.87758642477	Insincere smile	2
+улыбка_NOUN	приятная	приятный_ADJ	a pleasant smile	0.00464250520092	3.24901993282	Pleasant smile, unpleasant smile	3
+улыбка_NOUN	радостная	радостный_ADJ	a joyful smile	0.00770800272047	4.11067629175	Positive emotions	5
+улыбка_NOUN	располагающая	располагающий_ADJ	an attractive smile	0.000264375413087	5.31628759053	Pleasant smile, unpleasant smile	3
+улыбка_NOUN	рассеянная	рассеянный_ADJ	a distracted smile	0.00127189288599	3.47095579642	Other expressions	4
+улыбка_NOUN	саркастическая	саркастический_ADJ	a sarcastic smile	0.00175832398055	5.80063973763	Negative emotions	1
+улыбка_NOUN	сияющая	сиять_VERB	a radiant smile	0.00391193973948	3.53304408203	Positive emotions	5
+улыбка_NOUN	смущённая	смущенный_ADJ	a confused smile	0.00282870427665	4.59924344787	Other emotional states and attitudes, and personality traits	6
+улыбка_NOUN	счастливая	счастливый_ADJ	a happy smile	0.00479264650655	3.05673057931	Positive emotions	5
+улыбка_NOUN	таинственная	таинственный_ADJ	an enigmatic/secretive smile	0.000808320310395	1.88024546285	Other expressions	4
+улыбка_NOUN	тихая	тихий_ADJ	a gentle smile	0.00240258277648	2.41156429826	Positive emotions	5
+улыбка_NOUN	фальшивая	фальшивый_ADJ	a false smile	0.000750567004422	2.54027844861	Insincere smile	2
+улыбка_NOUN	хорошая	хороший_ADJ	a nice smile	0.000251745170951	0.0	Pleasant smile, unpleasant smile	3
+улыбка_NOUN	чудесная	чудесный_ADJ	a wonderful smile	0.000230007331484	0.0	Pleasant smile, unpleasant smile	3
+улыбка_NOUN	широкая	широкий_ADJ	a broad smile	0.00302720447757	2.39725899993	Big smile, little smile	0
+улыбка_NOUN	язвительная	язвительный_ADJ	an acerbic smile	0.00175652423286	4.33790142591	Negative emotions	1
+ус_NOUN	белые	белый_ADJ	white moustache	0.000735351033362	1.54143651261	Color (natural and dyed)	0
+ус_NOUN	будённовские	буденновский_ADJ	"large, thick, curled moustache (lit. ""like Budyonny's"") "	0.000730160178889	6.32425693769	Size and shape; aesthetics	1
+ус_NOUN	Висящие	висеть_VERB	drooping moustache	0.000997191244661	2.18345557061	Size and shape; aesthetics	1
+ус_NOUN	гусарские	гусарский_ADJ	a hussar moustache, one with the ends curled up	0.0015514636835	4.36619708505	Size and shape; aesthetics	1
+ус_NOUN	густые	густой_ADJ	thick moustache	0.00408488247308	3.6173095593	Thickness and tactile properties	2
+ус_NOUN	длинные	длинный_ADJ	long moustache	0.00443147701806	3.42966362806	Size and shape; aesthetics	1
+ус_NOUN	жалкие	жалкий_ADJ	pathetic moustache	9.45000945001e-05	0.0	Size and shape; aesthetics	1
+ус_NOUN	жёсткие	жесткий_ADJ	stiff moustache, wiry moustache	0.00199790916483	3.13353813015	Thickness and tactile properties	2
+ус_NOUN	жидкие	жидкий_ADJ	sparse, scraggly moustache	0.00115834588208	2.87850466016	Thickness and tactile properties	2
+ус_NOUN	завитые	завитой_ADJ	curled moustache	0.000886642727313	4.94782702154	Growing, wearing, and tending a moustache	5
+ус_NOUN	заиндевевшие	заиндеветь_VERB	a moustache covered with frost	0.000449519014654	4.74142758253	Other visible properties and conditions	4
+ус_NOUN	заиндевелые	заиндевелый_ADJ	a moustache covered with frost	9.04854544632e-05	3.47209753988	Other visible properties and conditions	4
+ус_NOUN	Закрученные	закручивать_VERB	a moustache with the tips curled (jauntily) (upwards)	0.0128914176581	6.29964376327	Size and shape; aesthetics	1
+ус_NOUN	золотистые	золотистый_ADJ	golden moustache	0.000716229766509	2.91304848475	Color (natural and dyed)	0
+ус_NOUN	короткие	короткий_ADJ	short moustache	0.000790390764404	1.80417532198	Size and shape; aesthetics	1
+ус_NOUN	красивые	красивый_ADJ	handsome moustache	0.000186545895472	0.0	Size and shape; aesthetics	1
+ус_NOUN	крашеные	крашеный_ADJ	dyed moustache	0.000990630288521	4.00866881712	Color (natural and dyed)	0
+ус_NOUN	Левый	левый_ADJ	left moustache	0.00100152671756	2.04795665611	Parts	3
+ус_NOUN	липкие	липкий_ADJ	a moustache which is wet and sticky, as with sweat	0.000155611748687	1.74897689717	Other visible properties and conditions	4
+ус_NOUN	лихие	лихой_ADJ	jaunty, dashing moustache	0.000779395614128	2.96044815043	Size and shape; aesthetics	1
+ус_NOUN	маленькие	маленький_ADJ	small moustache	0.000218129539201	0.0	Size and shape; aesthetics	1
+ус_NOUN	моржовые	моржовый_ADJ	walrus moustache	0.000718132854578	5.14513013195	Size and shape; aesthetics	1
+ус_NOUN	мягкие	мягкий_ADJ	soft moustache	0.000583790095028	1.63440482971	Thickness and tactile properties	2
+ус_NOUN	надушенные	надушить_VERB	perfumed moustache	0.000442673749447	4.21460161741	Growing, wearing, and tending a moustache	5
+ус_NOUN	нафабренные	нафабривать_VERB	dyed moustache (usually black)	0.00492274032545	8.08580262832	Growing, wearing, and tending a moustache	5
+ус_NOUN	небольшие	небольшой_ADJ	small moustache	0.000728733137925	1.61493432746	Size and shape; aesthetics	1
+ус_NOUN	обвислые	обвислый_ADJ	drooping moustache	0.000815734614339	5.78004796057	Size and shape; aesthetics	1
+ус_NOUN	подкрученные	подкручивать_VERB	a moustache with the tips curled (jauntily) (upwards)	0.00368572455951	6.8415375865	Size and shape; aesthetics	1
+ус_NOUN	подстриженные	подстригать_VERB	trim, neat moustache	0.0103585012543	6.19630087432	Size and shape; aesthetics	1
+ус_NOUN	Правый	правый_ADJ	right moustache	0.000399378358902	1.02910274422	Parts	3
+ус_NOUN	прокуренные	прокуривать_VERB	nicotine-stained moustache	0.00131763879129	5.12102060081	Other visible properties and conditions	4
+ус_NOUN	пушистые	пушистый_ADJ	fluffy moustache	0.00638508678581	5.1917885426	Thickness and tactile properties	2
+ус_NOUN	пшеничные	пшеничный_ADJ	golden moustache	0.00298025580529	5.13511753266	Color (natural and dyed)	0
+ус_NOUN	пышные	пышный_ADJ	full moustache, thick moustache	0.00428873452129	4.26339178158	Size and shape; aesthetics	1
+ус_NOUN	редкие	редкий_ADJ	sparse, scraggly moustache	0.000778948081417	1.94720397426	Thickness and tactile properties	2
+ус_NOUN	роскошные	роскошный_ADJ	luxuriant moustache	0.000629849122506	2.25008093697	Size and shape; aesthetics	1
+ус_NOUN	рыжеватые	рыжеватый_ADJ	reddish moustache	0.00459654841001	5.65836001585	Color (natural and dyed)	0
+ус_NOUN	рыжие	рыжий_ADJ	red moustache	0.00998403453936	4.71019809274	Color (natural and dyed)	0
+ус_NOUN	светлые	светлый_ADJ	light moustache, blond moustache	0.00154184713287	2.53429380833	Color (natural and dyed)	0
+ус_NOUN	свисающие	свисать_VERB	drooping moustache	0.00155921103921	4.06454092284	Size and shape; aesthetics	1
+ус_NOUN	седеющие	седеть_VERB	greying moustache	0.00271014185899	5.27328516754	Color (natural and dyed)	0
+ус_NOUN	седые	седой_ADJ	grey moustache	0.0164244816023	5.22192514913	Color (natural and dyed)	0
+ус_NOUN	серебряные	серебряный_ADJ	silver moustache	0.000496503785841	1.63525698144	Color (natural and dyed)	0
+ус_NOUN	сивые	сивый_ADJ	mottled moustache	0.00156603445276	5.10768490147	Color (natural and dyed)	0
+ус_NOUN	тараканьи	тараканий_ADJ	"long, thin, straight moustache (lit. ""like a cockroach"") "	0.00306264919155	6.74903399595	Size and shape; aesthetics	1
+ус_NOUN	тёмные	темный_ADJ	dark moustache	0.000938310672824	1.89723370696	Color (natural and dyed)	0
+ус_NOUN	холёные	холеный_ADJ	well-groomed moustache	0.00155353212791	4.96841475662	Growing, wearing, and tending a moustache	5
+ус_NOUN	чёрные	черный_ADJ	black moustache	0.00359462316871	3.13307456306	Color (natural and dyed)	0
+ус_NOUN	шелковистые	шелковистый_ADJ	silky moustache	0.00122153389757	4.91115595629	Thickness and tactile properties	2
+ус_NOUN	щегольские	щегольской_ADJ	foppish moustache, dandyish moustache	0.000174855744011	3.00528596868	Size and shape; aesthetics	1
+ухо_NOUN	аккуратные	аккуратный_ADJ	small, neat ears	0.0	0.0	Size, shape, and other visible properties (human ear)	2
+ухо_NOUN	аристократические	аристократический_ADJ	aristocratic ears	0.0	0.0	Size, shape, and other visible properties (human ear)	2
+ухо_NOUN	безобразные	безобразный_ADJ	ugly ears	0.0	0.0	Size, shape, and other visible properties (human ear)	2
+ухо_NOUN	белое	белый_ADJ	a white ear	0.000310674043184	0.0	Ears exposed to cold	5
+ухо_NOUN	большие	большой_ADJ	big ears	0.000598855441966	0.0	Size, shape, and other visible properties (human ear)	2
+ухо_NOUN	вислые	вислый_ADJ	hanging ears, floppy ears	0.000271063925909	4.74728473019	Size, shape, and other visible properties (animal ear)	3
+ухо_NOUN	висячие	висячий_ADJ	floppy ears	0.000645085620455	3.67054757612	Size, shape, and other visible properties (animal ear)	3
+ухо_NOUN	внутреннее	внутренний_ADJ	inner ear	0.000747523827322	0.0	Parts	1
+ухо_NOUN	волосатые	волосатый_ADJ	hairy ears	0.000519315657367	3.04347107191	Size, shape, and other visible properties (human ear)	2
+ухо_NOUN	длинные	длинный_ADJ	long ears	0.00199252189314	1.83716381784	Size, shape, and other visible properties (animal ear)	3
+ухо_NOUN	заросшие	зарастать_VERB	hairy ears	0.000215933168684	1.32106067881	Size, shape, and other visible properties (human ear)	2
+ухо_NOUN	изящные	изящный_ADJ	elegant ears	7.51757232531e-05	0.0	Size, shape, and other visible properties (human ear)	2
+ухо_NOUN	короткие	короткий_ADJ	short ears	0.000140772371076	0.0	Size, shape, and other visible properties (animal ear)	3
+ухо_NOUN	красивые	красивый_ADJ	pretty, beautiful ears	0.000227185596433	0.0	Size, shape, and other visible properties (human ear)	2
+ухо_NOUN	красные	красный_ADJ	red ears	0.000638488659784	0.0	Color	4
+ухо_NOUN	левое	левый_ADJ	the left ear	0.00579857095328	3.12526628111	adjectival modifier	0
+ухо_NOUN	лохматые	лохматый_ADJ	shaggy ears	0.000365908579149	2.28603559928	Size, shape, and other visible properties (animal ear)	3
+ухо_NOUN	маленькие	маленький_ADJ	small ears	0.000942790497322	0.0	Size, shape, and other visible properties (human ear)	2
+ухо_NOUN	мохнатые	мохнатый_ADJ	shaggy ears	0.000593773856985	2.83296998197	Size, shape, and other visible properties (animal ear)	3
+ухо_NOUN	наружное	наружный_ADJ	outer ear	0.000363886831195	1.57542666852	Parts	1
+ухо_NOUN	некрасивые	некрасивый_ADJ	Unattractive ears	8.25275435677e-05	0.0	Size, shape, and other visible properties (human ear)	2
+ухо_NOUN	обмороженное	обмораживать_VERB	frostbitten ear	0.000209806977581	3.75110183637	Ears exposed to cold	5
+ухо_NOUN	острые	острый_ADJ	sharp ears	0.00132429032228	1.88862379493	Size, shape, and other visible properties (animal ear)	3
+ухо_NOUN	отмороженное	отмораживать_VERB	frostbitten ear	0.000804721030043	4.6239362868	Ears exposed to cold	5
+ухо_NOUN	оттопыренные	оттопыривать_VERB	protruding ears	0.00565845895407	6.01693826023	Size, shape, and other visible properties (human ear)	2
+ухо_NOUN	очаровательные	очаровательный_ADJ	charming ears	0.0	0.0	Size, shape, and other visible properties (human ear)	2
+ухо_NOUN	правое	правый_ADJ	The right ear	0.00369808577052	2.46883224293	adjectival modifier	0
+ухо_NOUN	прелестные	прелестный_ADJ	lovely ears	0.0	0.0	Size, shape, and other visible properties (human ear)	2
+ухо_NOUN	пунцовые	пунцовый_ADJ	crimson ears	0.000147392624473	2.37864257784	Color	4
+ухо_NOUN	пушистые	пушистый_ADJ	furry ears	0.000195492501466	1.5600389313	Size, shape, and other visible properties (animal ear)	3
+ухо_NOUN	рваное	рваный_ADJ	lacerated ear(s)	0.00089003852198	3.02797167959	Size, shape, and other visible properties (animal ear)	3
+ухо_NOUN	розовые	розовый_ADJ	pink ears	0.00165936263456	2.34717665694	Color	4
+ухо_NOUN	среднее	средний_ADJ	middle ear	0.00134318334453	1.5902330646	Parts	1
+ухо_NOUN	стоячие	стоячий_ADJ	upright ears	0.0003511801115	3.00286100386	Size, shape, and other visible properties (animal ear)	3
+ухо_NOUN	тонкое	тонкий_ADJ	a discriminating ear	0.000504228644771	0.0	Hearing	6
+ухо_NOUN	хрящеватые	хрящеватый_ADJ	fleshless ears	0.000391855435487	5.31949263891	Size, shape, and other visible properties (human ear)	2
+ухо_NOUN	чудные	чудный_ADJ	wonderful ears	7.59512899061e-05	0.0	Size, shape, and other visible properties (human ear)	2
+ухо_NOUN	чуткое	чуткий_ADJ	a sensitive ear, good ears; a discriminating ear	0.00488739551804	4.71306605881	Hearing	6
+хохот_NOUN	весёлый	веселый_ADJ	merry laughter	0.00243276519366	3.65965531026	Positive emotions	5
+хохот_NOUN	гомерический	гомерический_ADJ	homeric laughter	0.0181186137154	8.33825807686	Loudness and other auditory properties	4
+хохот_NOUN	громкий	громкий_ADJ	loud guffawing	0.0144240819455	5.66988988692	Loudness and other auditory properties	4
+хохот_NOUN	громоподобный	громоподобный_ADJ	thunderous laughter	0.000216520515319	4.48015415552	Loudness and other auditory properties	4
+хохот_NOUN	дикий	дикий_ADJ	wild laughter	0.00287308461026	3.88954574752	Loudness and other auditory properties	4
+хохот_NOUN	дружный	дружный_ADJ	general laughter	0.0170264518091	6.24560222501	Other expressions	3
+хохот_NOUN	жеребячий	жеребячий_ADJ	lewd laughter	0.00110460620789	6.97145060341	Loudness and other auditory properties	4
+хохот_NOUN	здоровый	здоровый_ADJ	robust laughter	0.000374489757705	1.82926986173	Other properties	2
+хохот_NOUN	злобный	злобный_ADJ	spiteful laughter	0.00157946692991	3.97060322919	Negative emotions	0
+хохот_NOUN	злорадный	злорадный_ADJ	malicious laughter	0.00123736852959	5.36844358131	Negative emotions	0
+хохот_NOUN	истерический	истерический_ADJ	hysterical laughter	0.00650976464697	5.86726544341	Other emotional states	1
+хохот_NOUN	неудержимый	неудержимый_ADJ	irrepressible laughter	0.0104058272633	6.45716941852	Other properties	2
+хохот_NOUN	общий	общий_ADJ	general laughter	0.00176844339086	3.23703938406	Other expressions	3
+хохот_NOUN	презрительный	презрительный_ADJ	contemptuous laughter	0.000772021925423	3.53746339893	Negative emotions	0
+хохот_NOUN	раскатистый	раскатистый_ADJ	peals of laughter	0.00586095392078	6.71645888923	Loudness and other auditory properties	4
+хохот_NOUN	саркастический	саркастический_ADJ	sarcastic laughter	0.000208572322453	3.72825747089	Negative emotions	0
+хохот_NOUN	сатанинский	сатанинский_ADJ	satanic laughter	0.00218818380744	5.59658493812	Negative emotions	0
+челюсть_NOUN	выдвинутая	выдвигать_VERB	protruding jaw	0.000891583452211	3.15298575009	Size, shape, and strength	0
+челюсть_NOUN	сильные	сильный_ADJ	strong jaws	0.000314903600135	1.81021205059	Size, shape, and strength	0
+челюсть_NOUN	слабые	слабый_ADJ	weak jaws	9.8363880783e-05	0.0	Size, shape, and strength	0
+шея_NOUN	белая	белый_ADJ	a white neck	0.00141180390833	1.60766479738	Color	1
+шея_NOUN	бронзовая	бронзовый_ADJ	a bronzed neck	0.000395467937437	2.04073863851	Color	1
+шея_NOUN	бычья	бычий_ADJ	a bull's neck	0.00247870566497	5.52656519055	Strength	3
+шея_NOUN	гладкая	гладкий_ADJ	a smooth neck	0.0002204950113	1.11332432141	Other visible properties	2
+шея_NOUN	грязная	грязный_ADJ	a dirty neck	0.000619270069062	1.44279075974	Other visible properties	2
+шея_NOUN	длинная	длинный_ADJ	a long neck	0.00562964660717	3.15068599624	Size and shape; aesthetics	0
+шея_NOUN	жилистая	жилистый_ADJ	a sinewy neck	0.00407711056947	5.57151508514	Other visible properties	2
+шея_NOUN	жирная	жирный_ADJ	a fat neck	0.000946693853772	2.53594094539	Size and shape; aesthetics	0
+шея_NOUN	загорелая	загорелый_ADJ	a tanned neck	0.00276462949776	4.40497847492	Color	1
+шея_NOUN	заросшая	зарастать_VERB	a neck covered with hair	0.000273935077387	1.61483818795	Other visible properties	2
+шея_NOUN	кирпичная	кирпичный_ADJ	a brick-red neck	0.0	0.0	Color	1
+шея_NOUN	коричневая	коричневый_ADJ	a brown neck	0.000398651831986	1.65411993412	Color	1
+шея_NOUN	короткая	короткий_ADJ	a short neck	0.00268888973645	2.57198491096	Size and shape; aesthetics	0
+шея_NOUN	красивая	красивый_ADJ	a beautiful neck	0.000559967420077	0.0	Size and shape; aesthetics	0
+шея_NOUN	красная	красный_ADJ	a red neck	0.000831522053754	1.12613142303	Color	1
+шея_NOUN	кривая	кривой_ADJ	a crooked neck	0.000386012317302	1.51453461638	Size and shape; aesthetics	0
+шея_NOUN	лебединая	лебединый_ADJ	a swan-like neck	0.00407907122686	5.85510087758	Size and shape; aesthetics	0
+шея_NOUN	морщинистая	морщинистый_ADJ	a wrinkled neck	0.00210711150132	4.72680081417	Other visible properties	2
+шея_NOUN	мощная	мощный_ADJ	a powerful neck	0.00125659713496	2.20316106874	Strength	3
+шея_NOUN	мраморная	мраморный_ADJ	a marble neck	0.000116310626914	0.0	Color	1
+шея_NOUN	мускулистая	мускулистый_ADJ	a muscular neck	0.000710148465414	3.85729978668	Strength	3
+шея_NOUN	нежная	нежный_ADJ	a soft neck	0.00141446490526	2.25665875332	Other visible properties	2
+шея_NOUN	неподвижная	неподвижный_ADJ	a stiff neck	0.000212235369024	0.0	Medical conditions; inflicting and sustaining injuries; hanging	4
+шея_NOUN	полная	полный_ADJ	a full neck	0.00023642685646	0.0	Size and shape; aesthetics	0
+шея_NOUN	потная	потный_ADJ	a sweaty neck	0.0013339725285	3.6323003734	Other visible properties	2
+шея_NOUN	прямая	прямой_ADJ	a straight neck	0.000272217307188	0.0	Size and shape; aesthetics	0
+шея_NOUN	птичья	птичий_ADJ	a bird-like neck	0.000363335419148	2.08448561255	Size and shape; aesthetics	0
+шея_NOUN	стройная	стройный_ADJ	a well-molded neck	0.001017775984	2.48436785548	Size and shape; aesthetics	0
+шея_NOUN	толстая	толстый_ADJ	a plump neck	0.00347845476336	2.95522408298	Size and shape; aesthetics	0
+шея_NOUN	тонкая	тонкий_ADJ	a thin neck; a slender neck	0.00574590141145	3.31194296164	Size and shape; aesthetics	0
+шея_NOUN	точёная	точеный_ADJ	a well-turned neck	0.000453411924734	4.06203791045	Size and shape; aesthetics	0
+шея_NOUN	худая	худой_ADJ	a gaunt neck	0.00240493010672	2.97535908965	Size and shape; aesthetics	0
+шея_NOUN	чёрная	черный_ADJ	a neck brown from the sun	0.000390903760403	0.0	Color	1
+шея_NOUN	чистая	чистый_ADJ	a clean neck	0.000189766824015	0.0	Other visible properties	2
+щека_NOUN	бархатные	бархатный_ADJ	velvety cheeks	0.000133070150147	0.0	Tactile properties	0
+щека_NOUN	бледные	бледный_ADJ	pale cheeks	0.00712205530406	3.93147898174	Color	3
+щека_NOUN	ввалившиеся	вваливаться_VERB	sunken cheeks	0.00560376890652	5.39334623226	Characteristics of age; current condition	2
+щека_NOUN	висящие	висеть_VERB	sagging cheeks; sagging jowls	0.000265586614435	0.0	Size and shape; aesthetics	1
+щека_NOUN	впалые	впалый_ADJ	hollow cheeks, sunken cheeks	0.0157337680822	7.05601189231	Characteristics of age; current condition	2
+щека_NOUN	выбритые	выбривать_VERB	shaven cheeks	0.00382543917048	5.18670834685	Tactile properties	0
+щека_NOUN	горячие	горячий_ADJ	hot cheeks	0.00181232149207	2.35413418399	Tactile properties	0
+щека_NOUN	горящие	гореть_VERB	burning cheeks	0.00547158026234	3.52665691542	Sensations	5
+щека_NOUN	дряблые	дряблый_ADJ	sagging cheeks, flaccid cheeks	0.00234070221066	5.26200784776	Characteristics of age; current condition	2
+щека_NOUN	жирные	жирный_ADJ	fat cheeks	0.00143763734571	2.98941689106	Size and shape; aesthetics	1
+щека_NOUN	заросшие	зарастать_VERB	bristly cheeks, cheeks in need of a shave	0.000891464229998	2.82088473465	Tactile properties	0
+щека_NOUN	колючие	колючий_ADJ	bristly cheeks, prickly cheeks	0.00125950249651	3.2098111544	Tactile properties	0
+щека_NOUN	красные	красный_ADJ	red cheeks	0.00140388298799	1.77272039713	Color	3
+щека_NOUN	морщинистые	морщинистый_ADJ	lined cheeks, wrinkled cheeks	0.00279734506523	5.0191574107	Characteristics of age; current condition	2
+щека_NOUN	мясистые	мясистый_ADJ	fleshy cheeks	0.00154114866947	4.58790271424	Size and shape; aesthetics	1
+щека_NOUN	напудренные	напудривать_VERB	powdered cheeks	0.000634601655253	4.45684872803	Make-up	4
+щека_NOUN	нарумяненные	нарумянивать_VERB	rouged cheeks	0.00128548473487	5.8703039114	Make-up	4
+щека_NOUN	небритые	небритый_ADJ	unshaven cheeks	0.00662335364158	5.79533638918	Tactile properties	0
+щека_NOUN	нежные	нежный_ADJ	soft cheeks	0.00098976755018	1.96895178659	Tactile properties	0
+щека_NOUN	обветренные	обветренный_ADJ	chapped/weathered cheeks	0.000852378669224	5.09677521239	Characteristics of age; current condition	2
+щека_NOUN	обвислые	обвислый_ADJ	sagging cheeks; sagging jowls	0.000913929358637	5.88781840956	Size and shape; aesthetics	1
+щека_NOUN	обвисшие	обвисать_VERB	sagging cheeks; sagging jowls	0.0012515318228	4.6974263313	Size and shape; aesthetics	1
+щека_NOUN	обмороженные	обмораживать_VERB	frost-bitten cheeks	0.000479987200341	4.58594958862	Characteristics of age; current condition	2
+щека_NOUN	одутловатые	одутловатый_ADJ	puffy cheeks	0.0016393442623	5.40485804535	Characteristics of age; current condition	2
+щека_NOUN	отвислые	отвислый_ADJ	sagging cheeks; sagging jowls	0.000909772021835	5.45735199925	Size and shape; aesthetics	1
+щека_NOUN	отвисшие	отвисать_VERB	sagging cheeks; sagging jowls	0.0011580775912	4.89107786514	Size and shape; aesthetics	1
+щека_NOUN	побледневшие	побледнеть_VERB	pale cheeks, cheeks turned pale	0.00157332342722	3.30264727648	Color	3
+щека_NOUN	полные	полный_ADJ	full cheeks	0.000527015835571	0.0	Size and shape; aesthetics	1
+щека_NOUN	пунцовые	пунцовый_ADJ	scarlet cheeks	0.000776819700148	4.06078819048	Color	3
+щека_NOUN	пухлые	пухлый_ADJ	plump cheeks	0.00476639924493	4.81405592928	Size and shape; aesthetics	1
+щека_NOUN	пылающие	пылать_VERB	burning cheeks	0.00792799106458	4.92918226202	Sensations	5
+щека_NOUN	раскрасневшийся	раскраснеться_VERB	red-cheeked	0.00197959494442	4.6434833074	Color	3
+щека_NOUN	распухшая	распухать_VERB	swollen cheek	0.00100482315113	3.82605596033	Characteristics of age; current condition	2
+щека_NOUN	розовые	розовый_ADJ	rosy cheeks	0.00589642664197	3.82627458226	Color	3
+щека_NOUN	румяные	румяный_ADJ	ruddy cheeks, rosy cheeks	0.0102454350895	5.36765257544	Color	3
+щека_NOUN	свежие	свежий_ADJ	fresh cheeks, healthy cheeks	0.000474887214287	1.08274261388	Characteristics of age; current condition	2
+щека_NOUN	старческие	старческий_ADJ	cheeks like those of an old person	0.000474405806727	2.5427672959	Characteristics of age; current condition	2
+щека_NOUN	толстые	толстый_ADJ	fat cheeks	0.00227659421505	2.61546938953	Size and shape; aesthetics	1
+щека_NOUN	тугие	тугой_ADJ	firm cheeks	0.00104411380841	3.33445444914	Size and shape; aesthetics	1
+щека_NOUN	упругие	упругий_ADJ	firm cheeks	0.000483945120623	2.71429751679	Size and shape; aesthetics	1
+щека_NOUN	холодные	холодный_ADJ	cold cheeks	0.000778427576296	1.41801558441	Tactile properties	0
+щека_NOUN	худые	худой_ADJ	thin cheeks	0.00165856732954	2.66157988261	Size and shape; aesthetics	1
+щека_NOUN	щетинистые	щетинистый_ADJ	bristly cheeks, cheeks in need of a shave	0.000586666666667	4.78824762374	Tactile properties	0
+щиколотка_NOUN	распухшая	распухать_VERB	a swollen ankle	0.000924641701341	4.791977637	Medical conditions; sustaining injuries	1
+щиколотка_NOUN	толстая	толстый_ADJ	a fat ankle	0.000208437552109	2.93953718002	Size and shape	0
+щиколотка_NOUN	узкая	узкий_ADJ	a narrow ankle	0.000328924182976	3.39956630358	Size and shape	0
+щиколотка_NOUN	широкая	широкий_ADJ	a wide ankle	0.0	1.30137802057	Size and shape	0
+язык_NOUN	белый	белый_ADJ	white tongue	0.000199539245742	0.0	Color and tactile properties, including those due to illness	3
+язык_NOUN	большой	большой_ADJ	big tongue	0.000142833854729	0.0	Size and shape	2
+язык_NOUN	воспалённый	воспаленный_ADJ	inflamed tongue	0.0	1.40360212497	Color and tactile properties, including those due to illness	3
+язык_NOUN	высунутый	высовывать_VERB	a tongue hanging out of one's mouth	0.00780906437814	5.4489030203	Movements and gestures	0
+язык_NOUN	длинный	длинный_ADJ	long tongue	0.00148574305725	1.15159904497	Size and shape	2
+язык_NOUN	жёлтый	желтый_ADJ	yellow tongue	0.000342962258562	0.0	Color and tactile properties, including those due to illness	3
+язык_NOUN	короткий	короткий_ADJ	short tongue	0.000144535823204	0.0	Size and shape	2
+язык_NOUN	красный	красный_ADJ	red tongue	0.00105227914096	0.0	Color and tactile properties, including those due to illness	3
+язык_NOUN	маленький	маленький_ADJ	small tongue	0.000110506395558	0.0	Size and shape	2
+язык_NOUN	мокрый	мокрый_ADJ	wet tongue	0.000137342985493	0.0	Color and tactile properties, including those due to illness	3
+язык_NOUN	нежный	нежный_ADJ	soft tongue	0.0	0.0	Color and tactile properties, including those due to illness	3
+язык_NOUN	обложенный	обкладывать_VERB	furred, spotty tongue	0.000173089853606	1.6107966183	Color and tactile properties, including those due to illness	3
+язык_NOUN	острый	острый_ADJ	sharp tongue	0.000798222337281	1.15326835756	Size and shape	2
+язык_NOUN	подвижный	подвижный_ADJ	mobile tongue	0.0	0.0	Movements and gestures	0
+язык_NOUN	распухший	распухать_VERB	swollen tongue	0.000457204329994	2.9822255989	Sensations and medical conditions; inflicting and sustaining injuries	1
+язык_NOUN	розовый	розовый_ADJ	pink tongue	0.000552654757724	1.07074355263	Color and tactile properties, including those due to illness	3
+язык_NOUN	сухой	сухой_ADJ	dry tongue	0.000697855152762	0.0	Color and tactile properties, including those due to illness	3
+язык_NOUN	шершавый	шершавый_ADJ	rough tongue	0.000740292078875	3.51229647935	Color and tactile properties, including those due to illness	3
